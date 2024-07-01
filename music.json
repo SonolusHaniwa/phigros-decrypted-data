@@ -1,0 +1,2388 @@
+[
+    {
+        "charter" : [ "Barbarianerman", "Arenn Saki", "Barbarianerman vs. NerSAN" ],
+        "composer" : "SunsetRay",
+        "hasLegacy" : false,
+        "id" : 1,
+        "illustrator" : "艾若拉",
+        "level" : [ 1.0, 6.5, 12.5 ],
+        "title" : "Glaciaxion"
+    },
+    {
+        "charter" : [ "Barbarianerman", "Barbarianerman", "Barbarianerman" ],
+        "composer" : "NceS",
+        "hasLegacy" : false,
+        "id" : 2,
+        "illustrator" : "海产",
+        "level" : [ 3.5, 7.5, 12.7 ],
+        "title" : "Eradication Catastrophe"
+    },
+    {
+        "charter" : [ "Ctymax", "Ctymax", "Ctymax", "_鉄 (Isotope 59)" ],
+        "composer" : "Frums",
+        "hasLegacy" : false,
+        "id" : 3,
+        "illustrator" : "Ctymax",
+        "level" : [ 4.5, 10.4, 13.7, 15.5 ],
+        "title" : "Credits"
+    },
+    {
+        "charter" : [ "Su1fuR", "Su1fuR", "XMT小咩兔 vs Barbarianerman" ],
+        "composer" : "Likey",
+        "hasLegacy" : false,
+        "id" : 4,
+        "illustrator" : "DoublePian",
+        "level" : [ 5.0, 9.4, 13.7 ],
+        "title" : "Dlyrotz"
+    },
+    {
+        "charter" : [ "Arenn Saki&Catcats", "Arenn Saki&Catcats", "Arenn Saki&Catcats" ],
+        "composer" : "CrossingSound",
+        "hasLegacy" : false,
+        "id" : 5,
+        "illustrator" : "赤芽",
+        "level" : [ 4.5, 10.5, 13.4 ],
+        "title" : "Engine x Start!! (melody mix)"
+    },
+    {
+        "charter" : 
+        [
+            "Catcats & 百九十八",
+            "Catcats & 百九十八",
+            "Catcats & 百九十八"
+        ],
+        "composer" : "姜米條",
+        "hasLegacy" : false,
+        "id" : 6,
+        "illustrator" : "winder",
+        "level" : [ 4.0, 8.4, 12.8 ],
+        "title" : "光"
+    },
+    {
+        "charter" : 
+        [
+            "小鹏 fixed by Barbarianerman",
+            "小鹏 fixed by Barbarianerman",
+            "百九十八"
+        ],
+        "composer" : "Ctymax feat. NceS",
+        "hasLegacy" : false,
+        "id" : 7,
+        "illustrator" : "翠冷兮",
+        "level" : [ 6.5, 10.7, 13.4 ],
+        "title" : "Winter ↑cube↓"
+    },
+    {
+        "charter" : [ "M3d1uM", "M3d1uM", "Barbarianerman feat. Gausbon" ],
+        "composer" : "Tetrajectory feat.Ctymax",
+        "hasLegacy" : false,
+        "id" : 8,
+        "illustrator" : "IvyTowers",
+        "level" : [ 5.5, 9.7, 14.4 ],
+        "title" : "Cipher : /2&//<|0"
+    },
+    {
+        "charter" : [ "月下樱&115", "月下樱&115", "XMT小咩兔" ],
+        "composer" : "OnlyMyBlackScore",
+        "hasLegacy" : false,
+        "id" : 9,
+        "illustrator" : "L-sp4",
+        "level" : [ 5.5, 11.4, 14.8 ],
+        "title" : "混乱-Confusion"
+    },
+    {
+        "charter" : [ "AUTO. SHOOTER.", "AUTO. SHOOTER.", "AUTO. SHOOTER. fixed by Ctymax" ],
+        "composer" : "MYUKKE.",
+        "hasLegacy" : false,
+        "id" : 10,
+        "illustrator" : "ViscerA & Psycholine",
+        "level" : [ 4.0, 11.3, 14.8 ],
+        "title" : "FULi AUTO SHOOTER"
+    },
+    {
+        "charter" : [ "阿爽", "阿爽", "CN_115+TangScend" ],
+        "composer" : "SOTUI",
+        "hasLegacy" : false,
+        "id" : 11,
+        "illustrator" : "CH",
+        "level" : [ 5.5, 8.8, 12.6 ],
+        "title" : "HumaN"
+    },
+    {
+        "charter" : [ "阿爽", "阿爽", "晨 vs. 阿爽" ],
+        "composer" : "Bluewind",
+        "hasLegacy" : false,
+        "id" : 12,
+        "illustrator" : "老张",
+        "level" : [ 4.5, 11.8, 15.1 ],
+        "title" : "[PRAW]"
+    },
+    {
+        "charter" : [ "阿爽", "阿爽", "NerSAN" ],
+        "composer" : "Normal1zer",
+        "hasLegacy" : false,
+        "id" : 13,
+        "illustrator" : "艾是Abby",
+        "level" : [ 4.5, 11.9, 15.1 ],
+        "title" : "Pixel Rebelz"
+    },
+    {
+        "charter" : [ "Su1fuR", "Su1fuR", "StupiGGy" ],
+        "composer" : "SunsetRay/NceS",
+        "hasLegacy" : false,
+        "id" : 14,
+        "illustrator" : "IvyTowers",
+        "level" : [ 5.5, 11.4, 14.8 ],
+        "title" : "Cereris"
+    },
+    {
+        "charter" : [ "Clutter", "Clutter", "分化者 fixed by Barbarianerman" ],
+        "composer" : "Normal1zer",
+        "hasLegacy" : false,
+        "id" : 15,
+        "illustrator" : "cycats",
+        "level" : [ 5.5, 11.8, 15.7 ],
+        "title" : "Non-Melodic Ragez (MUG Edit)"
+    },
+    {
+        "charter" : [ "百九十八", "百九十八", "百九十八" ],
+        "composer" : "MonstDeath",
+        "hasLegacy" : false,
+        "id" : 16,
+        "illustrator" : "笔记RE",
+        "level" : [ 4.0, 7.0, 12.5 ],
+        "title" : "Sultan Rage"
+    },
+    {
+        "charter" : [ "M3d1uM", "M3d1uM", "JKy" ],
+        "composer" : "Antistar feat. Ctymax",
+        "hasLegacy" : false,
+        "id" : 17,
+        "illustrator" : "xperz",
+        "level" : [ 5.5, 10.4, 13.5 ],
+        "title" : "Class Memories"
+    },
+    {
+        "charter" : [ "Su1fuR", "Su1fuR", "-StupiGGy- fixed by 晨" ],
+        "composer" : "Itsuki",
+        "hasLegacy" : false,
+        "id" : 18,
+        "illustrator" : "喵n葵",
+        "level" : [ 5.0, 9.4, 13.4 ],
+        "title" : "-SURREALISM-"
+    },
+    {
+        "charter" : 
+        [
+            "Uvernight fixed by Barbarianerman",
+            "Uvernight fixed by Barbarianerman",
+            "Uvernight fixed by 百九十八"
+        ],
+        "composer" : "Megalo_PaleWhite",
+        "hasLegacy" : false,
+        "id" : 19,
+        "illustrator" : "笔记RE",
+        "level" : [ 4.5, 9.3, 14.2 ],
+        "title" : "Bonus Time"
+    },
+    {
+        "charter" : [ "Su1fuR", "Su1fuR", "B B M pow" ],
+        "composer" : "Tanchiky",
+        "hasLegacy" : true,
+        "id" : 20,
+        "illustrator" : "Karameru",
+        "level" : [ 5.5, 11.5, 14.6 ],
+        "title" : "ENERGY SYNERGY MATRIX"
+    },
+    {
+        "charter" : [ "HCC!!!", "HCC!!!", "HCC!!!" ],
+        "composer" : "FLuoRiTe/姜米條",
+        "hasLegacy" : false,
+        "id" : 21,
+        "illustrator" : "NEKO&海产",
+        "level" : [ 2.0, 8.6, 13.1 ],
+        "title" : "NYA!!! (Phigros ver.)"
+    },
+    {
+        "charter" : [ "鲲&百九十八", "鲲&百九十八", "鲲&百九十八" ],
+        "composer" : "1N6Fs",
+        "hasLegacy" : false,
+        "id" : 22,
+        "illustrator" : "IvyTowers",
+        "level" : [ 3.0, 8.7, 13.3 ],
+        "title" : "JunXion Between Life And Death(VIP Mix)"
+    },
+    {
+        "charter" : [ "Ctymax", "Ctymax", "Ctymax" ],
+        "composer" : "Ju_E",
+        "hasLegacy" : false,
+        "id" : 23,
+        "illustrator" : "Haight",
+        "level" : [ 4.5, 9.9, 13.7 ],
+        "title" : "cryout"
+    },
+    {
+        "charter" : [ "百九十八", "百九十八", "百九十八" ],
+        "composer" : "影虎。",
+        "hasLegacy" : false,
+        "id" : 24,
+        "illustrator" : "英英英",
+        "level" : [ 7.0, 11.9, 15.1 ],
+        "title" : "Reimei"
+    },
+    {
+        "charter" : [ "M3d1uM", "M3d1uM", "奥術 ~The Empery~" ],
+        "composer" : "rider",
+        "hasLegacy" : false,
+        "id" : 25,
+        "illustrator" : "1B",
+        "level" : [ 6.0, 11.6, 15.2 ],
+        "title" : "尊師 ～The Guru～"
+    },
+    {
+        "charter" : 
+        [
+            "無極☆雷鳴 ~ ♫死の序曲♫",
+            "無極☆雷鳴 ~ ♫死の序曲♫",
+            "無極☆雷鳴 ~ ♫死の序曲♫",
+            "無極☆雷鳴 ~ ♫死の序曲♫"
+        ],
+        "composer" : "姜米條☆颶風 ~ ♫元力上人♫",
+        "hasLegacy" : false,
+        "id" : 26,
+        "illustrator" : "昔璃☆暴雨 ~ ♫危難聖帝♫",
+        "level" : [ 7.5, 13.3, 15.2, 16.3 ],
+        "title" : "Spasmodic"
+    },
+    {
+        "charter" : 
+        [
+            "亚树见希子 & 百九十八",
+            "亚树见希子 & 百九十八",
+            "亚树见希子 & 百九十八"
+        ],
+        "composer" : "rider",
+        "hasLegacy" : false,
+        "id" : 27,
+        "illustrator" : "笔记RE",
+        "level" : [ 3.0, 7.5, 12.7 ],
+        "title" : "Leave All Behind"
+    },
+    {
+        "charter" : [ "阿♪爽", "阿♪爽", "阿♪爽" ],
+        "composer" : "P4koo feat. つゆり花鈴",
+        "hasLegacy" : false,
+        "id" : 28,
+        "illustrator" : "Doro-nyong & Ratif",
+        "level" : [ 4.5, 7.0, 12.7 ],
+        "title" : "Colorful Days♪"
+    },
+    {
+        "charter" : [ "百九十八", "百九十八", "百九十八" ],
+        "composer" : "dandeless",
+        "hasLegacy" : false,
+        "id" : 29,
+        "illustrator" : "snake.ribs",
+        "level" : [ 6.0, 10.7, 14.5 ],
+        "title" : "micro.wav"
+    },
+    {
+        "charter" : [ "Barbarianerman", "Barbarianerman", "Barbarianerman" ],
+        "composer" : "姜米條",
+        "hasLegacy" : false,
+        "id" : 30,
+        "illustrator" : "昔璃&TNiK",
+        "level" : [ 6.0, 9.3, 14.6 ],
+        "title" : "重生"
+    },
+    {
+        "charter" : [ "Ctymax", "晨", "晨 vs. Ctymax" ],
+        "composer" : "MYUKKE.",
+        "hasLegacy" : false,
+        "id" : 31,
+        "illustrator" : "青鸟",
+        "level" : [ 5.5, 11.8, 15.4 ],
+        "title" : "NO ONE YES MAN"
+    },
+    {
+        "charter" : 
+        [
+            "六回目Traveler Scend",
+            "六回目Traveler Scend",
+            "六回目Traveler Scend as \"Knight of Arq\""
+        ],
+        "composer" : "Se-U-Ra",
+        "hasLegacy" : false,
+        "id" : 32,
+        "illustrator" : "鲸弑",
+        "level" : [ 6.5, 12.1, 15.7 ],
+        "title" : "望影の方舟Six"
+    },
+    {
+        "charter" : 
+        [
+            "信仰の剣『生』",
+            "平川の剣『士』",
+            "夜明の剣『靈』",
+            "断罪の剣『神』"
+        ],
+        "composer" : "Se-U-Ra",
+        "hasLegacy" : false,
+        "id" : 33,
+        "illustrator" : "Se-U-Ra",
+        "level" : [ 7.5, 12.7, 15.6, 16.7 ],
+        "title" : "Igallta"
+    },
+    {
+        "charter" : 
+        [
+            "Barbarianerman vs. Alloces",
+            "Barbarianerman vs. Alloces",
+            "Barbarianerman vs. Alloces"
+        ],
+        "composer" : "WyvernP",
+        "hasLegacy" : false,
+        "id" : 34,
+        "illustrator" : "汉堡",
+        "level" : [ 2.5, 6.0, 12.6 ],
+        "title" : "Clock Paradox"
+    },
+    {
+        "charter" : [ "TimiTini", "XMT小咩兔", "Ctymax vs. Barbarianerman" ],
+        "composer" : "Hundotte",
+        "hasLegacy" : false,
+        "id" : 35,
+        "illustrator" : "幽灵星",
+        "level" : [ 3.5, 9.8, 13.9 ],
+        "title" : "Chronologika"
+    },
+    {
+        "charter" : [ "晨 vs. XMT小咩兔", "晨 vs. XMT小咩兔", "NerSAN" ],
+        "composer" : "P4koo",
+        "hasLegacy" : false,
+        "id" : 36,
+        "illustrator" : "青鸟",
+        "level" : [ 5.0, 8.1, 14.4 ],
+        "title" : "Nick of Time"
+    },
+    {
+        "charter" : [ "Pcat", "Rikko", "時の希 & 百九十八" ],
+        "composer" : "Lime",
+        "hasLegacy" : false,
+        "id" : 37,
+        "illustrator" : "inukoro",
+        "level" : [ 4.5, 11.1, 15.3 ],
+        "title" : "Chronomia"
+    },
+    {
+        "charter" : 
+        [
+            "Pcat『Scatter』",
+            "阿爽『Destroy』",
+            "NerSAN vs. 阿爽 『Collapse』"
+        ],
+        "composer" : "SunsetRay",
+        "hasLegacy" : false,
+        "id" : 38,
+        "illustrator" : "老张",
+        "level" : [ 3.0, 11.5, 15.9 ],
+        "title" : "Chronos Collapse - La Campanella"
+    },
+    {
+        "charter" : 
+        [
+            "RDRT -p 19:08:31",
+            "RDRT -p 20:02:21",
+            "RDRT -p 20:08:31",
+            "RWND -p 16493:62786:92551"
+        ],
+        "composer" : "Team Grimoire",
+        "hasLegacy" : false,
+        "id" : 39,
+        "illustrator" : "犀牛坨动画工坊",
+        "level" : [ 7.0, 12.7, 15.7, 16.8 ],
+        "title" : "Rrhar'il"
+    },
+    {
+        "charter" : [ "Likey", "Likey", "Likey feat. 198" ],
+        "composer" : "LandRoot",
+        "hasLegacy" : false,
+        "id" : 40,
+        "illustrator" : "笔记RE",
+        "level" : [ 3.5, 8.4, 13.6 ],
+        "title" : "Crave Wave"
+    },
+    {
+        "charter" : [ "M3d1uM", "Alloces", "Ctymax drives in BlindForest" ],
+        "composer" : "Attoclef",
+        "hasLegacy" : false,
+        "id" : 41,
+        "illustrator" : "翠冷兮",
+        "level" : [ 5.0, 9.5, 14.4 ],
+        "title" : "The Chariot ~REVIIVAL~"
+    },
+    {
+        "charter" : [ "XMT小咩兔", "XMT小咩兔", "Pcat & 百九十八" ],
+        "composer" : "米虾Fomiki & 初云CLoudie",
+        "hasLegacy" : false,
+        "id" : 42,
+        "illustrator" : "子狼",
+        "level" : [ 5.5, 11.2, 14.8 ],
+        "title" : "Luminescence"
+    },
+    {
+        "charter" : [ "NerSAN", "NerSAN", "Ner as \"SPΔDE\"" ],
+        "composer" : "nm-y & Kry.exe",
+        "hasLegacy" : false,
+        "id" : 43,
+        "illustrator" : "NerSAN",
+        "level" : [ 6.0, 11.6, 15.8 ],
+        "title" : "Retribution"
+    },
+    {
+        "charter" : 
+        [
+            "{Demolition,Devastation,Destruction}",
+            "{Devastation,Destruction}",
+            "{Destruction}",
+            "∅"
+        ],
+        "composer" : "Normal1zer vs. Broken Nerdz",
+        "hasLegacy" : false,
+        "id" : 44,
+        "illustrator" : "rN",
+        "level" : [ 7.0, 13.1, 15.8, 16.6 ],
+        "title" : "DESTRUCTION 3,2,1"
+    },
+    {
+        "charter" : [ "De Fiance", "Doubt Ful", "Divination Fortune", "unDefined Future" ],
+        "composer" : "Sakuzyo",
+        "hasLegacy" : false,
+        "id" : 45,
+        "illustrator" : "knife美工刀",
+        "level" : [ 7.5, 13.5, 15.9, 16.7 ],
+        "title" : "Distorted Fate"
+    },
+    {
+        "charter" : [ "Lumiere", "Lumiere", "Gausbon" ],
+        "composer" : "LeaF",
+        "hasLegacy" : false,
+        "id" : 46,
+        "illustrator" : "海产",
+        "level" : [ 5.0, 9.8, 14.8 ],
+        "title" : "Doppelganger"
+    },
+    {
+        "charter" : 
+        [
+            "阿爽 fixed by Barbarinerman",
+            "阿爽 fixed by Barbarinerman",
+            "阿爽",
+            "阿爽"
+        ],
+        "composer" : "LeaF",
+        "hasLegacy" : false,
+        "id" : 47,
+        "illustrator" : "cycat",
+        "level" : [ 2.0, 6.5, 11.1, 14.9 ],
+        "title" : "もぺもぺ"
+    },
+    {
+        "charter" : 
+        [
+            "H.C.C. fixed by Barbarinerman",
+            "H.C.C. fixed by Barbarinerman",
+            "百九十八"
+        ],
+        "composer" : "LeaF",
+        "hasLegacy" : false,
+        "id" : 48,
+        "illustrator" : "喵n葵",
+        "level" : [ 2.0, 10.2, 14.2 ],
+        "title" : "MARENOL"
+    },
+    {
+        "charter" : 
+        [
+            "阿爽 & 百九十八",
+            "阿爽 & 百九十八",
+            "阿爽 & 百九十八"
+        ],
+        "composer" : "闫东炜",
+        "hasLegacy" : false,
+        "id" : 49,
+        "illustrator" : "L-sp4",
+        "level" : [ 4.5, 10.6, 13.1 ],
+        "title" : "萤火虫の怨"
+    },
+    {
+        "charter" : 
+        [
+            "猫の信 & 百九十八",
+            "猫の信 & 百九十八",
+            "猫の信 & 百九十八"
+        ],
+        "composer" : "闫东炜",
+        "hasLegacy" : false,
+        "id" : 50,
+        "illustrator" : "IvyTowers",
+        "level" : [ 5.5, 9.7, 13.3 ],
+        "title" : "万吨匿名信"
+    },
+    {
+        "charter" : 
+        [
+            "Arenn Saki vs Catcats vs 百九十八",
+            "Arenn Saki vs Catcats vs 百九十八",
+            "Arenn Saki vs Catcats vs 百九十八",
+            "JKy"
+        ],
+        "composer" : "闫东炜",
+        "hasLegacy" : false,
+        "id" : 51,
+        "illustrator" : "cycats",
+        "level" : [ 6.0, 10.3, 13.7, 14.8 ],
+        "title" : "风屿"
+    },
+    {
+        "charter" : 
+        [
+            "阿爽 fixed by Barbarianerman",
+            "阿爽 fixed by Barbarianerman",
+            "阿爽",
+            "NerSAN & 百九十八"
+        ],
+        "composer" : "YUE.STEVEN/uen",
+        "hasLegacy" : false,
+        "id" : 52,
+        "illustrator" : "何呵",
+        "level" : [ 1.5, 3.5, 6.0, 13.6 ],
+        "title" : "dB doll"
+    },
+    {
+        "charter" : 
+        [
+            "阿爽 fixed by Barbarianerman",
+            "阿爽 fixed by Barbarianerman",
+            "JKy"
+        ],
+        "composer" : "小红Akane，李祥晖",
+        "hasLegacy" : false,
+        "id" : 53,
+        "illustrator" : "艾是Abby",
+        "level" : [ 2.5, 5.5, 11.7 ],
+        "title" : "Dash"
+    },
+    {
+        "charter" : [ "Cloud Catcats", "Cloud Catcats", "云正太" ],
+        "composer" : "符白牙/SiYFics",
+        "hasLegacy" : false,
+        "id" : 54,
+        "illustrator" : "御坂果子",
+        "level" : [ 3.0, 9.9, 12.6 ],
+        "title" : "云女孩"
+    },
+    {
+        "charter" : [ "Drop Catcats", "Drop Catcats", "NerSAN & 百九十八" ],
+        "composer" : "Asuka",
+        "hasLegacy" : false,
+        "id" : 55,
+        "illustrator" : "TNiK",
+        "level" : [ 4.0, 9.6, 14.1 ],
+        "title" : "Drop It"
+    },
+    {
+        "charter" : 
+        [
+            "撕裂者『無極』 fixed by 晨",
+            "撕裂者『無極』 fixed by 晨",
+            "撕裂者『Alloces vs Shin』"
+        ],
+        "composer" : "Friedwav",
+        "hasLegacy" : false,
+        "id" : 56,
+        "illustrator" : "何呵",
+        "level" : [ 7.5, 11.2, 15.2 ],
+        "title" : "RIPPER"
+    },
+    {
+        "charter" : [ "百九十八", "百九十八", "百九十八" ],
+        "composer" : "闫东炜",
+        "hasLegacy" : false,
+        "id" : 57,
+        "illustrator" : "笔记RE",
+        "level" : [ 4.0, 8.8, 13.1 ],
+        "title" : "Aphasia"
+    },
+    {
+        "charter" : [ "HaraKuma", "HaraKuma", "Barbarianerman feat. 晨" ],
+        "composer" : "闫东炜",
+        "hasLegacy" : false,
+        "id" : 58,
+        "illustrator" : "昔璃",
+        "level" : [ 6.0, 11.5, 14.2 ],
+        "title" : "开心病"
+    },
+    {
+        "charter" : [ "HaraKuma", "HaraKuma", "Barbarianerman" ],
+        "composer" : "闫东炜",
+        "hasLegacy" : false,
+        "id" : 59,
+        "illustrator" : "IvyTowers",
+        "level" : [ 6.0, 9.6, 14.1 ],
+        "title" : "華灯爱"
+    },
+    {
+        "charter" : [ "Find_Ctymax", "Find_Ctymax", "Find_Ctymax fixed by 百九十八" ],
+        "composer" : "K-forest",
+        "hasLegacy" : false,
+        "id" : 60,
+        "illustrator" : "YuKiMuMa",
+        "level" : [ 5.5, 10.5, 14.4 ],
+        "title" : "Find_Me"
+    },
+    {
+        "charter" : [ "A.S.H", "A.S.H", "A.S.H&晨" ],
+        "composer" : "朔(Apo11o program vs. お月さま交響曲) ft. kuroa×荒巻",
+        "hasLegacy" : false,
+        "id" : 61,
+        "illustrator" : "hideo",
+        "level" : [ 4.5, 9.8, 14.9 ],
+        "title" : "Sein"
+    },
+    {
+        "charter" : 
+        [
+            "Catcats a.k.a. 無極 VS H.C.C. fixed by 晨",
+            "Catcats a.k.a. 無極 VS H.C.C. fixed by Pcat",
+            "晨",
+            "Catcats a.k.a. 無極 VS H.C.C. fixed by 野从&晨"
+        ],
+        "composer" : "LeaF",
+        "hasLegacy" : false,
+        "id" : 62,
+        "illustrator" : "DoublePian",
+        "level" : [ 7.0, 11.7, 14.5, 16.1 ],
+        "title" : "狂喜蘭舞"
+    },
+    {
+        "charter" : 
+        [
+            "Sparkle Ctymax",
+            "Sparkle Ctymax",
+            "Sparkle Ctymax fixed by 百九十八"
+        ],
+        "composer" : "rider",
+        "hasLegacy" : false,
+        "id" : 63,
+        "illustrator" : "1B",
+        "level" : [ 4.0, 9.2, 12.4 ],
+        "title" : "Sparkle New Life"
+    },
+    {
+        "charter" : 
+        [
+            "XMT小咩兔 & Myna",
+            "XMT小咩兔 & Myna",
+            "StupiGGy fixed by 百九十八"
+        ],
+        "composer" : "Halv",
+        "hasLegacy" : false,
+        "id" : 64,
+        "illustrator" : "utosao",
+        "level" : [ 5.5, 11.6, 14.2 ],
+        "title" : "Khronostasis Katharsis"
+    },
+    {
+        "charter" : [ "VikingNexus", "VikingNexus", "VikingNexus" ],
+        "composer" : "WyvernP",
+        "hasLegacy" : false,
+        "id" : 65,
+        "illustrator" : "knife美工刀",
+        "level" : [ 5.0, 10.3, 13.3 ],
+        "title" : "Snow Desert"
+    },
+    {
+        "charter" : 
+        [
+            "Ctymatch Girl",
+            "Burn Full Catcats",
+            "Burn Full Catcats VS Ctymatch Girl"
+        ],
+        "composer" : "NceS",
+        "hasLegacy" : false,
+        "id" : 66,
+        "illustrator" : "knife美工刀",
+        "level" : [ 6.0, 10.6, 14.9 ],
+        "title" : "Burn"
+    },
+    {
+        "charter" : [ "Clutter", "Clutter", "Clutter" ],
+        "composer" : "LeaF",
+        "hasLegacy" : true,
+        "id" : 67,
+        "illustrator" : "Optie",
+        "level" : [ 3.5, 12.2, 15.7 ],
+        "title" : "Aleph-0"
+    },
+    {
+        "charter" : 
+        [
+            "Gausbon ~ See you next time ~ ",
+            "Gausbon ~ See you next time ~ ",
+            "Gausbon ~ See you next time ~ "
+        ],
+        "composer" : "SaMZIng",
+        "hasLegacy" : false,
+        "id" : 68,
+        "illustrator" : "叶藤",
+        "level" : [ 6.0, 9.2, 12.6 ],
+        "title" : "Next Time"
+    },
+    {
+        "charter" : 
+        [
+            "阿爽 vs. Ctymax -Haose 垃圾-",
+            "阿爽 vs. Ctymax -Haose 垃圾-",
+            "阿爽 vs. Ctymax -Haose 垃圾-"
+        ],
+        "composer" : "Ctymax vs. NceS",
+        "hasLegacy" : false,
+        "id" : 69,
+        "illustrator" : "knife美工刀",
+        "level" : [ 3.5, 9.4, 13.2 ],
+        "title" : "Rubbish Sorting"
+    },
+    {
+        "charter" : [ "Another M3", "Another M3", "NerSAN" ],
+        "composer" : "Neutral Moon",
+        "hasLegacy" : false,
+        "id" : 70,
+        "illustrator" : "IvyTowers",
+        "level" : [ 5.5, 9.2, 13.6 ],
+        "title" : "Another Me"
+    },
+    {
+        "charter" : [ "Ctymax", "Ctymax", "Ctymax" ],
+        "composer" : "rareguy",
+        "hasLegacy" : false,
+        "id" : 71,
+        "illustrator" : "IvyTowers",
+        "level" : [ 2.5, 11.3, 14.7 ],
+        "title" : "mechanted"
+    },
+    {
+        "charter" : [ "百九十八", "百九十八", "百九十八" ],
+        "composer" : "BilliumMoto",
+        "hasLegacy" : false,
+        "id" : 72,
+        "illustrator" : "百九十八",
+        "level" : [ 6.5, 11.9, 14.8 ],
+        "title" : "life flashes before weeb eyes"
+    },
+    {
+        "charter" : [ "Su1fuR", "Su1fuR", "百九十八" ],
+        "composer" : "lixound",
+        "hasLegacy" : true,
+        "id" : 73,
+        "illustrator" : "Xquid",
+        "level" : [ 5.5, 10.8, 14.7 ],
+        "title" : "Break Through The Barrier"
+    },
+    {
+        "charter" : [ "Uvernight", "Uvernight", "Gausbon" ],
+        "composer" : "黒皇帝",
+        "hasLegacy" : false,
+        "id" : 74,
+        "illustrator" : "Sand",
+        "level" : [ 6.5, 11.2, 15.8 ],
+        "title" : "Chronostasis"
+    },
+    {
+        "charter" : 
+        [
+            "Phigros Charting Team",
+            "Phigros Charting Team",
+            "Phigros Charting Team"
+        ],
+        "composer" : "Sound Souler",
+        "hasLegacy" : false,
+        "id" : 75,
+        "illustrator" : "Photonskyto",
+        "level" : [ 4.5, 11.7, 14.4 ],
+        "title" : "Dead Soul"
+    },
+    {
+        "charter" : [ "晨 vs 阿爽", "晨 vs 阿爽", "晨 vs 阿爽" ],
+        "composer" : "HyuN",
+        "hasLegacy" : false,
+        "id" : 76,
+        "illustrator" : "DoublePian",
+        "level" : [ 3.5, 8.4, 13.9 ],
+        "title" : "Infinity Heaven"
+    },
+    {
+        "charter" : [ "Gausbon", "Gausbon", "Gausbon" ],
+        "composer" : "HyuN feat. YURI",
+        "hasLegacy" : false,
+        "id" : 77,
+        "illustrator" : "Nabom",
+        "level" : [ 5.5, 9.8, 14.7 ],
+        "title" : "Disorder"
+    },
+    {
+        "charter" : [ "無†極", "無†極 fixed by Rikko", "無†極" ],
+        "composer" : "HyuN feat. Syepias",
+        "hasLegacy" : false,
+        "id" : 78,
+        "illustrator" : "knife美工刀",
+        "level" : [ 7.5, 12.8, 15.9 ],
+        "title" : "CROSS†SOUL"
+    },
+    {
+        "charter" : 
+        [
+            "Ctymax VS 百九十八",
+            "Ctymax VS 百九十八",
+            "Ctymax VS 百九十八"
+        ],
+        "composer" : "DarTokki",
+        "hasLegacy" : false,
+        "id" : 79,
+        "illustrator" : "TNiK",
+        "level" : [ 4.5, 10.3, 14.3 ],
+        "title" : "Speed Up!"
+    },
+    {
+        "charter" : [ "Ctymax VS 晨", "Ctymax VS 晨", "Ctymax VS 晨" ],
+        "composer" : "EmoCo.",
+        "hasLegacy" : false,
+        "id" : 80,
+        "illustrator" : "NOISER",
+        "level" : [ 6.5, 11.3, 14.5 ],
+        "title" : "Magenta Potion"
+    },
+    {
+        "charter" : [ "JKy", "JKy", "JKy" ],
+        "composer" : "CAP3",
+        "hasLegacy" : false,
+        "id" : 81,
+        "illustrator" : "TNiK",
+        "level" : [ 6.5, 11.4, 14.1 ],
+        "title" : "Get Back"
+    },
+    {
+        "charter" : [ "Jeitie", "Jeitie", "Jeitie" ],
+        "composer" : "WyvernP feat. Madol",
+        "hasLegacy" : false,
+        "id" : 82,
+        "illustrator" : "GAMEBAKA",
+        "level" : [ 5.5, 12.3, 15.7 ],
+        "title" : "Palescreen"
+    },
+    {
+        "charter" : [ "百九十八", "百九十八", "百九十八" ],
+        "composer" : "EBIMAYO",
+        "hasLegacy" : false,
+        "id" : 83,
+        "illustrator" : "Ctymax feat. EBIMAYO",
+        "level" : [ 5.5, 10.8, 13.8 ],
+        "title" : "GOODTEK"
+    },
+    {
+        "charter" : [ "Gausbounce & 晨", "Gausbounce", "Ctymax vs. Gausbounce" ],
+        "composer" : "EBIMAYO",
+        "hasLegacy" : false,
+        "id" : 84,
+        "illustrator" : "EBIMAYO",
+        "level" : [ 6.5, 11.6, 14.4 ],
+        "title" : "GOODBOUNCE"
+    },
+    {
+        "charter" : [ "阿爽", "StupiGGy", "StupiGGy vs. 阿爽" ],
+        "composer" : "EBIMAYO",
+        "hasLegacy" : false,
+        "id" : 85,
+        "illustrator" : "EBIMAYO",
+        "level" : [ 3.0, 11.4, 14.5 ],
+        "title" : "GOODWORLD"
+    },
+    {
+        "charter" : [ "晨", "晨", "晨" ],
+        "composer" : "EBIMAYO",
+        "hasLegacy" : false,
+        "id" : 86,
+        "illustrator" : "Ctymax",
+        "level" : [ 7.5, 8.7, 15.4 ],
+        "title" : "GOODFORTUNE"
+    },
+    {
+        "charter" : [ "阿爽", "阿爽", "Ctymax vs. 阿爽" ],
+        "composer" : "EBIMAYO",
+        "hasLegacy" : false,
+        "id" : 87,
+        "illustrator" : "Ctymax feat. EBIMAYO",
+        "level" : [ 4.5, 8.2, 15.7 ],
+        "title" : "GOODRAGE"
+    },
+    {
+        "charter" : [ "百九十八", "百九十八", "百九十八" ],
+        "composer" : "Paul Bazooka",
+        "hasLegacy" : false,
+        "id" : 88,
+        "illustrator" : "START SEED",
+        "level" : [ 4.5, 9.1, 14.4 ],
+        "title" : "The Mountain Eater"
+    },
+    {
+        "charter" : [ "Uvernight", "Uvernight", "Uvernight" ],
+        "composer" : "tokiwa",
+        "hasLegacy" : false,
+        "id" : 89,
+        "illustrator" : "cycats",
+        "level" : [ 4.5, 11.1, 14.3 ],
+        "title" : "Orthodox"
+    },
+    {
+        "charter" : [ "鲲", "鲲", "鲲 fixed by 百九十八" ],
+        "composer" : "ZxNX as \"Delaina\"",
+        "hasLegacy" : false,
+        "id" : 90,
+        "illustrator" : "何呵",
+        "level" : [ 6.0, 7.5, 14.1 ],
+        "title" : "End Me"
+    },
+    {
+        "charter" : [ "HaraKuma", "HaraKuma", "HaraKuma" ],
+        "composer" : "Tetrajectory",
+        "hasLegacy" : false,
+        "id" : 91,
+        "illustrator" : "青鸟",
+        "level" : [ 7.0, 10.7, 14.4 ],
+        "title" : "Parallel Retrogression(Game Ver.)"
+    },
+    {
+        "charter" : [ "NerSAN", "NerSAN", "NerSAN" ],
+        "composer" : "Quree",
+        "hasLegacy" : false,
+        "id" : 92,
+        "illustrator" : "IvyTowers",
+        "level" : [ 5.5, 11.4, 15.1 ],
+        "title" : "Starduster"
+    },
+    {
+        "charter" : [ "百九十八", "百九十八", "百九十八" ],
+        "composer" : "ElousΛ.-FZ",
+        "hasLegacy" : false,
+        "id" : 93,
+        "illustrator" : "DoublePian",
+        "level" : [ 3.5, 10.4, 13.2 ],
+        "title" : "Electron"
+    },
+    {
+        "charter" : 
+        [
+            "Barbarianerman.exe",
+            "Bσrbσriσnermσn.exe",
+            "Bσrbσriσn∑rmσn.∑x∑"
+        ],
+        "composer" : "Kry.exe",
+        "hasLegacy" : false,
+        "id" : 94,
+        "illustrator" : "塔塔",
+        "level" : [ 5.0, 11.5, 15.6 ],
+        "title" : "SIGMA"
+    },
+    {
+        "charter" : 
+        [
+            "One skunk (Ctymax) in Africa",
+            "Hardcore Barbaya",
+            "Two skunks (Ctymax and 晨) in Africa shouting WAHHHHHH!"
+        ],
+        "composer" : "EnFr",
+        "hasLegacy" : false,
+        "id" : 95,
+        "illustrator" : "EnFr",
+        "level" : [ 4.5, 9.2, 14.6 ],
+        "title" : "Hardcore Kwaya"
+    },
+    {
+        "charter" : [ "Barbarianerman", "Snorkel", "Barbarianerman vs. Snorkel" ],
+        "composer" : "Grand Thaw / Rigël Theatre",
+        "hasLegacy" : false,
+        "id" : 96,
+        "illustrator" : "Grand Thaw / Rigël Theatre",
+        "level" : [ 3.0, 9.4, 13.7 ],
+        "title" : "Äventyr"
+    },
+    {
+        "charter" : [ "Barbarianerman", "Barbarianerman", "Barbarianerman" ],
+        "composer" : "MALVA.",
+        "hasLegacy" : false,
+        "id" : 97,
+        "illustrator" : "しえろ",
+        "level" : [ 1.5, 6.5, 14.5 ],
+        "title" : "Träne"
+    },
+    {
+        "charter" : [ "Merry xmAS", "Merry ChristymAxS", "N\\erry Xmas" ],
+        "composer" : "A-39",
+        "hasLegacy" : false,
+        "id" : 98,
+        "illustrator" : "犀牛坨动画工坊",
+        "level" : [ 5.5, 10.4, 15.3 ],
+        "title" : "雪降り、メリクリ"
+    },
+    {
+        "charter" : 
+        [
+            "Eastern Ailuropoda Gang",
+            "Eastern Ailuropoda Gang",
+            "Eastern Ailuropoda Gang"
+        ],
+        "composer" : "SCTL",
+        "hasLegacy" : false,
+        "id" : 99,
+        "illustrator" : "SCTL",
+        "level" : [ 5.0, 11.3, 14.5 ],
+        "title" : "Cervelle Connexion"
+    },
+    {
+        "charter" : [ "Cty moyules", "Cty moyules", "Pat Brick Man Mr.C" ],
+        "composer" : "PTB10",
+        "hasLegacy" : false,
+        "id" : 100,
+        "illustrator" : "geralt",
+        "level" : [ 3.5, 10.1, 14.7 ],
+        "title" : "modulus"
+    },
+    {
+        "charter" : [ "Sillyp", "Sillyp", "百九十八 vs. Barbarianerman" ],
+        "composer" : "Frums",
+        "hasLegacy" : false,
+        "id" : 101,
+        "illustrator" : "百九十八",
+        "level" : [ 4.5, 8.3, 13.8 ],
+        "title" : "Wavetapper"
+    },
+    {
+        "charter" : 
+        [
+            "Eaimo fixed by NerSAN",
+            "Eaimo fixed by NerSAN",
+            "Eaimo vs. CtyNer dancing wildly"
+        ],
+        "composer" : "adaptor vs DRIVE.",
+        "hasLegacy" : false,
+        "id" : 102,
+        "illustrator" : "りゅうら",
+        "level" : [ 5.5, 11.8, 14.8 ],
+        "title" : "大和撫子 -Wild Dances-"
+    },
+    {
+        "charter" : [ "JKy", "JKy", "BarbariaNERman vs. JKy" ],
+        "composer" : "Fl00t",
+        "hasLegacy" : false,
+        "id" : 103,
+        "illustrator" : "xperz",
+        "level" : [ 6.5, 10.5, 14.4 ],
+        "title" : "Eltaw"
+    },
+    {
+        "charter" : [ "阿爽", "NerSAN", "Arenn Saki vs. NerSAN" ],
+        "composer" : "iF",
+        "hasLegacy" : false,
+        "id" : 104,
+        "illustrator" : "あおお/A-ZERO, morph",
+        "level" : [ 2.5, 7.0, 11.6 ],
+        "title" : "Initialize"
+    },
+    {
+        "charter" : [ "Barbarianerman", "Barbarianerman", "百九十八" ],
+        "composer" : "kozato snow",
+        "hasLegacy" : false,
+        "id" : 105,
+        "illustrator" : "あおお/A-ZERO, morph",
+        "level" : [ 3.5, 7.5, 13.4 ],
+        "title" : "桜樹街道"
+    },
+    {
+        "charter" : [ "StupiGGy", "StupiGGy", "StupiGGy" ],
+        "composer" : "iF",
+        "hasLegacy" : false,
+        "id" : 106,
+        "illustrator" : "あおお/A-ZERO, morph",
+        "level" : [ 5.0, 10.2, 13.8 ],
+        "title" : "Get Ready!! "
+    },
+    {
+        "charter" : 
+        [
+            "Barbarianerman",
+            "Rikko",
+            "Ctymax in a volcano, very delicious",
+            "Alloces"
+        ],
+        "composer" : "DETRO a.k.a. ルゼ",
+        "hasLegacy" : false,
+        "id" : 107,
+        "illustrator" : "あおお/A-ZERO, morph",
+        "level" : [ 7.5, 11.9, 14.8, 16.2 ],
+        "title" : "volcanic"
+    },
+    {
+        "charter" : [ "NerSAN", "NerSAN", "縱連打の信者☆無極" ],
+        "composer" : "ルゼ",
+        "hasLegacy" : false,
+        "id" : 108,
+        "illustrator" : "A-Zero Project",
+        "level" : [ 6.5, 11.7, 15.3 ],
+        "title" : "Better Graphic Animation"
+    },
+    {
+        "charter" : [ "StupiGGy", "StupiGGy", "Sillyp vs. 阿爽" ],
+        "composer" : "ginkiha",
+        "hasLegacy" : false,
+        "id" : 109,
+        "illustrator" : "打雷打人（青鸟 modified）",
+        "level" : [ 5.5, 9.9, 13.9 ],
+        "title" : "XING"
+    },
+    {
+        "charter" : [ "Barbarianerman", "Barbarianerman", "Barbarianerman vs. Uvernight" ],
+        "composer" : "Lime",
+        "hasLegacy" : false,
+        "id" : 110,
+        "illustrator" : "谷地（青鸟 modified）",
+        "level" : [ 6.0, 11.8, 14.3 ],
+        "title" : "Final Step!"
+    },
+    {
+        "charter" : 
+        [
+            "Barbarianerman",
+            "Barbarianerman",
+            "Gausbon",
+            "百九十八 feat. NerSAN"
+        ],
+        "composer" : "USAO",
+        "hasLegacy" : false,
+        "id" : 111,
+        "illustrator" : "谷地（青鸟 modified）",
+        "level" : [ 7.0, 11.9, 15.6, 15.8 ],
+        "title" : "Cthugha"
+    },
+    {
+        "charter" : [ "with U", "with U", "with U" ],
+        "composer" : "Cashew",
+        "hasLegacy" : false,
+        "id" : 112,
+        "illustrator" : "ADZUKI",
+        "level" : [ 3.5, 9.3, 13.4 ],
+        "title" : "With You"
+    },
+    {
+        "charter" : [ "Barbarianerman", "HaraKuma", "Barbarianerman vs. HaraKuma" ],
+        "composer" : "Joulez",
+        "hasLegacy" : false,
+        "id" : 113,
+        "illustrator" : "ASXX",
+        "level" : [ 5.0, 11.3, 13.9 ],
+        "title" : "Unorthodox Thoughts"
+    },
+    {
+        "charter" : [ "阿爽", "NerSAN", "NerSAN vs. 阿爽" ],
+        "composer" : "Z ClaxX & SumaiLight",
+        "hasLegacy" : false,
+        "id" : 114,
+        "illustrator" : "佑木いずみ & Ctymax",
+        "level" : [ 3.0, 9.6, 13.8 ],
+        "title" : "Apocalyptic"
+    },
+    {
+        "charter" : [ "野从菠萝", "野从菠萝", "椒盐倪尔" ],
+        "composer" : "椒盐菠萝",
+        "hasLegacy" : false,
+        "id" : 115,
+        "illustrator" : "CEM",
+        "level" : [ 3.0, 7.5, 13.2 ],
+        "title" : "游园地"
+    },
+    {
+        "charter" : [ "NerSAN", "NerSANN", "NerSANNN" ],
+        "composer" : "KAH",
+        "hasLegacy" : false,
+        "id" : 116,
+        "illustrator" : "手鞠鈴 & 自動車 原付",
+        "level" : [ 4.5, 11.4, 15.2 ],
+        "title" : "energy trixxx"
+    },
+    {
+        "charter" : [ "野从", "StupiGGy", "森德雷斯 vs. 百九十八" ],
+        "composer" : "Silentroom",
+        "hasLegacy" : false,
+        "id" : 117,
+        "illustrator" : "駿",
+        "level" : [ 1.5, 11.9, 15.4 ],
+        "title" : "Nhelv"
+    },
+    {
+        "charter" : [ "-JKy-", "-JKy-", "-JKy-" ],
+        "composer" : "Sera Amagi",
+        "hasLegacy" : false,
+        "id" : 118,
+        "illustrator" : "Hachimitsu☆Boy",
+        "level" : [ 6.5, 9.7, 12.6 ],
+        "title" : "-Arkhei-"
+    },
+    {
+        "charter" : [ "Alloces", "NerSAN", "Snorkel vs. NerSAN" ],
+        "composer" : "Zris",
+        "hasLegacy" : false,
+        "id" : 119,
+        "illustrator" : "Eridani",
+        "level" : [ 5.5, 12.4, 15.5 ],
+        "title" : "Kerberos"
+    },
+    {
+        "charter" : [ "Rikko", "Rikko & TangScend", "TangScend" ],
+        "composer" : "siqlo",
+        "hasLegacy" : false,
+        "id" : 120,
+        "illustrator" : "出前 x nekomiya",
+        "level" : [ 4.0, 11.3, 14.7 ],
+        "title" : "ρars/ey"
+    },
+    {
+        "charter" : [ "J.R", "晨", "Phigros Charting Team" ],
+        "composer" : "Halv",
+        "hasLegacy" : false,
+        "id" : 121,
+        "illustrator" : "汉堡",
+        "level" : [ 5.5, 11.3, 15.5 ],
+        "title" : "Concvssion"
+    },
+    {
+        "charter" : [ "merry CNrisTimas", "merry XM AS", "NerSANTA vs. BarbarianerSLEDGE" ],
+        "composer" : "A-39/沙包P",
+        "hasLegacy" : false,
+        "id" : 122,
+        "illustrator" : "爱39的Konya",
+        "level" : [ 4.5, 7.0, 14.5 ],
+        "title" : "ジングルベル(Jingle Bell)"
+    },
+    {
+        "charter" : [ "Rikko", "Barbarianerman", "Likey & 198ar" ],
+        "composer" : "HyuN & KLYDIX",
+        "hasLegacy" : false,
+        "id" : 123,
+        "illustrator" : "ZG",
+        "level" : [ 3.0, 10.1, 13.6 ],
+        "title" : "Time to Night Sky (feat. Lee Yu Jin)"
+    },
+    {
+        "charter" : [ "NerSAN", "NerSAN", "阿爽" ],
+        "composer" : "Limpid",
+        "hasLegacy" : false,
+        "id" : 124,
+        "illustrator" : "ZG",
+        "level" : [ 4.5, 10.9, 14.7 ],
+        "title" : "HAZARD"
+    },
+    {
+        "charter" : [ "Pcat", "Another cat", "NerSAN vs. Ctymax as \"泥头鱼\"" ],
+        "composer" : "D_AAN",
+        "hasLegacy" : false,
+        "id" : 125,
+        "illustrator" : "ZG",
+        "level" : [ 5.0, 9.2, 15.4 ],
+        "title" : "Another Me"
+    },
+    {
+        "charter" : [ "XMT小咩兔", "XMT小咩兔", "XMT小咩兔" ],
+        "composer" : "HAMA",
+        "hasLegacy" : false,
+        "id" : 126,
+        "illustrator" : "Arahosi",
+        "level" : [ 4.5, 11.7, 15.5 ],
+        "title" : "Don't Never Around"
+    },
+    {
+        "charter" : 
+        [
+            "其一 呼吸尚存的标志",
+            "其二 向前迈进的理由",
+            "其三 我所存在的证明"
+        ],
+        "composer" : "ぐるたみん",
+        "hasLegacy" : false,
+        "id" : 127,
+        "illustrator" : "LINUS",
+        "level" : [ 6.0, 10.6, 15.8 ],
+        "title" : "RESSiSTANCE"
+    },
+    {
+        "charter" : [ "Bear", "Bear", "XMT & 198" ],
+        "composer" : "z1on & kyrrin",
+        "hasLegacy" : false,
+        "id" : 128,
+        "illustrator" : "海产",
+        "level" : [ 6.0, 9.8, 13.2 ],
+        "title" : "Dreamland"
+    },
+    {
+        "charter" : [ "阿爽", "Another Stage", "TimiTini →\"X\"← 阿爽" ],
+        "composer" : "Justin Dai",
+        "hasLegacy" : false,
+        "id" : 129,
+        "illustrator" : "艾是Abby",
+        "level" : [ 3.0, 8.7, 13.3 ],
+        "title" : "Another Round"
+    },
+    {
+        "charter" : [ "RTH", "Likey", "Barbarianerman & NerSAN in the ICU" ],
+        "composer" : "李化禹",
+        "hasLegacy" : false,
+        "id" : 130,
+        "illustrator" : "笔记RE",
+        "level" : [ 4.0, 9.1, 14.6 ],
+        "title" : "996"
+    },
+    {
+        "charter" : [ "Barbarianerman", "XMT小咩兔", "Future BarbarXMT" ],
+        "composer" : "Ray Nautica & Reku Mochizuki",
+        "hasLegacy" : false,
+        "id" : 131,
+        "illustrator" : "Keiby.comics",
+        "level" : [ 5.5, 11.7, 14.6 ],
+        "title" : "Future Mind"
+    },
+    {
+        "charter" : [ "Uvernight", "Uvernight", "百九十八" ],
+        "composer" : "Daison",
+        "hasLegacy" : false,
+        "id" : 132,
+        "illustrator" : "鲸弑",
+        "level" : [ 5.5, 9.3, 14.5 ],
+        "title" : "Luminescent"
+    },
+    {
+        "charter" : 
+        [
+            "M3d1uM & 百九十八",
+            "M3d1uM & 百九十八",
+            "百九十八 busting 阿爽"
+        ],
+        "composer" : "MYUKKE.",
+        "hasLegacy" : false,
+        "id" : 133,
+        "illustrator" : "cycats",
+        "level" : [ 5.0, 9.3, 14.7 ],
+        "title" : "FULi AUTO BUSTER"
+    },
+    {
+        "charter" : [ "Likey", "JKy", "Likey & 百九十八" ],
+        "composer" : "TangJuan",
+        "hasLegacy" : false,
+        "id" : 134,
+        "illustrator" : "cycats",
+        "level" : [ 2.5, 9.5, 13.5 ],
+        "title" : "I Must Say No"
+    },
+    {
+        "charter" : 
+        [
+            "BlindForest",
+            "BlindForest 『Observing』",
+            "Jeitie & CorruptedEntity 『Hollow』"
+        ],
+        "composer" : "rN",
+        "hasLegacy" : false,
+        "id" : 135,
+        "illustrator" : "rN @ 湯元画伯",
+        "level" : [ 5.5, 11.6, 15.5 ],
+        "title" : "opia"
+    },
+    {
+        "charter" : [ "R.", "B.", "Rikko & 198" ],
+        "composer" : "アリスシャッハと魔法の楽団",
+        "hasLegacy" : false,
+        "id" : 136,
+        "illustrator" : "Lanota © Noxy Games Inc. ",
+        "level" : [ 4.0, 8.6, 13.5 ],
+        "title" : "Apocalypse"
+    },
+    {
+        "charter" : [ "Barbarianerman & J.R", "RTH", "Gausbon" ],
+        "composer" : "Silentroom",
+        "hasLegacy" : false,
+        "id" : 137,
+        "illustrator" : "Lanota © Noxy Games Inc. ",
+        "level" : [ 3.5, 10.6, 15.2 ],
+        "title" : "Protoflicker"
+    },
+    {
+        "charter" : 
+        [
+            "Nothing But Uvernight",
+            "Nothing But Likey",
+            "Nothing But Ner & Pcat"
+        ],
+        "composer" : "Nothing But Requiem feat. Aikapin & Chiyoko",
+        "hasLegacy" : false,
+        "id" : 138,
+        "illustrator" : "Lanota © Noxy Games Inc. ",
+        "level" : [ 6.5, 12.2, 15.5 ],
+        "title" : "Horizon Blue"
+    },
+    {
+        "charter" : 
+        [
+            "M3d1uM",
+            "M3d1uM",
+            "We are the Miserable",
+            "Pat Brick Man Mr.C & Mr.B"
+        ],
+        "composer" : "t+pazolite",
+        "hasLegacy" : false,
+        "id" : 139,
+        "illustrator" : "Lanota © Noxy Games Inc. ",
+        "level" : [ 6.0, 11.7, 14.6, 15.6 ],
+        "title" : "You are the Miserable"
+    },
+    {
+        "charter" : [ "空の希", "空の希", "ST AS is XMT", "百九十八" ],
+        "composer" : "Maozon",
+        "hasLegacy" : false,
+        "id" : 140,
+        "illustrator" : "Lanota © Noxy Games Inc. ",
+        "level" : [ 5.0, 11.1, 15.4, 16.4 ],
+        "title" : "Stasis"
+    },
+    {
+        "charter" : 
+        [
+            "Clutter & Barbarianerman",
+            "Clutter & Barbarianerman",
+            "小咩兔、参上"
+        ],
+        "composer" : "U-ske feat. 棗いつき",
+        "hasLegacy" : false,
+        "id" : 141,
+        "illustrator" : "緑風マルト",
+        "level" : [ 4.0, 9.6, 14.8 ],
+        "title" : "いざ、参ります"
+    },
+    {
+        "charter" : [ "XMT小咩兔", "XMT小咩兔", "iv" ],
+        "composer" : "月見静華 vs. LUNARiUM",
+        "hasLegacy" : false,
+        "id" : 142,
+        "illustrator" : "TNiK",
+        "level" : [ 5.0, 9.4, 14.8 ],
+        "title" : "月下缭乱"
+    },
+    {
+        "charter" : [ "Rikko", "Rikko", "NerSAN feat. Takanashi Rikko" ],
+        "composer" : "ETIA. feat. Jenga",
+        "hasLegacy" : false,
+        "id" : 143,
+        "illustrator" : "わっふゑ",
+        "level" : [ 5.0, 10.3, 14.9 ],
+        "title" : "On And On!!"
+    },
+    {
+        "charter" : [ "[!!12:l<l<ο!!]", "Rikko", "TangScend -Err0rederci-" ],
+        "composer" : "Cosmograph",
+        "hasLegacy" : false,
+        "id" : 144,
+        "illustrator" : "Photonskyto",
+        "level" : [ 6.0, 11.6, 14.6 ],
+        "title" : "DataErr0r"
+    },
+    {
+        "charter" : [ "晨", "晨", "Sillyp vs 晨", "J0(_)I2|\\|3y'5 3|\\||)" ],
+        "composer" : "姜米條&SumaiLight",
+        "hasLegacy" : false,
+        "id" : 145,
+        "illustrator" : "御坂果子",
+        "level" : [ 6.0, 10.3, 14.5, 15.9 ],
+        "title" : "Shadow"
+    },
+    {
+        "charter" : [ "波之所杂", "波之所杂", "倪之所爽" ],
+        "composer" : "姜米條",
+        "hasLegacy" : false,
+        "id" : 146,
+        "illustrator" : "笔记RE",
+        "level" : [ 4.5, 8.9, 13.6 ],
+        "title" : "心之所向"
+    },
+    {
+        "charter" : [ "Ner, the inferior", "Ner, the inferior", "JKy, the inferior" ],
+        "composer" : "姜米條",
+        "hasLegacy" : false,
+        "id" : 147,
+        "illustrator" : "群青kurara",
+        "level" : [ 7.0, 7.5, 14.6 ],
+        "title" : "inferior"
+    },
+    {
+        "charter" : [ "b.b.n.m.", "h.o.m.e.e.e.", "s.t.p.g." ],
+        "composer" : "Aoi",
+        "hasLegacy" : false,
+        "id" : 148,
+        "illustrator" : "Ctymax vs. TNiK feat. 出前",
+        "level" : [ 5.0, 12.5, 15.7 ],
+        "title" : "c.s.q.n."
+    },
+    {
+        "charter" : [ "Brave Eaimo", "Brave Eaimo", "Brave Eaimo" ],
+        "composer" : "Turquoise(DRIVE.+Nota)",
+        "hasLegacy" : false,
+        "id" : 149,
+        "illustrator" : "林语",
+        "level" : [ 5.5, 11.4, 14.6 ],
+        "title" : "Brave Notes"
+    },
+    {
+        "charter" : [ "Barbarianerman", "Barbarianerman", "NerSAN sipping XMTea" ],
+        "composer" : "茶鸣拾贰律",
+        "hasLegacy" : false,
+        "id" : 150,
+        "illustrator" : "茶鸣拾贰律",
+        "level" : [ 2.0, 4.5, 13.3 ],
+        "title" : "盏茗"
+    },
+    {
+        "charter" : 
+        [
+            "生根发芽的小咩兔",
+            "逆流而上的小咩兔",
+            "Hook vs. _鉄"
+        ],
+        "composer" : "茶鸣拾贰律",
+        "hasLegacy" : false,
+        "id" : 151,
+        "illustrator" : "茶鸣拾贰律",
+        "level" : [ 5.0, 10.8, 14.7 ],
+        "title" : "青芽"
+    },
+    {
+        "charter" : [ "M3d1uM", "M3d1uM", "JKy" ],
+        "composer" : "Abyss Idols",
+        "hasLegacy" : false,
+        "id" : 152,
+        "illustrator" : "Sak",
+        "level" : [ 4.0, 8.8, 13.5 ],
+        "title" : "Eternal Snow"
+    },
+    {
+        "charter" : [ "StupiGGy", "StupiGGy", "Raiky Season" ],
+        "composer" : "Abyss Idols",
+        "hasLegacy" : false,
+        "id" : 153,
+        "illustrator" : "Robin",
+        "level" : [ 5.5, 10.7, 14.4 ],
+        "title" : "Rainy Season"
+    },
+    {
+        "charter" : [ "TimiTini", "TimiTini", "XMT小咩兔" ],
+        "composer" : "Plastic Fruits",
+        "hasLegacy" : false,
+        "id" : 154,
+        "illustrator" : "青鸟",
+        "level" : [ 6.0, 12.5, 15.5 ],
+        "title" : "El Condor Pasa (Phigros Edit)"
+    },
+    {
+        "charter" : 
+        [
+            "Barbarianerman",
+            "Barbarianerman",
+            "百九十八 vs Barbarianerman",
+            "百九十八"
+        ],
+        "composer" : "K-forest",
+        "hasLegacy" : false,
+        "id" : 155,
+        "illustrator" : "圆规compasses",
+        "level" : [ 5.0, 11.8, 14.6, 14.9 ],
+        "title" : "Break Over"
+    },
+    {
+        "charter" : [ "Believe Ctymax", "Believe TimiTini", "Believe Ctymax & TimiTini" ],
+        "composer" : "Scaler & Mestie & 果丸哒呦",
+        "hasLegacy" : false,
+        "id" : 156,
+        "illustrator" : "圆规compasses",
+        "level" : [ 2.5, 9.5, 14.5 ],
+        "title" : "Believe Light (feat. 果丸哒呦)"
+    },
+    {
+        "charter" : [ "JKy", "JKy", "晨" ],
+        "composer" : "VeetaCrush vs. [itsu(feat.itsu)]",
+        "hasLegacy" : false,
+        "id" : 157,
+        "illustrator" : "林语",
+        "level" : [ 5.5, 10.7, 15.1 ],
+        "title" : "Pont des souvenirs"
+    },
+    {
+        "charter" : [ "Ctymax", "Su1fuR", "KillJoy" ],
+        "composer" : "BLACK 0",
+        "hasLegacy" : false,
+        "id" : 158,
+        "illustrator" : "BLACK 0",
+        "level" : [ 5.5, 10.5, 15.3 ],
+        "title" : "青丘"
+    },
+    {
+        "charter" : [ "『流』年大顺", "『流』年大顺", "『兔』年大吉" ],
+        "composer" : "茶鸣拾贰律",
+        "hasLegacy" : false,
+        "id" : 159,
+        "illustrator" : "茶鸣拾贰律",
+        "level" : [ 3.5, 6.5, 7.0 ],
+        "title" : "瓷岁"
+    },
+    {
+        "charter" : [ "Barbarianerman", "Barbarianerman", "Gino" ],
+        "composer" : "茶鸣拾贰律",
+        "hasLegacy" : false,
+        "id" : 160,
+        "illustrator" : "茶鸣拾贰律",
+        "level" : [ 6.5, 11.9, 15.3 ],
+        "title" : "Feast远东之宴"
+    },
+    {
+        "charter" : [ "Su1fuR", "Alloces feat. Uvernight", "Alloces" ],
+        "composer" : "Ponchi♪ feat. はぁち",
+        "hasLegacy" : false,
+        "id" : 161,
+        "illustrator" : "LESYEF & 藍瀬 まなみ",
+        "level" : [ 5.0, 11.2, 15.6 ],
+        "title" : "インフェルノシティ"
+    },
+    {
+        "charter" : [ "Lumiere", "CorruptedEntity & 野从", "_鉄" ],
+        "composer" : "Iriss-Frantzz",
+        "hasLegacy" : false,
+        "id" : 162,
+        "illustrator" : "Iriss=Frantzz=s-don",
+        "level" : [ 5.5, 10.8, 15.4 ],
+        "title" : "Upshift"
+    },
+    {
+        "charter" : [ "R/kko", "&ikko", "1÷98" ],
+        "composer" : "LeaF",
+        "hasLegacy" : false,
+        "id" : 163,
+        "illustrator" : "笔记RE/海产",
+        "level" : [ 3.5, 9.6, 15.5 ],
+        "title" : "Poison AND÷OR Affection"
+    },
+    {
+        "charter" : [ "Barbarianerman", "IMD_6", "_鉄" ],
+        "composer" : "Sobrem × Silentroom",
+        "hasLegacy" : false,
+        "id" : 164,
+        "illustrator" : "Harkiadel",
+        "level" : [ 6.0, 12.2, 14.7 ],
+        "title" : "Random"
+    },
+    {
+        "charter" : [ "零號宇夜", "壹號阿爽", "Pcat【零】198" ],
+        "composer" : "seatrus",
+        "hasLegacy" : false,
+        "id" : 165,
+        "illustrator" : "2AI4wU4",
+        "level" : [ 7.0, 12.3, 15.8 ],
+        "title" : "零號車輛"
+    },
+    {
+        "charter" : [ "M3d1uM", "M3d1uM", "Pat Brick Man Mr.N feat. Ner of Time" ],
+        "composer" : "Roy Mikelate",
+        "hasLegacy" : false,
+        "id" : 166,
+        "illustrator" : "青鸟",
+        "level" : [ 4.5, 10.7, 14.3 ],
+        "title" : "Now Is The Time, Do It"
+    },
+    {
+        "charter" : [ "Barbarvillea", "Barbarvillea", "Barbarvillea" ],
+        "composer" : "Jade",
+        "hasLegacy" : false,
+        "id" : 167,
+        "illustrator" : "TNiK",
+        "level" : [ 4.0, 8.3, 13.4 ],
+        "title" : "Bougainvillea"
+    },
+    {
+        "charter" : [ "雑", "波", "P & U" ],
+        "composer" : "Pica & M2U",
+        "hasLegacy" : false,
+        "id" : 168,
+        "illustrator" : "mology (青鸟&V17AMax Modified)",
+        "level" : [ 4.0, 8.9, 13.6 ],
+        "title" : "神話"
+    },
+    {
+        "charter" : [ "Barbarianerman", "Barbarianerman", "百九十八 feat. Likey" ],
+        "composer" : "Θ",
+        "hasLegacy" : false,
+        "id" : 169,
+        "illustrator" : "mology (青鸟&V17AMax Modified)",
+        "level" : [ 5.0, 10.4, 14.3 ],
+        "title" : "El último baile"
+    },
+    {
+        "charter" : [ "M3d1uM", "M3d1uM", "Warning: XMT is infected by Trojan!!" ],
+        "composer" : "litmus*",
+        "hasLegacy" : false,
+        "id" : 170,
+        "illustrator" : "Lapelristar (青鸟&V17AMax Modified)",
+        "level" : [ 4.5, 10.8, 14.8 ],
+        "title" : "Trojan"
+    },
+    {
+        "charter" : [ "Su1fuR", "Su1fuR", "Gausbon vs. 阿爽" ],
+        "composer" : "Lure Rabbit & V!C",
+        "hasLegacy" : false,
+        "id" : 171,
+        "illustrator" : "mology (青鸟&V17AMax Modified)",
+        "level" : [ 4.0, 11.5, 15.2 ],
+        "title" : "Temporal Shifting"
+    },
+    {
+        "charter" : [ "Barbarianerman", "XMT小咩兔", "Hara小兔组" ],
+        "composer" : "Rabbit House",
+        "hasLegacy" : false,
+        "id" : 172,
+        "illustrator" : "Lyrebird Ferdinant (青鸟&V17AMax Modified)",
+        "level" : [ 6.0, 12.1, 15.8 ],
+        "title" : "Ad astra per aspera"
+    },
+    {
+        "charter" : 
+        [
+            "Rikko from「PHIGROS MOON」",
+            "Rikko from「PHIGROS MOON」",
+            "Ner & 198 from 「PHIGROS MOON」"
+        ],
+        "composer" : "Yesod",
+        "hasLegacy" : false,
+        "id" : 173,
+        "illustrator" : "汉堡",
+        "level" : [ 4.5, 10.7, 14.5 ],
+        "title" : "A journey to the moonlight"
+    },
+    {
+        "charter" : [ "Su1fuR", "Barbarianerman", "HaraKuma" ],
+        "composer" : "BelieverInYou(阿卡姆巫师)",
+        "hasLegacy" : false,
+        "id" : 174,
+        "illustrator" : "Sodhelium",
+        "level" : [ 4.0, 10.2, 12.9 ],
+        "title" : "Rainy Heart"
+    },
+    {
+        "charter" : [ "Barbarianerman", "Barbarianerman", "NerSAN" ],
+        "composer" : "Hinkik & A Himitsu",
+        "hasLegacy" : false,
+        "id" : 175,
+        "illustrator" : "圆规compasses",
+        "level" : [ 4.5, 10.8, 14.1 ],
+        "title" : "Realms"
+    },
+    {
+        "charter" : [ "ParParianerman", "ParParianerman", "さるふるふるさ" ],
+        "composer" : "ころねぽち With 立秋",
+        "hasLegacy" : false,
+        "id" : 176,
+        "illustrator" : "上倉エク",
+        "level" : [ 5.0, 12.3, 15.5 ],
+        "title" : "ぱぴぷぴぷぴぱ"
+    },
+    {
+        "charter" : 
+        [
+            "Barbarianerman & Regret",
+            "Barbarianerman & Regret",
+            "TimiTini & HaraKuma"
+        ],
+        "composer" : "typeMARS",
+        "hasLegacy" : false,
+        "id" : 177,
+        "illustrator" : "何呵",
+        "level" : [ 5.0, 9.4, 14.7 ],
+        "title" : "Triumph & Regret"
+    },
+    {
+        "charter" : 
+        [
+            "XMT wishing upon a satellite",
+            "B.A.R.B.A.R.I.A.N.E.R.M.A.N.",
+            "L.I.K.E.Y.",
+            "N.E.R.1.9.8."
+        ],
+        "composer" : "かめりあ",
+        "hasLegacy" : false,
+        "id" : 178,
+        "illustrator" : "青鸟",
+        "level" : [ 5.0, 9.9, 14.6, 15.8 ],
+        "title" : "S.A.T.E.L.L.I.T.E."
+    },
+    {
+        "charter" : [ "Su1fuR", "Su1fuR", "晨_鉄" ],
+        "composer" : "かめりあ",
+        "hasLegacy" : false,
+        "id" : 179,
+        "illustrator" : "林语",
+        "level" : [ 7.0, 10.9, 15.2 ],
+        "title" : "Dance with Silence"
+    },
+    {
+        "charter" : [ "VikingNexus", "VikingNexus", "198 in Kowloon" ],
+        "composer" : "かめりあ",
+        "hasLegacy" : false,
+        "id" : 180,
+        "illustrator" : "鲸弑",
+        "level" : [ 6.0, 11.6, 15.4 ],
+        "title" : "Labyrinth in Kowloon: Walled World"
+    },
+    {
+        "charter" : [ "Clutter", "Clutter", "Gausbon vs. XMT小咩兔" ],
+        "composer" : "かめりあ",
+        "hasLegacy" : false,
+        "id" : 181,
+        "illustrator" : "山崎团",
+        "level" : [ 5.5, 10.6, 15.6 ],
+        "title" : "Compute It With Some Devilish Alcoholic Steampunk Engines"
+    },
+    {
+        "charter" : 
+        [
+            "4B314C3042592B45",
+            "4D45474142592B45",
+            "4731474142592B45",
+            "2B45524142592B45"
+        ],
+        "composer" : "かめりあ",
+        "hasLegacy" : false,
+        "id" : 182,
+        "illustrator" : "猫箱Catbox feat. 祈莲",
+        "level" : [ 5.5, 11.5, 15.9, 16.5 ],
+        "title" : "+ERABY+E CONNEC+10N"
+    },
+    {
+        "charter" : [ "Su1fuR", "Su1fuR", "Clutter" ],
+        "composer" : "SYNTHETIC",
+        "hasLegacy" : false,
+        "id" : 183,
+        "illustrator" : "彗星 feat. 祈莲",
+        "level" : [ 4.0, 7.5, 13.4 ],
+        "title" : "Diamond Eyes"
+    },
+    {
+        "charter" : [ "Su1fuR", "Barbarianerman", "百九十八" ],
+        "composer" : "imvi",
+        "hasLegacy" : false,
+        "id" : 184,
+        "illustrator" : "鲸弑",
+        "level" : [ 3.0, 9.6, 13.7 ],
+        "title" : "Bitterblossom"
+    },
+    {
+        "charter" : 
+        [
+            "Clutter is coppery，Tumult is coppery",
+            "XMT is silvery, 小咩兔 is silvery",
+            "Hara is golden, Kuma is golden"
+        ],
+        "composer" : "NIWASHI",
+        "hasLegacy" : false,
+        "id" : 185,
+        "illustrator" : "Jerry & OsuMe65",
+        "level" : [ 5.0, 9.7, 15.5 ],
+        "title" : "Silence is Golden, Speech is Golden"
+    },
+    {
+        "charter" : [ "Su1fuR", "Su1fuR", "逆天使の悪魔 【Likey】" ],
+        "composer" : "DJ Raisei",
+        "hasLegacy" : false,
+        "id" : 186,
+        "illustrator" : "OsuMe65",
+        "level" : [ 4.0, 10.9, 15.9 ],
+        "title" : "Fractured Angel"
+    },
+    {
+        "charter" : 
+        [
+            "jouR.ney with hold",
+            "jouR.ney to the end【COVERED】",
+            "Su1fuR -All about YOU & ME-"
+        ],
+        "composer" : "Iris",
+        "hasLegacy" : false,
+        "id" : 187,
+        "illustrator" : "BTKCyber (青鸟 modified)",
+        "level" : [ 5.5, 10.1, 13.8 ],
+        "title" : "Journey with You"
+    },
+    {
+        "charter" : [ "Likey ", "迟戈 vs Likey", "NerSAN" ],
+        "composer" : "Yooh",
+        "hasLegacy" : false,
+        "id" : 188,
+        "illustrator" : "Juice Black (青鸟 modified)",
+        "level" : [ 5.0, 10.5, 14.8 ],
+        "title" : "Secret Illumination"
+    },
+    {
+        "charter" : [ "Clutter", "ɹǝʇʇnlƆ", "ƃuɐnɥs∀ .sʌ uoqsnɐ⅁" ],
+        "composer" : "ARForest",
+        "hasLegacy" : false,
+        "id" : 189,
+        "illustrator" : "Mechari (青鸟 modified)",
+        "level" : [ 5.0, 11.2, 15.4 ],
+        "title" : "Inverted World"
+    },
+    {
+        "charter" : 
+        [
+            "返せ！返せ！ボクのSu1fuRを",
+            "{^-7-^} BATTLE against Su1fuR",
+            "阿爽 and StupiGGy Seizing Territory",
+            "JKy feat. 0419_Guardian"
+        ],
+        "composer" : "ツユ",
+        "hasLegacy" : false,
+        "id" : 190,
+        "illustrator" : "SEGA (V17AMax modified)",
+        "level" : [ 3.0, 9.1, 13.8, 15.3 ],
+        "title" : "テリトリーバトル"
+    },
+    {
+        "charter" : 
+        [
+            "dancing\"L\"ine 2085",
+            "迟戈 vs Likey",
+            "CTYMAX ????",
+            "TECHNOXMT vs LATENCYPOLIS"
+        ],
+        "composer" : "PRASTIK DANCEFLOOR",
+        "hasLegacy" : false,
+        "id" : 191,
+        "illustrator" : "SEGA (V17AMax modified)",
+        "level" : [ 5.0, 10.2, 14.4, 15.7 ],
+        "title" : "TECHNOPOLIS 2085"
+    },
+    {
+        "charter" : 
+        [
+            "Su1fuRikko \"SouRce of the metaveRse\"",
+            "Su1fuRikko × rN \"judgemeNt fRom the cataStRophy\"",
+            "兔咩小 vs 咩小兔 vs 小兔咩 vs 咩兔小 vs 兔小咩",
+            "フィグロス譜面チーム \"Rikko feat. Ner\" -Pray for \"PHI\"-"
+        ],
+        "composer" : "光吉猛修 VS 穴山大輔 VS Kai VS 水野健治 VS 大国奏音",
+        "hasLegacy" : false,
+        "id" : 192,
+        "illustrator" : "SEGA (V17AMax modified)",
+        "level" : [ 7.5, 13.2, 15.9, 16.5 ],
+        "title" : "祈 -我ら神祖と共に歩む者なり-"
+    },
+    {
+        "charter" : [ "Likey", "Likey", "Ner ~ See you next time ~" ],
+        "composer" : "DingerBox",
+        "hasLegacy" : false,
+        "id" : 193,
+        "illustrator" : "海产",
+        "level" : [ 4.0, 8.3, 14.9 ],
+        "title" : "bye"
+    },
+    {
+        "charter" : [ "爽夜讃歌", "爽夜讃歌", "NerSANTA & Gausbell" ],
+        "composer" : "A-39/沙包P",
+        "hasLegacy" : false,
+        "id" : 194,
+        "illustrator" : "绀屋",
+        "level" : [ 4.0, 10.1, 15.3 ],
+        "title" : "聖夜讃歌"
+    },
+    {
+        "charter" : 
+        [
+            "JKy as \"Stray Cat\"",
+            "Stray Cat Around",
+            "クラッタ・アナザー・ラウンド"
+        ],
+        "composer" : "みーに",
+        "hasLegacy" : false,
+        "id" : 195,
+        "illustrator" : "伊恩 (青鸟 modified)",
+        "level" : [ 5.0, 10.4, 14.5 ],
+        "title" : "ストレイソウル・アラウンド"
+    },
+    {
+        "charter" : [ "Likey", "Likey", "Gausbon feat. 迟戈&野从" ],
+        "composer" : "cybermiso feat. tigerlily",
+        "hasLegacy" : false,
+        "id" : 196,
+        "illustrator" : "阿清 (青鸟 modified)",
+        "level" : [ 4.0, 9.9, 14.7 ],
+        "title" : "Manifold Hypothesis"
+    },
+    {
+        "charter" : [ "R:kko (IMD)", "R:kko (IMD)", "C.Max (PBM)" ],
+        "composer" : "ZxNX",
+        "hasLegacy" : false,
+        "id" : 197,
+        "illustrator" : "BTKCyber (青鸟 modified)",
+        "level" : [ 3.0, 8.4, 15.8 ],
+        "title" : "K.Moe (VIP)"
+    },
+    {
+        "charter" : [ "B.B.M.", "B.B.M.", "A.S.H." ],
+        "composer" : "Salty Salt & Unfold33",
+        "hasLegacy" : false,
+        "id" : 198,
+        "illustrator" : "祈莲",
+        "level" : [ 5.0, 9.5, 15.6 ],
+        "title" : "G.V.N. (Glitter,Vomitus and Neon)"
+    },
+    {
+        "charter" : [ "Clutter BETA", "Crush βETA", "Timi今天吃神马" ],
+        "composer" : "shadow_bling",
+        "hasLegacy" : false,
+        "id" : 199,
+        "illustrator" : "笔记RE",
+        "level" : [ 4.0, 11.5, 15.3 ],
+        "title" : "Crush BETA"
+    },
+    {
+        "charter" : [ "Clutter", "Clutter", "Su1fuR" ],
+        "composer" : "Jungo & MAX 3 feat. 刘佳宜Snow & 幻影刃shadow",
+        "hasLegacy" : false,
+        "id" : 200,
+        "illustrator" : "午苔veeee~",
+        "level" : [ 4.0, 9.3, 13.2 ],
+        "title" : "Broken Sky"
+    },
+    {
+        "charter" : [ "BLACK CTYMAX", "COLORFUL CTYMAX", "COLORFUL BLACK GAUSBON" ],
+        "composer" : "SOMON",
+        "hasLegacy" : false,
+        "id" : 201,
+        "illustrator" : "SOMON",
+        "level" : [ 4.5, 9.5, 14.7 ],
+        "title" : "BRAIN HACKER"
+    },
+    {
+        "charter" : [ "RXhuang", "RXhuang", "Xlutter guided by three Oaths" ],
+        "composer" : "Tatsh",
+        "hasLegacy" : false,
+        "id" : 202,
+        "illustrator" : "2AI4wU4",
+        "level" : [ 5.0, 8.5, 14.6 ],
+        "title" : "Xenolith"
+    },
+    {
+        "charter" : [ "Salt", "Salt", "Salt & _鉄 inspired by 存在証明 [X]" ],
+        "composer" : "Jun Kuroda",
+        "hasLegacy" : false,
+        "id" : 203,
+        "illustrator" : "2AI4wU4",
+        "level" : [ 4.0, 10.2, 14.9 ],
+        "title" : "Artificial Existence"
+    },
+    {
+        "charter" : 
+        [
+            "Clutter & Barbarianerman",
+            "Salt & Barbarianerman",
+            "Likey affected by Ancestral Xhronicle",
+            "上班睡大觉_Sleepyhead"
+        ],
+        "composer" : "Noah",
+        "hasLegacy" : false,
+        "id" : 204,
+        "illustrator" : "兜",
+        "level" : [ 7.5, 11.7, 15.3, 16.2 ],
+        "title" : "Indelible Scar"
+    },
+    {
+        "charter" : 
+        [
+            "SeveredEntity (BlindForest vs rN) feat. Δ",
+            "Δ (M3d1uM vs Salt)",
+            "StupiGGy -The Origin-",
+            "弧光"
+        ],
+        "composer" : "Blacklolita",
+        "hasLegacy" : false,
+        "id" : 205,
+        "illustrator" : "釜飯轟々丸 + jht (Design: 祈莲)",
+        "level" : [ 5.5, 11.8, 15.2, 15.9 ],
+        "title" : "Antithese"
+    },
+    {
+        "charter" : 
+        [
+            "完璧 [WARNING: DRAG OVERLOAD]",
+            "完璧 × 北星",
+            "-NerSAN & Su1fuR-",
+            "THE LAST 198"
+        ],
+        "composer" : "Laur",
+        "hasLegacy" : false,
+        "id" : 206,
+        "illustrator" : "シエラ (Design: 祈莲)",
+        "level" : [ 7.5, 12.9, 15.6, 16.3 ],
+        "title" : "PRAGMATISM -RESURRECTION-"
+    },
+    {
+        "charter" : [ "Su1fuR", "Su1fuR", "Salt & Uvernight" ],
+        "composer" : "ADean & JocularACE",
+        "hasLegacy" : false,
+        "id" : 207,
+        "illustrator" : "海里狄七 feat. 存艺",
+        "level" : [ 4.0, 9.9, 14.6 ],
+        "title" : "Shine After"
+    },
+    {
+        "charter" : 
+        [
+            "Salt & Barbarianerman",
+            "Salt & Barbarianerman",
+            "SPΔDE & 倪尔qwq"
+        ],
+        "composer" : "targ & 麻团qwq",
+        "hasLegacy" : false,
+        "id" : 208,
+        "illustrator" : "注射",
+        "level" : [ 3.0, 10.6, 14.9 ],
+        "title" : "Bloom"
+    },
+    {
+        "charter" : 
+        [
+            "Jαckψ a.k.a JKy",
+            "Jαckψ",
+            "Jαckψ feat. Βαρβαροςαντρας"
+        ],
+        "composer" : "1112 vs. Star＊",
+        "hasLegacy" : false,
+        "id" : 209,
+        "illustrator" : "老张",
+        "level" : [ 4.5, 8.4, 12.8 ],
+        "title" : "Ποσειδών"
+    },
+    {
+        "charter" : 
+        [
+            "急流に巻き込まれ",
+            "対流に巻き込まれ",
+            "乱流に巻き込まれ"
+        ],
+        "composer" : "A-39/沙包P",
+        "hasLegacy" : false,
+        "id" : 210,
+        "illustrator" : "knife美工刀",
+        "level" : [ 4.5, 9.4, 13.6 ],
+        "title" : "WATER"
+    },
+    {
+        "charter" : [ "奇跡の希", "奇跡の希", "奇跡の希 feat. 奇跡の従" ],
+        "composer" : "Rinth_live",
+        "hasLegacy" : false,
+        "id" : 211,
+        "illustrator" : "L-sp4",
+        "level" : [ 2.5, 9.8, 13.7 ],
+        "title" : "Miracle Forest (VIP Mix)"
+    },
+    {
+        "charter" : 
+        [
+            "百九十八",
+            "百九十八",
+            "StupiGGy vs. 百九十八 ft. 野从"
+        ],
+        "composer" : "Dachs",
+        "hasLegacy" : false,
+        "id" : 212,
+        "illustrator" : "わっふゑ",
+        "level" : [ 5.0, 9.7, 14.4 ],
+        "title" : "MOBILYS"
+    },
+    {
+        "charter" : 
+        [
+            "Arenn Saki as \"mAze\"",
+            "Arenn Saki as \"myStery\"",
+            "XMT as \"eX-MentalisT\"",
+            "CN_115 as \"prediCameNt\""
+        ],
+        "composer" : "ユメミド",
+        "hasLegacy" : true,
+        "id" : 213,
+        "illustrator" : "何呵",
+        "level" : [ 5.0, 11.6, 15.8, 16.2 ],
+        "title" : "Lyrith -迷宮リリス-"
+    },
+    {
+        "charter" : 
+        [
+            "\"Manufacturer\" ~ Rikko",
+            "\"Creator\" ~ StupiGGy",
+            "\"Demiurge\" ~ Dawn"
+        ],
+        "composer" : "Rabpit",
+        "hasLegacy" : false,
+        "id" : 214,
+        "illustrator" : "青鸟",
+        "level" : [ 1.5, 7.5, 11.8 ],
+        "title" : "Demiurge"
+    },
+    {
+        "charter" : [ "Alloces", "Alloces", "Sillyp & Alloces" ],
+        "composer" : "Forged Reigns",
+        "hasLegacy" : false,
+        "id" : 215,
+        "illustrator" : "Jeffery",
+        "level" : [ 5.5, 10.3, 13.7 ],
+        "title" : "Demonkin"
+    },
+    {
+        "charter" : [ "NerSAN", "NerSAN", "NerSAN & 百九十八" ],
+        "composer" : "Rinth_live",
+        "hasLegacy" : false,
+        "id" : 216,
+        "illustrator" : "Tsuioku",
+        "level" : [ 4.5, 11.4, 14.6 ],
+        "title" : "Re_Nascence (Psystyle Ver.) "
+    },
+    {
+        "charter" : [ "TimiTini", "TimiTini", "阿爽 eat Ctymax" ],
+        "composer" : "kanoryo",
+        "hasLegacy" : false,
+        "id" : 217,
+        "illustrator" : "MOAI WORKS",
+        "level" : [ 4.5, 10.9, 15.1 ],
+        "title" : "Ark"
+    },
+    {
+        "charter" : [ "Barbarianerman", "NerSAN feat. Pcat", "BarbariaNerSAN feat. Snorkel" ],
+        "composer" : "S9ryne",
+        "hasLegacy" : false,
+        "id" : 218,
+        "illustrator" : "月亮酱",
+        "level" : [ 4.0, 11.1, 15.3 ],
+        "title" : "After Dawn"
+    },
+    {
+        "charter" : 
+        [
+            "while(TangScend<=TangScend);",
+            "while(TangScend>=TangScend);",
+            "while(TangScend==TangScend);",
+            "while(TangScend=TangScend);"
+        ],
+        "composer" : "Reku Mochizuki",
+        "hasLegacy" : false,
+        "id" : 219,
+        "illustrator" : "knife美工刀",
+        "level" : [ 7.5, 12.4, 14.7, 16.3 ],
+        "title" : "INFiNiTE ENERZY -Overdoze-"
+    },
+    {
+        "charter" : [ "Barbarialid", "Barbarialid", "Ner＜Jazz for your soul .)" ],
+        "composer" : "Dolphin",
+        "hasLegacy" : false,
+        "id" : 220,
+        "illustrator" : "HAZUQU",
+        "level" : [ 4.0, 8.2, 13.1 ],
+        "title" : "Khalid"
+    },
+    {
+        "charter" : [ "Bariantum Hyperianerman", "Bariantum Hyperianerman", "IMD_0b0110" ],
+        "composer" : "D_AAN",
+        "hasLegacy" : false,
+        "id" : 221,
+        "illustrator" : "sa1t",
+        "level" : [ 6.0, 11.2, 14.8 ],
+        "title" : "Quantum Hyperspace"
+    },
+    {
+        "charter" : 
+        [
+            "Ner ~Freaky Cat of Charting~",
+            "ARE YOU JEITIE!!!",
+            "<= Noblesse Jeitie =>"
+        ],
+        "composer" : "Jehezukiel + KURORAK",
+        "hasLegacy" : false,
+        "id" : 222,
+        "illustrator" : "PEZZ feat. 祈莲 & CattoHato",
+        "level" : [ 7.0, 11.9, 15.1 ],
+        "title" : "Freaky Undulations ~Noble Knights of Tune~"
+    },
+    {
+        "charter" : 
+        [
+            "Barianic Baradise",
+            "Barianic Baradise",
+            "Su1fuR -FAISEURS DE PANIQUE-"
+        ],
+        "composer" : "DJ SHION.Y",
+        "hasLegacy" : false,
+        "id" : 223,
+        "illustrator" : "百九十八",
+        "level" : [ 5.0, 11.5, 15.4 ],
+        "title" : "PANIC PARADISE"
+    },
+    {
+        "charter" : 
+        [
+            "Barbarianerman, Overture before the story",
+            "Barbarianerman, Main theme within the somnium",
+            "Latency, Finale of the dream",
+            "XMT, Encore after the end"
+        ],
+        "composer" : "uma vs. モリモリあつし",
+        "hasLegacy" : false,
+        "id" : 224,
+        "illustrator" : "masiro vs. adaptor",
+        "level" : [ 7.5, 13.1, 15.8, 16.4 ],
+        "title" : "Re：End of a Dream"
+    },
+    {
+        "charter" : [ "RipHall vs. Likey", "RipHall vs. Likey", "Su1fuR、快斬！" ],
+        "composer" : "Capchii feat. まるもこ",
+        "hasLegacy" : false,
+        "id" : 225,
+        "illustrator" : "瀬名",
+        "level" : [ 3.0, 10.1, 14.8 ],
+        "title" : "幽世桔梗"
+    },
+    {
+        "charter" : [ "Rikko", "実戦 with Rikko", "Salt & Barbarianerman" ],
+        "composer" : "r0y vs. WABI",
+        "hasLegacy" : false,
+        "id" : 226,
+        "illustrator" : "中本ひょうり",
+        "level" : [ 4.5, 12.1, 15.6 ],
+        "title" : "千紫万紅"
+    },
+    {
+        "charter" : [ "COC  feat. Su1fuR", "COC  feat. Su1fuR", "Arenn Salty feat. LDA" ],
+        "composer" : "M-UE vs. Reku Mochizuki",
+        "hasLegacy" : false,
+        "id" : 227,
+        "illustrator" : "中本ひょうり",
+        "level" : [ 6.5, 11.3, 15.8 ],
+        "title" : "明鏡烈火"
+    }
+]
