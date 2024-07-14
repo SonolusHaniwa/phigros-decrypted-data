@@ -6,6 +6,16 @@
         "chapterName": "Single",
         "songs": [
             {
+                "songId": "今天不是明天.PIKASONICfeat兰音Reine.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [
+                    "4",
+                    "prev@07/12/2024 17:00:00 +8:00"
+                ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
                 "songId": "Bloom.targ麻团qwq.0",
                 "fixedInteger1": 1,
                 "unlockCondition": [],

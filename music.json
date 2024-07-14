@@ -2405,6 +2405,21 @@
         "title" : "明鏡烈火"
     },
     {
+        "chapter" : "Single",
+        "charter" : 
+        [
+            "扫佛不是嫂夫",
+            "扫佛不是嫂夫",
+            "杂波不是杂啵，野从不是野丛"
+        ],
+        "composer" : "PIKASONIC feat. 兰音Reine",
+        "hasLegacy" : false,
+        "id" : 228,
+        "illustrator" : "KiTA & 一击即溃",
+        "level" : [ 3.0, 8.5, 13.5 ],
+        "title" : "今天不是明天"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [

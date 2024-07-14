@@ -22,7 +22,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 15.420000076293945,
+        "fixedInteger1": 15.420000076293945,
         "previewTime": 42.849998474121094,
         "unlockList": [
             {
@@ -46,6 +46,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -87,7 +88,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 48.012001037597656,
+        "fixedInteger1": 48.012001037597656,
         "previewTime": 60.013999938964844,
         "unlockList": [
             {
@@ -107,6 +108,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -150,7 +152,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 32.0,
+        "fixedInteger1": 32.0,
         "previewTime": 47.0,
         "unlockList": [
             {
@@ -170,6 +172,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -211,7 +214,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 23.0,
+        "fixedInteger1": 23.0,
         "previewTime": 38.0,
         "unlockList": [
             {
@@ -231,6 +234,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -272,7 +276,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 47.7400016784668,
+        "fixedInteger1": 47.7400016784668,
         "previewTime": 69.66999816894531,
         "unlockList": [
             {
@@ -292,6 +296,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -333,7 +338,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 63.33000183105469,
+        "fixedInteger1": 63.33000183105469,
         "previewTime": 97.33000183105469,
         "unlockList": [
             {
@@ -353,6 +358,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -394,7 +400,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 9.5,
+        "fixedInteger1": 9.5,
         "previewTime": 24.5,
         "unlockList": [
             {
@@ -414,6 +420,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -455,7 +462,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 37.540000915527344,
+        "fixedInteger1": 37.540000915527344,
         "previewTime": 60.33000183105469,
         "unlockList": [
             {
@@ -475,6 +482,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -516,7 +524,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 77.33000183105469,
+        "fixedInteger1": 77.33000183105469,
         "previewTime": 100.0,
         "unlockList": [
             {
@@ -536,6 +544,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -577,7 +586,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 53.78099822998047,
+        "fixedInteger1": 53.78099822998047,
         "previewTime": 67.86199951171875,
         "unlockList": [
             {
@@ -597,6 +606,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -638,7 +648,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 84.98899841308594,
+        "fixedInteger1": 84.98899841308594,
         "previewTime": 101.3280029296875,
         "unlockList": [
             {
@@ -658,6 +668,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -699,7 +710,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 129.13999938964844,
+        "fixedInteger1": 129.13999938964844,
         "previewTime": 149.7100067138672,
         "unlockList": [
             {
@@ -719,6 +730,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -760,7 +772,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 110.4000015258789,
+        "fixedInteger1": 110.4000015258789,
         "previewTime": 139.1999969482422,
         "unlockList": [
             {
@@ -780,6 +792,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -821,7 +834,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 57.58000183105469,
+        "fixedInteger1": 57.58000183105469,
         "previewTime": 73.66999816894531,
         "unlockList": [
             {
@@ -841,6 +854,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -882,7 +896,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 63.084999084472656,
+        "fixedInteger1": 63.084999084472656,
         "previewTime": 76.68199920654297,
         "unlockList": [
             {
@@ -902,6 +916,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -943,7 +958,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 15.869999885559082,
+        "fixedInteger1": 15.869999885559082,
         "previewTime": 30.8700008392334,
         "unlockList": [
             {
@@ -963,6 +978,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1004,7 +1020,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 73.5,
+        "fixedInteger1": 73.5,
         "previewTime": 92.5,
         "unlockList": [
             {
@@ -1024,6 +1040,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1065,7 +1082,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 54.66600036621094,
+        "fixedInteger1": 54.66600036621094,
         "previewTime": 68.0,
         "unlockList": [
             {
@@ -1085,6 +1102,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1126,7 +1144,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 23.360000610351562,
+        "fixedInteger1": 23.360000610351562,
         "previewTime": 38.36000061035156,
         "unlockList": [
             {
@@ -1146,6 +1164,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1188,7 +1207,7 @@
             "AT",
             "Legacy"
         ],
-        "unknown": 85.5260009765625,
+        "fixedInteger1": 85.5260009765625,
         "previewTime": 99.12000274658203,
         "unlockList": [
             {
@@ -1208,6 +1227,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1249,7 +1269,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 39.349998474121094,
+        "fixedInteger1": 39.349998474121094,
         "previewTime": 51.810001373291016,
         "unlockList": [
             {
@@ -1269,6 +1289,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1310,7 +1331,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 111.21900177001953,
+        "fixedInteger1": 111.21900177001953,
         "previewTime": 126.21900177001953,
         "unlockList": [
             {
@@ -1330,6 +1351,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1371,7 +1393,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 54.0,
+        "fixedInteger1": 54.0,
         "previewTime": 69.0,
         "unlockList": [
             {
@@ -1391,6 +1413,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1432,7 +1455,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 95.67500305175781,
+        "fixedInteger1": 95.67500305175781,
         "previewTime": 110.67500305175781,
         "unlockList": [
             {
@@ -1452,6 +1475,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1493,7 +1517,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 91.56900024414062,
+        "fixedInteger1": 91.56900024414062,
         "previewTime": 113.74099731445312,
         "unlockList": [
             {
@@ -1513,6 +1537,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1556,7 +1581,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 72.5999984741211,
+        "fixedInteger1": 72.5999984741211,
         "previewTime": 92.4000015258789,
         "unlockList": [
             {
@@ -1582,6 +1607,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1623,7 +1649,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 27.187999725341797,
+        "fixedInteger1": 27.187999725341797,
         "previewTime": 40.0,
         "unlockList": [
             {
@@ -1643,6 +1669,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1684,7 +1711,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 47.02000045776367,
+        "fixedInteger1": 47.02000045776367,
         "previewTime": 61.0,
         "unlockList": [
             {
@@ -1704,6 +1731,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1745,7 +1773,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 29.30500030517578,
+        "fixedInteger1": 29.30500030517578,
         "previewTime": 46.053001403808594,
         "unlockList": [
             {
@@ -1765,6 +1793,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1806,7 +1835,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 61.53200149536133,
+        "fixedInteger1": 61.53200149536133,
         "previewTime": 81.23400115966797,
         "unlockList": [
             {
@@ -1826,6 +1855,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1867,7 +1897,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 28.952999114990234,
+        "fixedInteger1": 28.952999114990234,
         "previewTime": 43.952999114990234,
         "unlockList": [
             {
@@ -1887,6 +1917,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1928,7 +1959,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 71.11399841308594,
+        "fixedInteger1": 71.11399841308594,
         "previewTime": 96.51399993896484,
         "unlockList": [
             {
@@ -1948,6 +1979,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -1991,7 +2023,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 79.82599639892578,
+        "fixedInteger1": 79.82599639892578,
         "previewTime": 94.82599639892578,
         "unlockList": [
             {
@@ -2017,6 +2049,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -2058,7 +2091,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 114.4280014038086,
+        "fixedInteger1": 114.4280014038086,
         "previewTime": 142.28500366210938,
         "unlockList": [
             {
@@ -2078,6 +2111,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -2119,7 +2153,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 62.7599983215332,
+        "fixedInteger1": 62.7599983215332,
         "previewTime": 84.0,
         "unlockList": [
             {
@@ -2139,6 +2173,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -2180,7 +2215,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 68.5999984741211,
+        "fixedInteger1": 68.5999984741211,
         "previewTime": 83.5999984741211,
         "unlockList": [
             {
@@ -2200,6 +2235,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -2241,7 +2277,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 70.38700103759766,
+        "fixedInteger1": 70.38700103759766,
         "previewTime": 87.75299835205078,
         "unlockList": [
             {
@@ -2261,6 +2297,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -2302,7 +2339,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 12.21399974822998,
+        "fixedInteger1": 12.21399974822998,
         "previewTime": 30.033000946044922,
         "unlockList": [
             {
@@ -2322,6 +2359,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -2365,7 +2403,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 84.62200164794922,
+        "fixedInteger1": 84.62200164794922,
         "previewTime": 99.7969970703125,
         "unlockList": [
             {
@@ -2391,6 +2429,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -2432,7 +2471,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 95.0,
+        "fixedInteger1": 95.0,
         "previewTime": 110.0,
         "unlockList": [
             {
@@ -2452,6 +2491,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -2493,7 +2533,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 80.83999633789062,
+        "fixedInteger1": 80.83999633789062,
         "previewTime": 102.13500213623047,
         "unlockList": [
             {
@@ -2513,6 +2553,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -2554,7 +2595,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 106.30400085449219,
+        "fixedInteger1": 106.30400085449219,
         "previewTime": 130.4340057373047,
         "unlockList": [
             {
@@ -2574,6 +2615,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -2615,7 +2657,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 102.31500244140625,
+        "fixedInteger1": 102.31500244140625,
         "previewTime": 122.5260009765625,
         "unlockList": [
             {
@@ -2635,6 +2677,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -2678,7 +2721,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 105.31800079345703,
+        "fixedInteger1": 105.31800079345703,
         "previewTime": 123.96099853515625,
         "unlockList": [
             {
@@ -2701,6 +2744,7 @@
                 ]
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -2744,7 +2788,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 99.4000015258789,
+        "fixedInteger1": 99.4000015258789,
         "previewTime": 119.4000015258789,
         "unlockList": [
             {
@@ -2767,6 +2811,7 @@
                 ]
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -2808,7 +2853,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 3.869999885559082,
+        "fixedInteger1": 3.869999885559082,
         "previewTime": 16.61400032043457,
         "unlockList": [
             {
@@ -2828,6 +2873,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -2871,7 +2917,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 7.199999809265137,
+        "fixedInteger1": 7.199999809265137,
         "previewTime": 21.0,
         "unlockList": [
             {
@@ -2891,6 +2937,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -2932,7 +2979,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 17.139999389648438,
+        "fixedInteger1": 17.139999389648438,
         "previewTime": 32.56999969482422,
         "unlockList": [
             {
@@ -2952,6 +2999,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -2993,7 +3041,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 102.0,
+        "fixedInteger1": 102.0,
         "previewTime": 113.4000015258789,
         "unlockList": [
             {
@@ -3013,6 +3061,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -3054,7 +3103,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 120.0,
+        "fixedInteger1": 120.0,
         "previewTime": 136.0,
         "unlockList": [
             {
@@ -3074,6 +3123,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -3117,7 +3167,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 120.0,
+        "fixedInteger1": 120.0,
         "previewTime": 142.5800018310547,
         "unlockList": [
             {
@@ -3137,6 +3187,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -3180,7 +3231,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 50.619998931884766,
+        "fixedInteger1": 50.619998931884766,
         "previewTime": 68.75,
         "unlockList": [
             {
@@ -3200,6 +3251,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -3241,7 +3293,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 60.03499984741211,
+        "fixedInteger1": 60.03499984741211,
         "previewTime": 76.87200164794922,
         "unlockList": [
             {
@@ -3261,6 +3313,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -3302,7 +3355,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 26.31999969482422,
+        "fixedInteger1": 26.31999969482422,
         "previewTime": 51.09000015258789,
         "unlockList": [
             {
@@ -3322,6 +3375,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -3363,7 +3417,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 60.95000076293945,
+        "fixedInteger1": 60.95000076293945,
         "previewTime": 93.33000183105469,
         "unlockList": [
             {
@@ -3383,6 +3437,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -3424,7 +3479,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 107.19999694824219,
+        "fixedInteger1": 107.19999694824219,
         "previewTime": 132.8000030517578,
         "unlockList": [
             {
@@ -3444,6 +3499,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -3485,7 +3541,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 82.96700286865234,
+        "fixedInteger1": 82.96700286865234,
         "previewTime": 97.96700286865234,
         "unlockList": [
             {
@@ -3505,6 +3561,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -3546,7 +3603,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 31.141000747680664,
+        "fixedInteger1": 31.141000747680664,
         "previewTime": 42.4900016784668,
         "unlockList": [
             {
@@ -3566,6 +3623,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -3607,7 +3665,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 82.0,
+        "fixedInteger1": 82.0,
         "previewTime": 98.0,
         "unlockList": [
             {
@@ -3627,6 +3685,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -3668,7 +3727,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 78.76000213623047,
+        "fixedInteger1": 78.76000213623047,
         "previewTime": 93.76000213623047,
         "unlockList": [
             {
@@ -3688,6 +3747,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -3729,7 +3789,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 37.737998962402344,
+        "fixedInteger1": 37.737998962402344,
         "previewTime": 52.1870002746582,
         "unlockList": [
             {
@@ -3749,6 +3809,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -3792,7 +3853,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 61.560001373291016,
+        "fixedInteger1": 61.560001373291016,
         "previewTime": 79.30000305175781,
         "unlockList": [
             {
@@ -3812,6 +3873,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -3853,7 +3915,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 32.0,
+        "fixedInteger1": 32.0,
         "previewTime": 47.0,
         "unlockList": [
             {
@@ -3873,6 +3935,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -3914,7 +3977,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 84.5,
+        "fixedInteger1": 84.5,
         "previewTime": 100.5,
         "unlockList": [
             {
@@ -3934,6 +3997,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -3975,7 +4039,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 77.5,
+        "fixedInteger1": 77.5,
         "previewTime": 92.5,
         "unlockList": [
             {
@@ -3995,6 +4059,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -4036,7 +4101,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 81.0,
+        "fixedInteger1": 81.0,
         "previewTime": 96.0,
         "unlockList": [
             {
@@ -4056,6 +4121,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -4098,7 +4164,7 @@
             "AT",
             "Legacy"
         ],
-        "unknown": 11.519000053405762,
+        "fixedInteger1": 11.519000053405762,
         "previewTime": 26.45599937438965,
         "unlockList": [
             {
@@ -4122,6 +4188,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -4163,7 +4230,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 45.24700164794922,
+        "fixedInteger1": 45.24700164794922,
         "previewTime": 67.20999908447266,
         "unlockList": [
             {
@@ -4183,6 +4250,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -4224,7 +4292,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 46.869998931884766,
+        "fixedInteger1": 46.869998931884766,
         "previewTime": 63.7400016784668,
         "unlockList": [
             {
@@ -4244,6 +4312,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -4285,7 +4354,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 76.91600036621094,
+        "fixedInteger1": 76.91600036621094,
         "previewTime": 98.75,
         "unlockList": [
             {
@@ -4305,6 +4374,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -4346,7 +4416,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 83.74099731445312,
+        "fixedInteger1": 83.74099731445312,
         "previewTime": 101.86599731445312,
         "unlockList": [
             {
@@ -4366,6 +4436,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -4407,7 +4478,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 17.972999572753906,
+        "fixedInteger1": 17.972999572753906,
         "previewTime": 33.03900146484375,
         "unlockList": [
             {
@@ -4427,6 +4498,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -4469,7 +4541,7 @@
             "AT",
             "Legacy"
         ],
-        "unknown": 77.72000122070312,
+        "fixedInteger1": 77.72000122070312,
         "previewTime": 99.54000091552734,
         "unlockList": [
             {
@@ -4493,6 +4565,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -4534,7 +4607,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 36.28300094604492,
+        "fixedInteger1": 36.28300094604492,
         "previewTime": 51.51100158691406,
         "unlockList": [
             {
@@ -4554,6 +4627,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -4595,7 +4669,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 14.626999855041504,
+        "fixedInteger1": 14.626999855041504,
         "previewTime": 34.09600067138672,
         "unlockList": [
             {
@@ -4615,6 +4689,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -4656,7 +4731,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 48.82600021362305,
+        "fixedInteger1": 48.82600021362305,
         "previewTime": 73.44999694824219,
         "unlockList": [
             {
@@ -4676,6 +4751,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -4717,7 +4793,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 27.38599967956543,
+        "fixedInteger1": 27.38599967956543,
         "previewTime": 47.308998107910156,
         "unlockList": [
             {
@@ -4737,6 +4813,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -4778,7 +4855,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 92.4000015258789,
+        "fixedInteger1": 92.4000015258789,
         "previewTime": 111.5999984741211,
         "unlockList": [
             {
@@ -4798,6 +4875,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -4839,7 +4917,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 57.10300064086914,
+        "fixedInteger1": 57.10300064086914,
         "previewTime": 72.10299682617188,
         "unlockList": [
             {
@@ -4859,6 +4937,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -4900,7 +4979,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 28.395000457763672,
+        "fixedInteger1": 28.395000457763672,
         "previewTime": 47.98899841308594,
         "unlockList": [
             {
@@ -4920,6 +4999,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -4961,7 +5041,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 30.0,
+        "fixedInteger1": 30.0,
         "previewTime": 46.875,
         "unlockList": [
             {
@@ -4981,6 +5061,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5022,7 +5103,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 24.97100067138672,
+        "fixedInteger1": 24.97100067138672,
         "previewTime": 38.49700164794922,
         "unlockList": [
             {
@@ -5042,6 +5123,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5083,7 +5165,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 91.89299774169922,
+        "fixedInteger1": 91.89299774169922,
         "previewTime": 106.89299774169922,
         "unlockList": [
             {
@@ -5103,6 +5185,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5144,7 +5227,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 44.0,
+        "fixedInteger1": 44.0,
         "previewTime": 64.0,
         "unlockList": [
             {
@@ -5164,6 +5247,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5205,7 +5289,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 105.82599639892578,
+        "fixedInteger1": 105.82599639892578,
         "previewTime": 123.46299743652344,
         "unlockList": [
             {
@@ -5225,6 +5309,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5266,7 +5351,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 102.70500183105469,
+        "fixedInteger1": 102.70500183105469,
         "previewTime": 117.70500183105469,
         "unlockList": [
             {
@@ -5286,6 +5371,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5327,7 +5413,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 90.80999755859375,
+        "fixedInteger1": 90.80999755859375,
         "previewTime": 109.18000030517578,
         "unlockList": [
             {
@@ -5347,6 +5433,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5388,7 +5475,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 18.89699935913086,
+        "fixedInteger1": 18.89699935913086,
         "previewTime": 33.89699935913086,
         "unlockList": [
             {
@@ -5408,6 +5495,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5449,7 +5537,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 55.44300079345703,
+        "fixedInteger1": 55.44300079345703,
         "previewTime": 70.44300079345703,
         "unlockList": [
             {
@@ -5469,6 +5557,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5510,7 +5599,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 66.0,
+        "fixedInteger1": 66.0,
         "previewTime": 86.0,
         "unlockList": [
             {
@@ -5530,6 +5619,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5571,7 +5661,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 55.29999923706055,
+        "fixedInteger1": 55.29999923706055,
         "previewTime": 75.30000305175781,
         "unlockList": [
             {
@@ -5591,6 +5681,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5632,7 +5723,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 63.29999923706055,
+        "fixedInteger1": 63.29999923706055,
         "previewTime": 80.69999694824219,
         "unlockList": [
             {
@@ -5652,6 +5743,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5693,7 +5785,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 48.0,
+        "fixedInteger1": 48.0,
         "previewTime": 58.0,
         "unlockList": [
             {
@@ -5713,6 +5805,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5754,7 +5847,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 42.2400016784668,
+        "fixedInteger1": 42.2400016784668,
         "previewTime": 62.720001220703125,
         "unlockList": [
             {
@@ -5774,6 +5867,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5815,7 +5909,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 78.5,
+        "fixedInteger1": 78.5,
         "previewTime": 91.5,
         "unlockList": [
             {
@@ -5835,6 +5929,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5876,7 +5971,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 9.199999809265137,
+        "fixedInteger1": 9.199999809265137,
         "previewTime": 31.076000213623047,
         "unlockList": [
             {
@@ -5896,6 +5991,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5937,7 +6033,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 3.200000047683716,
+        "fixedInteger1": 3.200000047683716,
         "previewTime": 25.24799919128418,
         "unlockList": [
             {
@@ -5957,6 +6053,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -5998,7 +6095,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 20.663999557495117,
+        "fixedInteger1": 20.663999557495117,
         "previewTime": 42.0099983215332,
         "unlockList": [
             {
@@ -6018,6 +6115,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -6059,7 +6157,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 99.29499816894531,
+        "fixedInteger1": 99.29499816894531,
         "previewTime": 114.51399993896484,
         "unlockList": [
             {
@@ -6079,6 +6177,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -6120,7 +6219,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 86.0,
+        "fixedInteger1": 86.0,
         "previewTime": 101.0,
         "unlockList": [
             {
@@ -6140,6 +6239,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -6181,7 +6281,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 2.1389999389648438,
+        "fixedInteger1": 2.1389999389648438,
         "previewTime": 19.297000885009766,
         "unlockList": [
             {
@@ -6201,6 +6301,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -6242,7 +6343,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 62.0099983215332,
+        "fixedInteger1": 62.0099983215332,
         "previewTime": 79.01100158691406,
         "unlockList": [
             {
@@ -6262,6 +6363,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -6303,7 +6405,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 90.01499938964844,
+        "fixedInteger1": 90.01499938964844,
         "previewTime": 110.0510025024414,
         "unlockList": [
             {
@@ -6323,6 +6425,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -6364,7 +6467,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 15.005000114440918,
+        "fixedInteger1": 15.005000114440918,
         "previewTime": 31.889999389648438,
         "unlockList": [
             {
@@ -6384,6 +6487,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -6425,7 +6529,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 107.55500030517578,
+        "fixedInteger1": 107.55500030517578,
         "previewTime": 122.55500030517578,
         "unlockList": [
             {
@@ -6445,6 +6549,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -6486,7 +6591,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 96.33799743652344,
+        "fixedInteger1": 96.33799743652344,
         "previewTime": 109.85900115966797,
         "unlockList": [
             {
@@ -6506,6 +6611,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -6549,7 +6655,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 111.83200073242188,
+        "fixedInteger1": 111.83200073242188,
         "previewTime": 131.93699645996094,
         "unlockList": [
             {
@@ -6569,6 +6675,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -6610,7 +6717,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 44.0,
+        "fixedInteger1": 44.0,
         "previewTime": 62.7140007019043,
         "unlockList": [
             {
@@ -6630,6 +6737,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -6671,7 +6779,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 85.08799743652344,
+        "fixedInteger1": 85.08799743652344,
         "previewTime": 107.12200164794922,
         "unlockList": [
             {
@@ -6691,6 +6799,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -6732,7 +6841,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 110.66000366210938,
+        "fixedInteger1": 110.66000366210938,
         "previewTime": 134.0,
         "unlockList": [
             {
@@ -6752,6 +6861,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -6795,7 +6905,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 56.9010009765625,
+        "fixedInteger1": 56.9010009765625,
         "previewTime": 79.43599700927734,
         "unlockList": [
             {
@@ -6815,6 +6925,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -6856,7 +6967,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 109.0999984741211,
+        "fixedInteger1": 109.0999984741211,
         "previewTime": 127.0999984741211,
         "unlockList": [
             {
@@ -6876,6 +6987,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -6917,7 +7029,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 108.0,
+        "fixedInteger1": 108.0,
         "previewTime": 126.57499694824219,
         "unlockList": [
             {
@@ -6937,6 +7049,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -6978,7 +7091,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 106.74500274658203,
+        "fixedInteger1": 106.74500274658203,
         "previewTime": 119.5469970703125,
         "unlockList": [
             {
@@ -6998,6 +7111,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -7039,7 +7153,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 76.81500244140625,
+        "fixedInteger1": 76.81500244140625,
         "previewTime": 93.75,
         "unlockList": [
             {
@@ -7059,6 +7173,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -7100,7 +7215,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 96.0,
+        "fixedInteger1": 96.0,
         "previewTime": 111.0,
         "unlockList": [
             {
@@ -7120,6 +7235,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -7161,7 +7277,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 67.01399993896484,
+        "fixedInteger1": 67.01399993896484,
         "previewTime": 82.01399993896484,
         "unlockList": [
             {
@@ -7181,6 +7297,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -7222,7 +7339,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 64.0,
+        "fixedInteger1": 64.0,
         "previewTime": 80.0,
         "unlockList": [
             {
@@ -7242,6 +7359,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -7283,7 +7401,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 99.89800262451172,
+        "fixedInteger1": 99.89800262451172,
         "previewTime": 115.0,
         "unlockList": [
             {
@@ -7303,6 +7421,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -7344,7 +7463,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 21.33300018310547,
+        "fixedInteger1": 21.33300018310547,
         "previewTime": 45.33300018310547,
         "unlockList": [
             {
@@ -7364,6 +7483,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -7405,7 +7525,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 96.0199966430664,
+        "fixedInteger1": 96.0199966430664,
         "previewTime": 117.48200225830078,
         "unlockList": [
             {
@@ -7425,6 +7545,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -7466,7 +7587,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 23.31399917602539,
+        "fixedInteger1": 23.31399917602539,
         "previewTime": 43.8849983215332,
         "unlockList": [
             {
@@ -7486,6 +7607,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -7527,7 +7649,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 61.875999450683594,
+        "fixedInteger1": 61.875999450683594,
         "previewTime": 78.74500274658203,
         "unlockList": [
             {
@@ -7547,6 +7669,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -7588,7 +7711,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 28.132999420166016,
+        "fixedInteger1": 28.132999420166016,
         "previewTime": 46.888999938964844,
         "unlockList": [
             {
@@ -7608,6 +7731,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -7649,7 +7773,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 24.0,
+        "fixedInteger1": 24.0,
         "previewTime": 42.28499984741211,
         "unlockList": [
             {
@@ -7669,6 +7793,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -7710,7 +7835,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 87.77100372314453,
+        "fixedInteger1": 87.77100372314453,
         "previewTime": 110.11399841308594,
         "unlockList": [
             {
@@ -7730,6 +7855,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -7771,7 +7897,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 52.68199920654297,
+        "fixedInteger1": 52.68199920654297,
         "previewTime": 81.95099639892578,
         "unlockList": [
             {
@@ -7791,6 +7917,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -7832,7 +7959,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 113.5,
+        "fixedInteger1": 113.5,
         "previewTime": 128.5,
         "unlockList": [
             {
@@ -7852,6 +7979,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -7893,7 +8021,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 46.64099884033203,
+        "fixedInteger1": 46.64099884033203,
         "previewTime": 63.74300003051758,
         "unlockList": [
             {
@@ -7913,6 +8041,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -7954,7 +8083,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 48.0,
+        "fixedInteger1": 48.0,
         "previewTime": 63.428001403808594,
         "unlockList": [
             {
@@ -7974,6 +8103,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -8015,7 +8145,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 65.34700012207031,
+        "fixedInteger1": 65.34700012207031,
         "previewTime": 85.35099792480469,
         "unlockList": [
             {
@@ -8035,6 +8165,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -8076,7 +8207,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 97.44599914550781,
+        "fixedInteger1": 97.44599914550781,
         "previewTime": 112.76499938964844,
         "unlockList": [
             {
@@ -8096,6 +8227,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -8137,7 +8269,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 79.45099639892578,
+        "fixedInteger1": 79.45099639892578,
         "previewTime": 102.62000274658203,
         "unlockList": [
             {
@@ -8157,6 +8289,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -8198,7 +8331,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 26.055999755859375,
+        "fixedInteger1": 26.055999755859375,
         "previewTime": 49.400001525878906,
         "unlockList": [
             {
@@ -8218,6 +8351,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -8259,7 +8393,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 28.60099983215332,
+        "fixedInteger1": 28.60099983215332,
         "previewTime": 43.52299880981445,
         "unlockList": [
             {
@@ -8279,6 +8413,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -8320,7 +8455,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 54.81800079345703,
+        "fixedInteger1": 54.81800079345703,
         "previewTime": 69.54499816894531,
         "unlockList": [
             {
@@ -8340,6 +8475,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -8381,7 +8517,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 96.03199768066406,
+        "fixedInteger1": 96.03199768066406,
         "previewTime": 118.29499816894531,
         "unlockList": [
             {
@@ -8401,6 +8537,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -8442,7 +8579,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 41.0989990234375,
+        "fixedInteger1": 41.0989990234375,
         "previewTime": 56.0989990234375,
         "unlockList": [
             {
@@ -8462,6 +8599,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -8505,7 +8643,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 117.7979965209961,
+        "fixedInteger1": 117.7979965209961,
         "previewTime": 131.04800415039062,
         "unlockList": [
             {
@@ -8530,6 +8668,7 @@
                 ]
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -8573,7 +8712,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 42.66600036621094,
+        "fixedInteger1": 42.66600036621094,
         "previewTime": 65.33300018310547,
         "unlockList": [
             {
@@ -8596,6 +8735,7 @@
                 ]
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -8637,7 +8777,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 38.297000885009766,
+        "fixedInteger1": 38.297000885009766,
         "previewTime": 49.7869987487793,
         "unlockList": [
             {
@@ -8657,6 +8797,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -8698,7 +8839,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 70.62799835205078,
+        "fixedInteger1": 70.62799835205078,
         "previewTime": 87.77100372314453,
         "unlockList": [
             {
@@ -8718,6 +8859,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -8759,7 +8901,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 11.286999702453613,
+        "fixedInteger1": 11.286999702453613,
         "previewTime": 24.356000900268555,
         "unlockList": [
             {
@@ -8779,6 +8921,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -8820,7 +8963,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 52.0,
+        "fixedInteger1": 52.0,
         "previewTime": 72.0,
         "unlockList": [
             {
@@ -8840,6 +8983,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -8883,7 +9027,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 105.0,
+        "fixedInteger1": 105.0,
         "previewTime": 120.0,
         "unlockList": [
             {
@@ -8907,6 +9051,7 @@
                 ]
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -8948,7 +9093,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 46.66299819946289,
+        "fixedInteger1": 46.66299819946289,
         "previewTime": 69.33300018310547,
         "unlockList": [
             {
@@ -8968,6 +9113,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9009,7 +9155,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 20.100000381469727,
+        "fixedInteger1": 20.100000381469727,
         "previewTime": 39.599998474121094,
         "unlockList": [
             {
@@ -9029,6 +9175,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9070,7 +9217,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 88.44599914550781,
+        "fixedInteger1": 88.44599914550781,
         "previewTime": 106.20700073242188,
         "unlockList": [
             {
@@ -9090,6 +9237,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9131,7 +9279,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 45.0099983215332,
+        "fixedInteger1": 45.0099983215332,
         "previewTime": 60.180999755859375,
         "unlockList": [
             {
@@ -9151,6 +9299,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9192,7 +9341,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 65.9540023803711,
+        "fixedInteger1": 65.9540023803711,
         "previewTime": 82.44200134277344,
         "unlockList": [
             {
@@ -9212,6 +9361,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9253,7 +9403,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 106.87000274658203,
+        "fixedInteger1": 106.87000274658203,
         "previewTime": 126.66600036621094,
         "unlockList": [
             {
@@ -9273,6 +9423,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9314,7 +9465,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 81.4280014038086,
+        "fixedInteger1": 81.4280014038086,
         "previewTime": 98.57099914550781,
         "unlockList": [
             {
@@ -9334,6 +9485,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9375,7 +9527,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 67.0,
+        "fixedInteger1": 67.0,
         "previewTime": 88.0,
         "unlockList": [
             {
@@ -9395,6 +9547,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9436,7 +9589,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 76.80000305175781,
+        "fixedInteger1": 76.80000305175781,
         "previewTime": 91.19999694824219,
         "unlockList": [
             {
@@ -9456,6 +9609,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9499,7 +9653,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 83.3239974975586,
+        "fixedInteger1": 83.3239974975586,
         "previewTime": 103.3239974975586,
         "unlockList": [
             {
@@ -9519,6 +9673,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9560,7 +9715,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 44.15999984741211,
+        "fixedInteger1": 44.15999984741211,
         "previewTime": 59.15999984741211,
         "unlockList": [
             {
@@ -9580,6 +9735,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9621,7 +9777,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 41.0,
+        "fixedInteger1": 41.0,
         "previewTime": 61.0,
         "unlockList": [
             {
@@ -9641,6 +9797,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9682,7 +9839,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 43.16600036621094,
+        "fixedInteger1": 43.16600036621094,
         "previewTime": 57.83300018310547,
         "unlockList": [
             {
@@ -9702,6 +9859,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9743,7 +9901,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 92.37999725341797,
+        "fixedInteger1": 92.37999725341797,
         "previewTime": 108.57099914550781,
         "unlockList": [
             {
@@ -9763,6 +9921,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9804,7 +9963,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 37.5,
+        "fixedInteger1": 37.5,
         "previewTime": 67.5,
         "unlockList": [
             {
@@ -9824,6 +9983,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9865,7 +10025,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 63.62699890136719,
+        "fixedInteger1": 63.62699890136719,
         "previewTime": 83.44100189208984,
         "unlockList": [
             {
@@ -9885,6 +10045,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9926,7 +10087,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 100.6449966430664,
+        "fixedInteger1": 100.6449966430664,
         "previewTime": 130.64500427246094,
         "unlockList": [
             {
@@ -9946,6 +10107,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -9987,7 +10149,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 20.5,
+        "fixedInteger1": 20.5,
         "previewTime": 40.5,
         "unlockList": [
             {
@@ -10007,6 +10169,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -10048,7 +10211,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 78.0,
+        "fixedInteger1": 78.0,
         "previewTime": 108.0,
         "unlockList": [
             {
@@ -10068,6 +10231,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -10109,7 +10273,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 73.0,
+        "fixedInteger1": 73.0,
         "previewTime": 93.0,
         "unlockList": [
             {
@@ -10129,6 +10293,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -10170,7 +10335,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 86.58200073242188,
+        "fixedInteger1": 86.58200073242188,
         "previewTime": 103.10099792480469,
         "unlockList": [
             {
@@ -10190,6 +10355,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -10231,7 +10397,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 48.0,
+        "fixedInteger1": 48.0,
         "previewTime": 64.0,
         "unlockList": [
             {
@@ -10251,6 +10417,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -10292,7 +10459,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 45.69200134277344,
+        "fixedInteger1": 45.69200134277344,
         "previewTime": 60.92300033569336,
         "unlockList": [
             {
@@ -10312,6 +10479,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -10353,7 +10521,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 41.513999938964844,
+        "fixedInteger1": 41.513999938964844,
         "previewTime": 61.513999938964844,
         "unlockList": [
             {
@@ -10373,6 +10541,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -10414,7 +10583,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 87.18699645996094,
+        "fixedInteger1": 87.18699645996094,
         "previewTime": 102.65599822998047,
         "unlockList": [
             {
@@ -10434,6 +10603,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -10475,7 +10645,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 99.5,
+        "fixedInteger1": 99.5,
         "previewTime": 113.03800201416016,
         "unlockList": [
             {
@@ -10495,6 +10665,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -10536,7 +10707,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 60.30400085449219,
+        "fixedInteger1": 60.30400085449219,
         "previewTime": 70.65899658203125,
         "unlockList": [
             {
@@ -10556,6 +10727,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -10597,7 +10769,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 55.895999908447266,
+        "fixedInteger1": 55.895999908447266,
         "previewTime": 70.89600372314453,
         "unlockList": [
             {
@@ -10617,6 +10789,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -10658,7 +10831,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 29.0,
+        "fixedInteger1": 29.0,
         "previewTime": 44.0,
         "unlockList": [
             {
@@ -10678,6 +10851,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -10719,7 +10893,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 47.06800079345703,
+        "fixedInteger1": 47.06800079345703,
         "previewTime": 62.06800079345703,
         "unlockList": [
             {
@@ -10739,6 +10913,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -10780,7 +10955,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 92.5999984741211,
+        "fixedInteger1": 92.5999984741211,
         "previewTime": 112.5999984741211,
         "unlockList": [
             {
@@ -10800,6 +10975,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -10841,7 +11017,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 76.79299926757812,
+        "fixedInteger1": 76.79299926757812,
         "previewTime": 98.96199798583984,
         "unlockList": [
             {
@@ -10861,6 +11037,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -10904,7 +11081,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 81.19999694824219,
+        "fixedInteger1": 81.19999694824219,
         "previewTime": 101.19999694824219,
         "unlockList": [
             {
@@ -10926,6 +11103,7 @@
                 ]
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -10967,7 +11145,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 114.4000015258789,
+        "fixedInteger1": 114.4000015258789,
         "previewTime": 129.39999389648438,
         "unlockList": [
             {
@@ -10987,6 +11165,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -11028,7 +11207,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 41.0,
+        "fixedInteger1": 41.0,
         "previewTime": 61.0,
         "unlockList": [
             {
@@ -11048,6 +11227,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -11089,7 +11269,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 112.0,
+        "fixedInteger1": 112.0,
         "previewTime": 123.63600158691406,
         "unlockList": [
             {
@@ -11109,6 +11289,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -11152,7 +11333,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 75.12999725341797,
+        "fixedInteger1": 75.12999725341797,
         "previewTime": 97.82599639892578,
         "unlockList": [
             {
@@ -11172,6 +11353,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -11213,7 +11395,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 97.28500366210938,
+        "fixedInteger1": 97.28500366210938,
         "previewTime": 112.71399688720703,
         "unlockList": [
             {
@@ -11233,6 +11415,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -11274,7 +11457,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 21.33300018310547,
+        "fixedInteger1": 21.33300018310547,
         "previewTime": 36.33300018310547,
         "unlockList": [
             {
@@ -11294,6 +11477,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -11335,7 +11519,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 68.98600006103516,
+        "fixedInteger1": 68.98600006103516,
         "previewTime": 92.2030029296875,
         "unlockList": [
             {
@@ -11355,6 +11539,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -11396,7 +11581,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 67.0,
+        "fixedInteger1": 67.0,
         "previewTime": 81.0,
         "unlockList": [
             {
@@ -11416,6 +11601,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -11457,7 +11643,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 40.5,
+        "fixedInteger1": 40.5,
         "previewTime": 65.5,
         "unlockList": [
             {
@@ -11477,6 +11663,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -11518,7 +11705,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 96.0,
+        "fixedInteger1": 96.0,
         "previewTime": 109.5,
         "unlockList": [
             {
@@ -11538,6 +11725,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -11579,7 +11767,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 84.0270004272461,
+        "fixedInteger1": 84.0270004272461,
         "previewTime": 102.69300079345703,
         "unlockList": [
             {
@@ -11599,6 +11787,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -11642,7 +11831,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 63.0,
+        "fixedInteger1": 63.0,
         "previewTime": 78.86399841308594,
         "unlockList": [
             {
@@ -11662,6 +11851,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -11705,7 +11895,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 103.87999725341797,
+        "fixedInteger1": 103.87999725341797,
         "previewTime": 121.79100036621094,
         "unlockList": [
             {
@@ -11725,6 +11915,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -11768,7 +11959,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 110.95800018310547,
+        "fixedInteger1": 110.95800018310547,
         "previewTime": 128.218994140625,
         "unlockList": [
             {
@@ -11788,6 +11979,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -11829,7 +12021,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 109.5,
+        "fixedInteger1": 109.5,
         "previewTime": 127.5,
         "unlockList": [
             {
@@ -11849,6 +12041,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -11890,7 +12083,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 148.8000030517578,
+        "fixedInteger1": 148.8000030517578,
         "previewTime": 171.42799377441406,
         "unlockList": [
             {
@@ -11910,6 +12103,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -11951,7 +12145,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 22.399999618530273,
+        "fixedInteger1": 22.399999618530273,
         "previewTime": 38.400001525878906,
         "unlockList": [
             {
@@ -11971,6 +12165,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12012,7 +12207,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 21.0,
+        "fixedInteger1": 21.0,
         "previewTime": 34.0,
         "unlockList": [
             {
@@ -12032,6 +12227,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12073,7 +12269,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 73.0,
+        "fixedInteger1": 73.0,
         "previewTime": 88.0,
         "unlockList": [
             {
@@ -12093,6 +12289,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12134,7 +12331,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 100.80699920654297,
+        "fixedInteger1": 100.80699920654297,
         "previewTime": 115.7239990234375,
         "unlockList": [
             {
@@ -12154,6 +12351,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12195,7 +12393,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 47.8489990234375,
+        "fixedInteger1": 47.8489990234375,
         "previewTime": 70.7760009765625,
         "unlockList": [
             {
@@ -12215,6 +12413,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12256,7 +12455,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 46.0,
+        "fixedInteger1": 46.0,
         "previewTime": 61.5,
         "unlockList": [
             {
@@ -12276,6 +12475,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12317,7 +12517,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 64.80000305175781,
+        "fixedInteger1": 64.80000305175781,
         "previewTime": 98.69999694824219,
         "unlockList": [
             {
@@ -12337,6 +12537,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12378,7 +12579,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 40.23500061035156,
+        "fixedInteger1": 40.23500061035156,
         "previewTime": 57.17599868774414,
         "unlockList": [
             {
@@ -12398,6 +12599,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12439,7 +12641,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 80.41999816894531,
+        "fixedInteger1": 80.41999816894531,
         "previewTime": 110.41999816894531,
         "unlockList": [
             {
@@ -12459,6 +12661,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12502,7 +12705,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 92.55599975585938,
+        "fixedInteger1": 92.55599975585938,
         "previewTime": 108.96800231933594,
         "unlockList": [
             {
@@ -12522,6 +12725,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12565,7 +12769,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 35.93000030517578,
+        "fixedInteger1": 35.93000030517578,
         "previewTime": 53.32500076293945,
         "unlockList": [
             {
@@ -12585,6 +12789,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12628,7 +12833,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 117.62000274658203,
+        "fixedInteger1": 117.62000274658203,
         "previewTime": 137.6199951171875,
         "unlockList": [
             {
@@ -12648,6 +12853,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12689,7 +12895,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 120.33999633789062,
+        "fixedInteger1": 120.33999633789062,
         "previewTime": 135.33999633789062,
         "unlockList": [
             {
@@ -12709,6 +12915,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12750,7 +12957,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 66.4000015258789,
+        "fixedInteger1": 66.4000015258789,
         "previewTime": 81.5999984741211,
         "unlockList": [
             {
@@ -12770,6 +12977,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12811,7 +13019,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 13.1899995803833,
+        "fixedInteger1": 13.1899995803833,
         "previewTime": 34.930999755859375,
         "unlockList": [
             {
@@ -12831,6 +13039,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12872,7 +13081,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 105.47000122070312,
+        "fixedInteger1": 105.47000122070312,
         "previewTime": 124.47000122070312,
         "unlockList": [
             {
@@ -12892,6 +13101,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12933,7 +13143,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 99.74400329589844,
+        "fixedInteger1": 99.74400329589844,
         "previewTime": 118.74400329589844,
         "unlockList": [
             {
@@ -12953,6 +13163,69 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
+        "levelMods": [
+            {
+                "n": []
+            },
+            {
+                "n": []
+            },
+            {
+                "n": []
+            },
+            {
+                "n": []
+            },
+            {
+                "n": []
+            }
+        ]
+    },
+    {
+        "songId": "今天不是明天.PIKASONICfeat兰音Reine",
+        "songKey": "今天不是明天",
+        "songName": "今天不是明天",
+        "songTitle": "",
+        "difficulty": [
+            3.0,
+            8.5,
+            13.5
+        ],
+        "illustrator": "KiTA & 一击即溃",
+        "charter": [
+            "扫佛不是嫂夫",
+            "扫佛不是嫂夫",
+            "杂波不是杂啵，野从不是野丛"
+        ],
+        "composer": "PIKASONIC feat. 兰音Reine",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 45.119998931884766,
+        "previewTime": 62.400001525878906,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -12994,7 +13267,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 79.54199981689453,
+        "fixedInteger1": 79.54199981689453,
         "previewTime": 93.25700378417969,
         "unlockList": [
             {
@@ -13014,6 +13287,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -13055,7 +13329,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 107.29399871826172,
+        "fixedInteger1": 107.29399871826172,
         "previewTime": 127.05799865722656,
         "unlockList": [
             {
@@ -13075,6 +13349,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -13116,7 +13391,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 63.040000915527344,
+        "fixedInteger1": 63.040000915527344,
         "previewTime": 83.19999694824219,
         "unlockList": [
             {
@@ -13140,6 +13415,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -13181,7 +13457,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 59.16600036621094,
+        "fixedInteger1": 59.16600036621094,
         "previewTime": 75.41600036621094,
         "unlockList": [
             {
@@ -13201,6 +13477,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -13245,7 +13522,7 @@
             "AT",
             "Legacy"
         ],
-        "unknown": 92.86599731445312,
+        "fixedInteger1": 92.86599731445312,
         "previewTime": 114.5770034790039,
         "unlockList": [
             {
@@ -13265,6 +13542,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -13306,7 +13584,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 89.72899627685547,
+        "fixedInteger1": 89.72899627685547,
         "previewTime": 107.0270004272461,
         "unlockList": [
             {
@@ -13326,6 +13604,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -13367,7 +13646,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 42.5,
+        "fixedInteger1": 42.5,
         "previewTime": 62.5,
         "unlockList": [
             {
@@ -13387,6 +13666,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -13428,7 +13708,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 30.399999618530273,
+        "fixedInteger1": 30.399999618530273,
         "previewTime": 46.400001525878906,
         "unlockList": [
             {
@@ -13448,6 +13728,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -13489,7 +13770,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 42.66699981689453,
+        "fixedInteger1": 42.66699981689453,
         "previewTime": 53.33300018310547,
         "unlockList": [
             {
@@ -13509,6 +13790,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -13550,7 +13832,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 54.54499816894531,
+        "fixedInteger1": 54.54499816894531,
         "previewTime": 72.0,
         "unlockList": [
             {
@@ -13570,6 +13852,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -13613,7 +13896,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 48.0,
+        "fixedInteger1": 48.0,
         "previewTime": 73.33300018310547,
         "unlockList": [
             {
@@ -13633,6 +13916,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -13674,7 +13958,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 54.375,
+        "fixedInteger1": 54.375,
         "previewTime": 69.375,
         "unlockList": [
             {
@@ -13694,6 +13978,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -13735,7 +14020,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 69.5999984741211,
+        "fixedInteger1": 69.5999984741211,
         "previewTime": 79.19999694824219,
         "unlockList": [
             {
@@ -13755,6 +14040,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -13796,7 +14082,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 11.880999565124512,
+        "fixedInteger1": 11.880999565124512,
         "previewTime": 21.38599967956543,
         "unlockList": [
             {
@@ -13816,6 +14102,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -13857,7 +14144,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 48.0,
+        "fixedInteger1": 48.0,
         "previewTime": 69.58799743652344,
         "unlockList": [
             {
@@ -13877,6 +14164,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
@@ -13920,7 +14208,7 @@
             "IN",
             "AT"
         ],
-        "unknown": 114.33999633789062,
+        "fixedInteger1": 114.33999633789062,
         "previewTime": 123.39600372314453,
         "unlockList": [
             {
@@ -13940,6 +14228,7 @@
                 "unlockInfo": []
             }
         ],
+        "fixedInteger2": 0.0,
         "levelMods": [
             {
                 "n": []
