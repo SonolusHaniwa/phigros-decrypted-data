@@ -6,12 +6,19 @@
         "chapterName": "Single",
         "songs": [
             {
-                "songId": "今天不是明天.PIKASONICfeat兰音Reine.0",
+                "songId": "BoundedQuietude.FiniteLimitvsSiLiS.0",
                 "fixedInteger1": 1,
                 "unlockCondition": [
                     "4",
                     "prev@07/12/2024 17:00:00 +8:00"
                 ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "今天不是明天.PIKASONICfeat兰音Reine.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
@@ -1295,6 +1302,41 @@
         "lockBlurImage": ""
     },
     {
+        "chapterId": "TAKUMI3",
+        "chapterTitle": "\\ChapterTAKUMI3Title",
+        "chapterSubtitle": "\\ChapterExtraSubTitle",
+        "chapterName": "TAKUMI³",
+        "songs": [
+            {
+                "songId": "Cuvism.Fl00tvsHalv.0",
+                "fixedInteger1": 0,
+                "unlockCondition": [],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "iLArtifact.Link0.0",
+                "fixedInteger1": 0,
+                "unlockCondition": [],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "atruthseekerCommunicationwithUtopiawillbelost.kuro.0",
+                "fixedInteger1": 0,
+                "unlockCondition": [],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            }
+        ],
+        "unlockType1": 0,
+        "unlockCondition1": "",
+        "unlockType2": "prev@07/26/2024 17:00:00 +8:00",
+        "unlockCondition2": "",
+        "lockImage": "",
+        "lockBlurImage": ""
+    },
+    {
         "chapterId": "SHINOBISLASH",
         "chapterTitle": "\\ChapterSHINOBISLASHTitle",
         "chapterSubtitle": "\\ChapterExtraSubTitle",
@@ -1324,7 +1366,7 @@
         ],
         "unlockType1": 0,
         "unlockCondition1": "",
-        "unlockType2": "prev@06/28/2024 17:00:00 +8:00",
+        "unlockType2": "",
         "unlockCondition2": "",
         "lockImage": "",
         "lockBlurImage": ""
@@ -1466,45 +1508,35 @@
             {
                 "songId": "SATELLITE.かめりあ.0",
                 "fixedInteger1": 0,
-                "unlockCondition": [
-                    "prev@8/31/2023 17:00:00 +8:00"
-                ],
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
             {
                 "songId": "DancewithSilence.かめりあ.0",
                 "fixedInteger1": 0,
-                "unlockCondition": [
-                    "prev@8/31/2023 17:00:00 +8:00"
-                ],
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
             {
                 "songId": "LabyrinthinKowloonWalledWorld.かめりあ.0",
                 "fixedInteger1": 0,
-                "unlockCondition": [
-                    "prev@8/31/2023 17:00:00 +8:00"
-                ],
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
             {
                 "songId": "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0",
                 "fixedInteger1": 0,
-                "unlockCondition": [
-                    "prev@8/31/2023 17:00:00 +8:00"
-                ],
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
             {
                 "songId": "ERABYECONNEC10N.かめりあ.0",
                 "fixedInteger1": 0,
-                "unlockCondition": [
-                    "prev@8/31/2023 17:00:00 +8:00"
-                ],
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             }

@@ -2420,6 +2420,56 @@
         "title" : "今天不是明天"
     },
     {
+        "chapter" : "TAKUMI³",
+        "charter" : [ "Rikko", "Rikko³ [Normal]", "Rikko", "JKy vs StrayCat" ],
+        "composer" : "Fl00t vs Halv",
+        "hasLegacy" : false,
+        "id" : 229,
+        "illustrator" : "sikkari",
+        "level" : [ 3.5, 12.1, 13.9, 16.4 ],
+        "title" : "Cuvism³"
+    },
+    {
+        "chapter" : "TAKUMI³",
+        "charter" : [ "IUIsauce", "IUIsauce", "XMT小咩兔 vs 上班睡大觉_Sleepyhead" ],
+        "composer" : "Link''0",
+        "hasLegacy" : false,
+        "id" : 230,
+        "illustrator" : "Fl00t",
+        "level" : [ 5.5, 10.5, 15.5 ],
+        "title" : "iL-Artifact"
+    },
+    {
+        "chapter" : "TAKUMI³",
+        "charter" : 
+        [
+            "上班睡大觉_Sleepyhead",
+            "上班睡大觉_Sleepyhead",
+            "-Seek A Lnside Truth-"
+        ],
+        "composer" : "kuro",
+        "hasLegacy" : false,
+        "id" : 231,
+        "illustrator" : "rokopon",
+        "level" : [ 7.5, 12.8, 15.8 ],
+        "title" : "a truth seeker -Communication with Utopia will be lost-"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : 
+        [
+            "LonelyKnight",
+            "LonelyKnight",
+            "孤独な騎士 Against 魔王、大咩兔"
+        ],
+        "composer" : "Finite Limit vs SiLiS",
+        "hasLegacy" : false,
+        "id" : 232,
+        "illustrator" : "Hiro vs Zeth",
+        "level" : [ 7.0, 7.5, 15.9 ],
+        "title" : "Bounded Quietude"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [
