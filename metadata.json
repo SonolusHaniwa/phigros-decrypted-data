@@ -13499,6 +13499,130 @@
         ]
     },
     {
+        "songId": "君往何处QuoVadis.M2U",
+        "songKey": "君往何处 (Quo Vadis)",
+        "songName": "君往何处 (Quo Vadis)",
+        "songTitle": "",
+        "difficulty": [
+            4.0,
+            8.6,
+            14.5
+        ],
+        "illustrator": "LRAY",
+        "charter": [
+            "Where are Ctymax and 阿爽?",
+            "Where are Ctymax and 阿爽?",
+            "Salt"
+        ],
+        "composer": "M2U",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 19.437000274658203,
+        "previewTime": 43.26599884033203,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "fixedInteger2": 0.0,
+        "levelMods": [
+            {
+                "n": []
+            },
+            {
+                "n": []
+            },
+            {
+                "n": []
+            },
+            {
+                "n": []
+            },
+            {
+                "n": []
+            }
+        ]
+    },
+    {
+        "songId": "暗夜苏醒REANIMATE.Warak",
+        "songKey": "暗夜苏醒 (REANIMATE)",
+        "songName": "暗夜苏醒 (REANIMATE)",
+        "songTitle": "",
+        "difficulty": [
+            5.0,
+            12.8,
+            15.4
+        ],
+        "illustrator": "MHK",
+        "charter": [
+            "Deep Dark Ctymax",
+            "reanimate_6k_nm.imd",
+            "StupiGGy -The Startline-"
+        ],
+        "composer": "Warak",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 46.895999908447266,
+        "previewTime": 68.96499633789062,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "fixedInteger2": 0.0,
+        "levelMods": [
+            {
+                "n": []
+            },
+            {
+                "n": []
+            },
+            {
+                "n": []
+            },
+            {
+                "n": []
+            },
+            {
+                "n": []
+            }
+        ]
+    },
+    {
         "songId": "Poseidon.1112vsStar",
         "songKey": "Ποσειδών",
         "songName": "Ποσειδών",

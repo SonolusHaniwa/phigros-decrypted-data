@@ -2470,6 +2470,31 @@
         "title" : "Bounded Quietude"
     },
     {
+        "chapter" : "Single",
+        "charter" : 
+        [
+            "Where are Ctymax and 阿爽?",
+            "Where are Ctymax and 阿爽?",
+            "Salt"
+        ],
+        "composer" : "M2U",
+        "hasLegacy" : false,
+        "id" : 233,
+        "illustrator" : "LRAY",
+        "level" : [ 4.0, 8.6, 14.5 ],
+        "title" : "君往何处 (Quo Vadis)"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : [ "Deep Dark Ctymax", "reanimate_6k_nm.imd", "StupiGGy -The Startline-" ],
+        "composer" : "Warak",
+        "hasLegacy" : false,
+        "id" : 234,
+        "illustrator" : "MHK",
+        "level" : [ 5.0, 12.8, 15.4 ],
+        "title" : "暗夜苏醒 (REANIMATE)"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [

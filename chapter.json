@@ -6,12 +6,29 @@
         "chapterName": "Single",
         "songs": [
             {
-                "songId": "BoundedQuietude.FiniteLimitvsSiLiS.0",
+                "songId": "暗夜苏醒REANIMATE.Warak.0",
                 "fixedInteger1": 1,
                 "unlockCondition": [
                     "4",
-                    "prev@07/12/2024 17:00:00 +8:00"
+                    "prev@08/16/2024 17:00:00 +8:00"
                 ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "君往何处QuoVadis.M2U.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [
+                    "4",
+                    "prev@08/16/2024 17:00:00 +8:00"
+                ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "BoundedQuietude.FiniteLimitvsSiLiS.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
@@ -1331,7 +1348,7 @@
         ],
         "unlockType1": 0,
         "unlockCondition1": "",
-        "unlockType2": "prev@07/26/2024 17:00:00 +8:00",
+        "unlockType2": "",
         "unlockCondition2": "",
         "lockImage": "",
         "lockBlurImage": ""
