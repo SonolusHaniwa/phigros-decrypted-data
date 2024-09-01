@@ -6,22 +6,26 @@
         "chapterName": "Single",
         "songs": [
             {
-                "songId": "暗夜苏醒REANIMATE.Warak.0",
+                "songId": "Grimheart.Puru.0",
                 "fixedInteger1": 1,
                 "unlockCondition": [
                     "4",
-                    "prev@08/16/2024 17:00:00 +8:00"
+                    "prev@08/31/2024 17:00:00 +8:00"
                 ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "暗夜苏醒REANIMATE.Warak.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
             {
                 "songId": "君往何处QuoVadis.M2U.0",
                 "fixedInteger1": 1,
-                "unlockCondition": [
-                    "4",
-                    "prev@08/16/2024 17:00:00 +8:00"
-                ],
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
@@ -1313,7 +1317,63 @@
         ],
         "unlockType1": 3,
         "unlockCondition1": "NOONEYESMAN.MYUKKE.0",
-        "unlockType2": "prev@2/23/2024 17:00:00 +8:00",
+        "unlockType2": "",
+        "unlockCondition2": "",
+        "lockImage": "",
+        "lockBlurImage": ""
+    },
+    {
+        "chapterId": "SideStory4",
+        "chapterTitle": "\\ChapterSideStory4Title",
+        "chapterSubtitle": "\\ChapterSideStory4SubTitle",
+        "chapterName": "Side story 4",
+        "songs": [
+            {
+                "songId": "心の記憶.A39沙包P.0",
+                "fixedInteger1": 0,
+                "unlockCondition": [],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "Spotlight.Ardolf.0",
+                "fixedInteger1": 0,
+                "unlockCondition": [],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "NightTheater.わかどり.0",
+                "fixedInteger1": 0,
+                "unlockCondition": [],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "Ramification.rareguyReina.0",
+                "fixedInteger1": 0,
+                "unlockCondition": [],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "DerRichter.Ωμεγα.0",
+                "fixedInteger1": 0,
+                "unlockCondition": [],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "ATHAZA.LeaF.0",
+                "fixedInteger1": 0,
+                "unlockCondition": [],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            }
+        ],
+        "unlockType1": 4,
+        "unlockCondition1": "MOBILYS.Dachs.0",
+        "unlockType2": "prev@8/31/2024 17:00:00 +8:00",
         "unlockCondition2": "",
         "lockImage": "",
         "lockBlurImage": ""
@@ -1436,6 +1496,13 @@
         "chapterSubtitle": "\\ChapterExtraSubTitle",
         "chapterName": "CHUNITHM",
         "songs": [
+            {
+                "songId": "月詠に鳴る.Feryquitousfeat藍月なくる.0",
+                "fixedInteger1": 0,
+                "unlockCondition": [],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
             {
                 "songId": "TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0",
                 "fixedInteger1": 0,

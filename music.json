@@ -1,7 +1,12 @@
 [
     {
         "chapter" : "Legacy",
-        "charter" : [ "Barbarianerman", "Arenn Saki", "Barbarianerman vs. NerSAN" ],
+        "charter" : 
+        [
+            "Barbarianerman",
+            "阿爽 fixed by Clutter",
+            "Barbarianerman vs. NerSAN"
+        ],
         "composer" : "SunsetRay",
         "hasLegacy" : false,
         "id" : 1,
@@ -11,7 +16,7 @@
     },
     {
         "chapter" : "Legacy",
-        "charter" : [ "Barbarianerman", "Barbarianerman", "Barbarianerman" ],
+        "charter" : [ "Barbarianerman", "Barbarianerman fixed by Clutter", "Barbarianerman" ],
         "composer" : "NceS",
         "hasLegacy" : false,
         "id" : 2,
@@ -31,52 +36,47 @@
     },
     {
         "chapter" : "Legacy",
-        "charter" : [ "Su1fuR", "Su1fuR", "XMT小咩兔 vs Barbarianerman" ],
+        "charter" : [ "Su1fuR", "Su1fuR", "XMT小咩兔 vs. Barbarianerman" ],
         "composer" : "Likey",
         "hasLegacy" : false,
         "id" : 4,
         "illustrator" : "DoublePian",
-        "level" : [ 5.0, 9.4, 13.7 ],
+        "level" : [ 4.0, 9.4, 13.7 ],
         "title" : "Dlyrotz"
     },
     {
         "chapter" : "Legacy",
-        "charter" : [ "Arenn Saki&Catcats", "Arenn Saki&Catcats", "Arenn Saki&Catcats" ],
+        "charter" : [ "Clutter", "Clutter", "阿爽" ],
         "composer" : "CrossingSound",
         "hasLegacy" : false,
         "id" : 5,
         "illustrator" : "赤芽",
-        "level" : [ 4.5, 10.5, 13.4 ],
+        "level" : [ 2.5, 8.6, 13.4 ],
         "title" : "Engine x Start!! (melody mix)"
     },
     {
         "chapter" : "Legacy",
         "charter" : 
         [
-            "Catcats & 百九十八",
-            "Catcats & 百九十八",
+            "Catcats & 百九十八 fixed by Clutter",
+            "Catcats & 百九十八 fixed by Clutter",
             "Catcats & 百九十八"
         ],
         "composer" : "姜米條",
         "hasLegacy" : false,
         "id" : 6,
         "illustrator" : "winder",
-        "level" : [ 4.0, 8.4, 12.8 ],
+        "level" : [ 2.5, 7.5, 12.8 ],
         "title" : "光"
     },
     {
         "chapter" : "Legacy",
-        "charter" : 
-        [
-            "小鹏 fixed by Barbarianerman",
-            "小鹏 fixed by Barbarianerman",
-            "百九十八"
-        ],
+        "charter" : [ "Ctymax after 7 years", "Salt", "百九十八" ],
         "composer" : "Ctymax feat. NceS",
         "hasLegacy" : false,
         "id" : 7,
         "illustrator" : "翠冷兮",
-        "level" : [ 6.5, 10.7, 13.4 ],
+        "level" : [ 3.5, 8.2, 13.4 ],
         "title" : "Winter ↑cube↓"
     },
     {
@@ -91,52 +91,52 @@
     },
     {
         "chapter" : "Legacy",
-        "charter" : [ "月下樱&115", "月下樱&115", "XMT小咩兔" ],
+        "charter" : [ "StR-1", "StR-1", "XMT小咩兔" ],
         "composer" : "OnlyMyBlackScore",
         "hasLegacy" : false,
         "id" : 9,
         "illustrator" : "L-sp4",
-        "level" : [ 5.5, 11.4, 14.8 ],
+        "level" : [ 4.0, 10.6, 14.8 ],
         "title" : "混乱-Confusion"
     },
     {
         "chapter" : "Legacy",
-        "charter" : [ "AUTO. SHOOTER.", "AUTO. SHOOTER.", "AUTO. SHOOTER. fixed by Ctymax" ],
+        "charter" : [ "Knight", "Knight", "AUTO. SHOOTER. fixed by Ctymax" ],
         "composer" : "MYUKKE.",
         "hasLegacy" : false,
         "id" : 10,
         "illustrator" : "ViscerA & Psycholine",
-        "level" : [ 4.0, 11.3, 14.8 ],
+        "level" : [ 3.0, 9.4, 14.8 ],
         "title" : "FULi AUTO SHOOTER"
     },
     {
         "chapter" : "Legacy",
-        "charter" : [ "阿爽", "阿爽", "CN_115+TangScend" ],
+        "charter" : [ "Clutter", "Clutter", "CN_115+TangScend" ],
         "composer" : "SOTUI",
         "hasLegacy" : false,
         "id" : 11,
         "illustrator" : "CH",
-        "level" : [ 5.5, 8.8, 12.6 ],
+        "level" : [ 3.0, 8.1, 12.9 ],
         "title" : "HumaN"
     },
     {
         "chapter" : "Legacy",
-        "charter" : [ "阿爽", "阿爽", "晨 vs. 阿爽" ],
+        "charter" : [ "Likey", "Likey", "晨 vs. 阿爽" ],
         "composer" : "Bluewind",
         "hasLegacy" : false,
         "id" : 12,
         "illustrator" : "老张",
-        "level" : [ 4.5, 11.8, 15.1 ],
+        "level" : [ 6.0, 10.6, 15.1 ],
         "title" : "[PRAW]"
     },
     {
         "chapter" : "Legacy",
-        "charter" : [ "阿爽", "阿爽", "NerSAN" ],
+        "charter" : [ "Knight", "Knight", "NerSAN" ],
         "composer" : "Normal1zer",
         "hasLegacy" : false,
         "id" : 13,
         "illustrator" : "艾是Abby",
-        "level" : [ 4.5, 11.9, 15.1 ],
+        "level" : [ 4.0, 10.3, 15.1 ],
         "title" : "Pixel Rebelz"
     },
     {
@@ -146,7 +146,7 @@
         "hasLegacy" : false,
         "id" : 14,
         "illustrator" : "IvyTowers",
-        "level" : [ 5.5, 11.4, 14.8 ],
+        "level" : [ 5.5, 10.9, 14.8 ],
         "title" : "Cereris"
     },
     {
@@ -166,7 +166,7 @@
         "hasLegacy" : false,
         "id" : 16,
         "illustrator" : "笔记RE",
-        "level" : [ 4.0, 7.0, 12.5 ],
+        "level" : [ 4.0, 7.0, 12.3 ],
         "title" : "Sultan Rage"
     },
     {
@@ -176,7 +176,7 @@
         "hasLegacy" : false,
         "id" : 17,
         "illustrator" : "xperz",
-        "level" : [ 5.5, 10.4, 13.5 ],
+        "level" : [ 6.0, 10.4, 13.8 ],
         "title" : "Class Memories"
     },
     {
@@ -191,27 +191,22 @@
     },
     {
         "chapter" : "Legacy",
-        "charter" : 
-        [
-            "Uvernight fixed by Barbarianerman",
-            "Uvernight fixed by Barbarianerman",
-            "Uvernight fixed by 百九十八"
-        ],
+        "charter" : [ "Clutter", "Clutter", "Uvernight fixed by 百九十八" ],
         "composer" : "Megalo_PaleWhite",
         "hasLegacy" : false,
         "id" : 19,
         "illustrator" : "笔记RE",
-        "level" : [ 4.5, 9.3, 14.2 ],
+        "level" : [ 3.5, 9.5, 14.2 ],
         "title" : "Bonus Time"
     },
     {
         "chapter" : "Legacy",
-        "charter" : [ "Su1fuR", "Su1fuR", "B B M pow" ],
+        "charter" : [ "Su1fuR", "Su1fuR", "Ctymax vs. 阿爽  fixed by B B M pow" ],
         "composer" : "Tanchiky",
         "hasLegacy" : true,
         "id" : 20,
         "illustrator" : "Karameru",
-        "level" : [ 5.5, 11.5, 14.6 ],
+        "level" : [ 5.5, 11.5, 14.4 ],
         "title" : "ENERGY SYNERGY MATRIX"
     },
     {
@@ -236,12 +231,12 @@
     },
     {
         "chapter" : "Chapter 5",
-        "charter" : [ "Ctymax", "Ctymax", "Ctymax" ],
+        "charter" : [ "Ctymax", "Ctymax", "Ctymax but 5 years later" ],
         "composer" : "Ju_E",
         "hasLegacy" : false,
         "id" : 23,
         "illustrator" : "Haight",
-        "level" : [ 4.5, 9.9, 13.7 ],
+        "level" : [ 4.5, 9.9, 13.8 ],
         "title" : "cryout"
     },
     {
@@ -277,7 +272,7 @@
         "hasLegacy" : false,
         "id" : 26,
         "illustrator" : "昔璃☆暴雨 ~ ♫危難聖帝♫",
-        "level" : [ 7.5, 13.3, 15.2, 16.3 ],
+        "level" : [ 8.2, 13.3, 15.2, 16.3 ],
         "title" : "Spasmodic"
     },
     {
@@ -292,7 +287,7 @@
         "hasLegacy" : false,
         "id" : 27,
         "illustrator" : "笔记RE",
-        "level" : [ 3.0, 7.5, 12.7 ],
+        "level" : [ 3.0, 8.9, 12.7 ],
         "title" : "Leave All Behind"
     },
     {
@@ -302,7 +297,7 @@
         "hasLegacy" : false,
         "id" : 28,
         "illustrator" : "Doro-nyong & Ratif",
-        "level" : [ 4.5, 7.0, 12.7 ],
+        "level" : [ 5.0, 7.0, 12.7 ],
         "title" : "Colorful Days♪"
     },
     {
@@ -312,7 +307,7 @@
         "hasLegacy" : false,
         "id" : 29,
         "illustrator" : "snake.ribs",
-        "level" : [ 6.0, 10.7, 14.5 ],
+        "level" : [ 6.0, 10.7, 14.6 ],
         "title" : "micro.wav"
     },
     {
@@ -322,7 +317,7 @@
         "hasLegacy" : false,
         "id" : 30,
         "illustrator" : "昔璃&TNiK",
-        "level" : [ 6.0, 9.3, 14.6 ],
+        "level" : [ 4.5, 8.8, 14.4 ],
         "title" : "重生"
     },
     {
@@ -332,7 +327,7 @@
         "hasLegacy" : false,
         "id" : 31,
         "illustrator" : "青鸟",
-        "level" : [ 5.5, 11.8, 15.4 ],
+        "level" : [ 6.5, 10.9, 15.4 ],
         "title" : "NO ONE YES MAN"
     },
     {
@@ -363,7 +358,7 @@
         "hasLegacy" : false,
         "id" : 33,
         "illustrator" : "Se-U-Ra",
-        "level" : [ 7.5, 12.7, 15.6, 16.7 ],
+        "level" : [ 7.5, 12.7, 15.7, 16.7 ],
         "title" : "Igallta"
     },
     {
@@ -388,7 +383,7 @@
         "hasLegacy" : false,
         "id" : 35,
         "illustrator" : "幽灵星",
-        "level" : [ 3.5, 9.8, 13.9 ],
+        "level" : [ 3.5, 9.8, 13.8 ],
         "title" : "Chronologika"
     },
     {
@@ -398,7 +393,7 @@
         "hasLegacy" : false,
         "id" : 36,
         "illustrator" : "青鸟",
-        "level" : [ 5.0, 8.1, 14.4 ],
+        "level" : [ 5.0, 8.1, 14.6 ],
         "title" : "Nick of Time"
     },
     {
@@ -459,7 +454,7 @@
         "hasLegacy" : false,
         "id" : 41,
         "illustrator" : "翠冷兮",
-        "level" : [ 5.0, 9.5, 14.4 ],
+        "level" : [ 5.0, 9.5, 14.1 ],
         "title" : "The Chariot ~REVIIVAL~"
     },
     {
@@ -469,7 +464,7 @@
         "hasLegacy" : false,
         "id" : 42,
         "illustrator" : "子狼",
-        "level" : [ 5.5, 11.2, 14.8 ],
+        "level" : [ 5.5, 11.2, 14.5 ],
         "title" : "Luminescence"
     },
     {
@@ -495,7 +490,7 @@
         "hasLegacy" : false,
         "id" : 44,
         "illustrator" : "rN",
-        "level" : [ 7.0, 13.1, 15.8, 16.6 ],
+        "level" : [ 8.5, 13.1, 15.8, 16.6 ],
         "title" : "DESTRUCTION 3,2,1"
     },
     {
@@ -505,7 +500,7 @@
         "hasLegacy" : false,
         "id" : 45,
         "illustrator" : "knife美工刀",
-        "level" : [ 7.5, 13.5, 15.9, 16.7 ],
+        "level" : [ 8.1, 13.5, 15.9, 16.7 ],
         "title" : "Distorted Fate"
     },
     {
@@ -583,16 +578,16 @@
         "chapter" : "Single",
         "charter" : 
         [
-            "Arenn Saki vs Catcats vs 百九十八",
-            "Arenn Saki vs Catcats vs 百九十八",
-            "Arenn Saki vs Catcats vs 百九十八",
+            "Arenn Saki vs. Catcats vs. 百九十八",
+            "Arenn Saki vs. Catcats vs. 百九十八",
+            "Arenn Saki vs. Catcats vs. 百九十八",
             "JKy"
         ],
         "composer" : "闫东炜",
         "hasLegacy" : false,
         "id" : 51,
         "illustrator" : "cycats",
-        "level" : [ 6.0, 10.3, 13.7, 14.8 ],
+        "level" : [ 6.0, 10.3, 13.9, 14.8 ],
         "title" : "风屿"
     },
     {
@@ -608,7 +603,7 @@
         "hasLegacy" : false,
         "id" : 52,
         "illustrator" : "何呵",
-        "level" : [ 1.5, 3.5, 6.0, 13.6 ],
+        "level" : [ 1.5, 3.5, 8.3, 13.6 ],
         "title" : "dB doll"
     },
     {
@@ -623,7 +618,7 @@
         "hasLegacy" : false,
         "id" : 53,
         "illustrator" : "艾是Abby",
-        "level" : [ 2.5, 5.5, 11.7 ],
+        "level" : [ 2.5, 5.5, 9.7 ],
         "title" : "Dash"
     },
     {
@@ -643,7 +638,7 @@
         "hasLegacy" : false,
         "id" : 55,
         "illustrator" : "TNiK",
-        "level" : [ 4.0, 9.6, 14.1 ],
+        "level" : [ 4.0, 9.6, 14.3 ],
         "title" : "Drop It"
     },
     {
@@ -652,7 +647,7 @@
         [
             "撕裂者『無極』 fixed by 晨",
             "撕裂者『無極』 fixed by 晨",
-            "撕裂者『Alloces vs Shin』"
+            "撕裂者『Alloces vs. Shin』"
         ],
         "composer" : "Friedwav",
         "hasLegacy" : false,
@@ -688,7 +683,7 @@
         "hasLegacy" : false,
         "id" : 59,
         "illustrator" : "IvyTowers",
-        "level" : [ 6.0, 9.6, 14.1 ],
+        "level" : [ 6.0, 10.5, 14.1 ],
         "title" : "華灯爱"
     },
     {
@@ -715,10 +710,10 @@
         "chapter" : "Single",
         "charter" : 
         [
-            "Catcats a.k.a. 無極 VS H.C.C. fixed by 晨",
-            "Catcats a.k.a. 無極 VS H.C.C. fixed by Pcat",
+            "Catcats a.k.a. 無極 vs. H.C.C. fixed by 晨",
+            "Catcats a.k.a. 無極 vs. H.C.C. fixed by Pcat",
             "晨",
-            "Catcats a.k.a. 無極 VS H.C.C. fixed by 野从&晨"
+            "Catcats a.k.a. 無極 vs. H.C.C. fixed by 野从&晨"
         ],
         "composer" : "LeaF",
         "hasLegacy" : false,
@@ -739,7 +734,7 @@
         "hasLegacy" : false,
         "id" : 63,
         "illustrator" : "1B",
-        "level" : [ 4.0, 9.2, 12.4 ],
+        "level" : [ 4.0, 9.2, 12.8 ],
         "title" : "Sparkle New Life"
     },
     {
@@ -773,7 +768,7 @@
         [
             "Ctymatch Girl",
             "Burn Full Catcats",
-            "Burn Full Catcats VS Ctymatch Girl"
+            "Burn Full Catcats vs. Ctymatch Girl"
         ],
         "composer" : "NceS",
         "hasLegacy" : false,
@@ -859,12 +854,12 @@
         "hasLegacy" : true,
         "id" : 73,
         "illustrator" : "Xquid",
-        "level" : [ 5.5, 10.8, 14.7 ],
+        "level" : [ 5.5, 10.1, 14.5 ],
         "title" : "Break Through The Barrier"
     },
     {
         "chapter" : "Rising Sun Traxx",
-        "charter" : [ "Uvernight", "Uvernight", "Gausbon" ],
+        "charter" : [ "Uvernight", "Uvernight", "Gausbon fixed by XMT" ],
         "composer" : "黒皇帝",
         "hasLegacy" : false,
         "id" : 74,
@@ -889,7 +884,7 @@
     },
     {
         "chapter" : "HyuN",
-        "charter" : [ "晨 vs 阿爽", "晨 vs 阿爽", "晨 vs 阿爽" ],
+        "charter" : [ "晨 vs. 阿爽", "晨 vs. 阿爽", "晨 vs. 阿爽" ],
         "composer" : "HyuN",
         "hasLegacy" : false,
         "id" : 76,
@@ -921,9 +916,9 @@
         "chapter" : "Single",
         "charter" : 
         [
-            "Ctymax VS 百九十八",
-            "Ctymax VS 百九十八",
-            "Ctymax VS 百九十八"
+            "Ctymax vs. 百九十八",
+            "Ctymax vs. 百九十八",
+            "Ctymax vs. 百九十八"
         ],
         "composer" : "DarTokki",
         "hasLegacy" : false,
@@ -934,7 +929,7 @@
     },
     {
         "chapter" : "Single",
-        "charter" : [ "Ctymax VS 晨", "Ctymax VS 晨", "Ctymax VS 晨" ],
+        "charter" : [ "Ctymax vs. 晨", "Ctymax vs. 晨", "Ctymax vs. 晨" ],
         "composer" : "EmoCo.",
         "hasLegacy" : false,
         "id" : 80,
@@ -969,7 +964,7 @@
         "hasLegacy" : false,
         "id" : 83,
         "illustrator" : "Ctymax feat. EBIMAYO",
-        "level" : [ 5.5, 10.8, 13.8 ],
+        "level" : [ 5.5, 10.8, 14.1 ],
         "title" : "GOODTEK"
     },
     {
@@ -989,7 +984,7 @@
         "hasLegacy" : false,
         "id" : 85,
         "illustrator" : "EBIMAYO",
-        "level" : [ 3.0, 11.4, 14.5 ],
+        "level" : [ 3.0, 11.4, 14.7 ],
         "title" : "GOODWORLD"
     },
     {
@@ -1019,17 +1014,17 @@
         "hasLegacy" : false,
         "id" : 88,
         "illustrator" : "START SEED",
-        "level" : [ 4.5, 9.1, 14.4 ],
+        "level" : [ 5.5, 9.1, 14.6 ],
         "title" : "The Mountain Eater"
     },
     {
         "chapter" : "Single",
-        "charter" : [ "Uvernight", "Uvernight", "Uvernight" ],
+        "charter" : [ "StR-1", "StR-1", "Uvernight fixed by StR-1" ],
         "composer" : "tokiwa",
         "hasLegacy" : false,
         "id" : 89,
         "illustrator" : "cycats",
-        "level" : [ 4.5, 11.1, 14.3 ],
+        "level" : [ 4.5, 10.6, 14.1 ],
         "title" : "Orthodox"
     },
     {
@@ -1099,7 +1094,7 @@
         "hasLegacy" : false,
         "id" : 95,
         "illustrator" : "EnFr",
-        "level" : [ 4.5, 9.2, 14.6 ],
+        "level" : [ 4.5, 8.5, 14.6 ],
         "title" : "Hardcore Kwaya"
     },
     {
@@ -1119,7 +1114,7 @@
         "hasLegacy" : false,
         "id" : 97,
         "illustrator" : "しえろ",
-        "level" : [ 1.5, 6.5, 14.5 ],
+        "level" : [ 1.5, 6.5, 14.2 ],
         "title" : "Träne"
     },
     {
@@ -1164,7 +1159,7 @@
         "hasLegacy" : false,
         "id" : 101,
         "illustrator" : "百九十八",
-        "level" : [ 4.5, 8.3, 13.8 ],
+        "level" : [ 6.0, 9.4, 13.9 ],
         "title" : "Wavetapper"
     },
     {
@@ -1189,7 +1184,7 @@
         "hasLegacy" : false,
         "id" : 103,
         "illustrator" : "xperz",
-        "level" : [ 6.5, 10.5, 14.4 ],
+        "level" : [ 6.5, 10.5, 14.7 ],
         "title" : "Eltaw"
     },
     {
@@ -1235,7 +1230,7 @@
         "hasLegacy" : false,
         "id" : 107,
         "illustrator" : "あおお/A-ZERO, morph",
-        "level" : [ 7.5, 11.9, 14.8, 16.2 ],
+        "level" : [ 7.5, 11.9, 14.6, 16.2 ],
         "title" : "volcanic"
     },
     {
@@ -1281,7 +1276,7 @@
         "hasLegacy" : false,
         "id" : 111,
         "illustrator" : "谷地（青鸟 modified）",
-        "level" : [ 7.0, 11.9, 15.6, 15.8 ],
+        "level" : [ 6.0, 10.8, 15.6, 15.8 ],
         "title" : "Cthugha"
     },
     {
@@ -1391,7 +1386,7 @@
         "hasLegacy" : false,
         "id" : 122,
         "illustrator" : "爱39的Konya",
-        "level" : [ 4.5, 7.0, 14.5 ],
+        "level" : [ 4.5, 8.3, 14.5 ],
         "title" : "ジングルベル(Jingle Bell)"
     },
     {
@@ -1431,7 +1426,7 @@
         "hasLegacy" : false,
         "id" : 126,
         "illustrator" : "Arahosi",
-        "level" : [ 4.5, 11.7, 15.5 ],
+        "level" : [ 4.5, 11.7, 15.4 ],
         "title" : "Don't Never Around"
     },
     {
@@ -1486,7 +1481,7 @@
         "hasLegacy" : false,
         "id" : 131,
         "illustrator" : "Keiby.comics",
-        "level" : [ 5.5, 11.7, 14.6 ],
+        "level" : [ 5.5, 11.7, 14.4 ],
         "title" : "Future Mind"
     },
     {
@@ -1587,7 +1582,7 @@
         "hasLegacy" : false,
         "id" : 139,
         "illustrator" : "Lanota © Noxy Games Inc. ",
-        "level" : [ 6.0, 11.7, 14.6, 15.6 ],
+        "level" : [ 6.0, 11.7, 14.2, 15.6 ],
         "title" : "You are the Miserable"
     },
     {
@@ -1597,7 +1592,7 @@
         "hasLegacy" : false,
         "id" : 140,
         "illustrator" : "Lanota © Noxy Games Inc. ",
-        "level" : [ 5.0, 11.1, 15.4, 16.4 ],
+        "level" : [ 5.0, 11.1, 15.3, 16.4 ],
         "title" : "Stasis"
     },
     {
@@ -1647,7 +1642,7 @@
     },
     {
         "chapter" : "姜米條",
-        "charter" : [ "晨", "晨", "Sillyp vs 晨", "J0(_)I2|\\|3y'5 3|\\||)" ],
+        "charter" : [ "晨", "晨", "Sillyp vs. 晨", "J0(_)I2|\\|3y'5 3|\\||)" ],
         "composer" : "姜米條&SumaiLight",
         "hasLegacy" : false,
         "id" : 145,
@@ -1717,7 +1712,7 @@
         "hasLegacy" : false,
         "id" : 151,
         "illustrator" : "茶鸣拾贰律",
-        "level" : [ 5.0, 10.8, 14.7 ],
+        "level" : [ 5.0, 10.8, 14.9 ],
         "title" : "青芽"
     },
     {
@@ -1747,7 +1742,7 @@
         "hasLegacy" : false,
         "id" : 154,
         "illustrator" : "青鸟",
-        "level" : [ 6.0, 12.5, 15.5 ],
+        "level" : [ 6.0, 12.5, 15.4 ],
         "title" : "El Condor Pasa (Phigros Edit)"
     },
     {
@@ -1756,14 +1751,14 @@
         [
             "Barbarianerman",
             "Barbarianerman",
-            "百九十八 vs Barbarianerman",
+            "百九十八 vs. Barbarianerman",
             "百九十八"
         ],
         "composer" : "K-forest",
         "hasLegacy" : false,
         "id" : 155,
         "illustrator" : "圆规compasses",
-        "level" : [ 5.0, 11.8, 14.6, 14.9 ],
+        "level" : [ 5.0, 11.8, 14.1, 14.9 ],
         "title" : "Break Over"
     },
     {
@@ -1823,7 +1818,7 @@
         "hasLegacy" : false,
         "id" : 161,
         "illustrator" : "LESYEF & 藍瀬 まなみ",
-        "level" : [ 5.0, 11.2, 15.6 ],
+        "level" : [ 5.0, 11.2, 15.5 ],
         "title" : "インフェルノシティ"
     },
     {
@@ -1883,7 +1878,7 @@
         "hasLegacy" : false,
         "id" : 167,
         "illustrator" : "TNiK",
-        "level" : [ 4.0, 8.3, 13.4 ],
+        "level" : [ 4.0, 8.3, 13.2 ],
         "title" : "Bougainvillea"
     },
     {
@@ -2075,7 +2070,7 @@
         "hasLegacy" : false,
         "id" : 184,
         "illustrator" : "鲸弑",
-        "level" : [ 3.0, 9.6, 13.7 ],
+        "level" : [ 3.0, 9.6, 13.5 ],
         "title" : "Bitterblossom"
     },
     {
@@ -2120,12 +2115,12 @@
     },
     {
         "chapter" : "Rotaeno",
-        "charter" : [ "Likey ", "迟戈 vs Likey", "NerSAN" ],
+        "charter" : [ "Likey ", "迟戈 vs. Likey", "NerSAN" ],
         "composer" : "Yooh",
         "hasLegacy" : false,
         "id" : 188,
         "illustrator" : "Juice Black (青鸟 modified)",
-        "level" : [ 5.0, 10.5, 14.8 ],
+        "level" : [ 5.0, 10.5, 14.6 ],
         "title" : "Secret Illumination"
     },
     {
@@ -2139,29 +2134,23 @@
         "title" : "Inverted World"
     },
     {
-        "chapter" : "",
-        "charter" : 
-        [
-            "返せ！返せ！ボクのSu1fuRを",
-            "{^-7-^} BATTLE against Su1fuR",
-            "阿爽 and StupiGGy Seizing Territory",
-            "JKy feat. 0419_Guardian"
-        ],
-        "composer" : "ツユ",
+        "chapter" : "CHUNITHM",
+        "charter" : [ "IUIsauce", "Salt", "Myna feat.Sleepyhead", "StupiGGy" ],
+        "composer" : "Feryquitous feat.藍月なくる",
         "hasLegacy" : false,
-        "id" : 190,
+        "id" : 235,
         "illustrator" : "SEGA (V17AMax modified)",
-        "level" : [ 3.0, 9.1, 13.8, 15.3 ],
-        "title" : "テリトリーバトル"
+        "level" : [ 6.0, 11.1, 14.7, 15.5 ],
+        "title" : "月詠に鳴る"
     },
     {
         "chapter" : "CHUNITHM",
         "charter" : 
         [
             "dancing\"L\"ine 2085",
-            "迟戈 vs Likey",
+            "迟戈 vs. Likey",
             "CTYMAX ????",
-            "TECHNOXMT vs LATENCYPOLIS"
+            "TECHNOXMT vs. LATENCYPOLIS"
         ],
         "composer" : "PRASTIK DANCEFLOOR",
         "hasLegacy" : false,
@@ -2176,7 +2165,7 @@
         [
             "Su1fuRikko \"SouRce of the metaveRse\"",
             "Su1fuRikko × rN \"judgemeNt fRom the cataStRophy\"",
-            "兔咩小 vs 咩小兔 vs 小兔咩 vs 咩兔小 vs 兔小咩",
+            "兔咩小 VS 咩小兔 VS 小兔咩 VS 咩兔小 VS 兔小咩",
             "フィグロス譜面チーム \"Rikko feat. Ner\" -Pray for \"PHI\"-"
         ],
         "composer" : "光吉猛修 VS 穴山大輔 VS Kai VS 水野健治 VS 大国奏音",
@@ -2193,7 +2182,7 @@
         "hasLegacy" : false,
         "id" : 193,
         "illustrator" : "海产",
-        "level" : [ 4.0, 8.3, 14.9 ],
+        "level" : [ 4.0, 9.1, 14.9 ],
         "title" : "bye"
     },
     {
@@ -2238,7 +2227,7 @@
         "hasLegacy" : false,
         "id" : 197,
         "illustrator" : "BTKCyber (青鸟 modified)",
-        "level" : [ 3.0, 8.4, 15.8 ],
+        "level" : [ 3.0, 8.4, 15.7 ],
         "title" : "K.Moe (VIP)"
     },
     {
@@ -2258,7 +2247,7 @@
         "hasLegacy" : false,
         "id" : 199,
         "illustrator" : "笔记RE",
-        "level" : [ 4.0, 11.5, 15.3 ],
+        "level" : [ 4.0, 11.5, 15.1 ],
         "title" : "Crush BETA"
     },
     {
@@ -2268,7 +2257,7 @@
         "hasLegacy" : false,
         "id" : 200,
         "illustrator" : "午苔veeee~",
-        "level" : [ 4.0, 9.3, 13.2 ],
+        "level" : [ 4.0, 8.6, 13.2 ],
         "title" : "Broken Sky"
     },
     {
@@ -2298,7 +2287,7 @@
         "hasLegacy" : false,
         "id" : 203,
         "illustrator" : "2AI4wU4",
-        "level" : [ 4.0, 10.2, 14.9 ],
+        "level" : [ 4.0, 10.2, 14.7 ],
         "title" : "Artificial Existence"
     },
     {
@@ -2314,15 +2303,15 @@
         "hasLegacy" : false,
         "id" : 204,
         "illustrator" : "兜",
-        "level" : [ 7.5, 11.7, 15.3, 16.2 ],
+        "level" : [ 7.5, 11.7, 15.3, 16.1 ],
         "title" : "Indelible Scar"
     },
     {
         "chapter" : "Single",
         "charter" : 
         [
-            "SeveredEntity (BlindForest vs rN) feat. Δ",
-            "Δ (M3d1uM vs Salt)",
+            "SeveredEntity (BlindForest vs. rN) feat. Δ",
+            "Δ (M3d1uM vs. Salt)",
             "StupiGGy -The Origin-",
             "弧光"
         ],
@@ -2431,7 +2420,7 @@
     },
     {
         "chapter" : "TAKUMI³",
-        "charter" : [ "IUIsauce", "IUIsauce", "XMT小咩兔 vs 上班睡大觉_Sleepyhead" ],
+        "charter" : [ "IUIsauce", "IUIsauce", "XMT小咩兔 vs. 上班睡大觉_Sleepyhead" ],
         "composer" : "Link''0",
         "hasLegacy" : false,
         "id" : 230,
@@ -2495,6 +2484,16 @@
         "title" : "暗夜苏醒 (REANIMATE)"
     },
     {
+        "chapter" : "Single",
+        "charter" : [ "SimonAxis", "SimonAxis", "WhiteCat." ],
+        "composer" : "Puru",
+        "hasLegacy" : false,
+        "id" : 236,
+        "illustrator" : "临时工 & 倪尔",
+        "level" : [ 3.0, 8.9, 13.8 ],
+        "title" : "Grimheart"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [
@@ -2506,7 +2505,7 @@
         "hasLegacy" : false,
         "id" : 209,
         "illustrator" : "老张",
-        "level" : [ 4.5, 8.4, 12.8 ],
+        "level" : [ 6.0, 8.4, 12.8 ],
         "title" : "Ποσειδών"
     },
     {
@@ -2531,7 +2530,7 @@
         "hasLegacy" : false,
         "id" : 211,
         "illustrator" : "L-sp4",
-        "level" : [ 2.5, 9.8, 13.7 ],
+        "level" : [ 2.5, 7.5, 13.1 ],
         "title" : "Miracle Forest (VIP Mix)"
     },
     {
@@ -2587,7 +2586,7 @@
         "hasLegacy" : false,
         "id" : 215,
         "illustrator" : "Jeffery",
-        "level" : [ 5.5, 10.3, 13.7 ],
+        "level" : [ 5.5, 9.4, 13.8 ],
         "title" : "Demonkin"
     },
     {
@@ -2597,7 +2596,7 @@
         "hasLegacy" : false,
         "id" : 216,
         "illustrator" : "Tsuioku",
-        "level" : [ 4.5, 11.4, 14.6 ],
+        "level" : [ 4.5, 11.4, 14.3 ],
         "title" : "Re_Nascence (Psystyle Ver.) "
     },
     {
@@ -2607,7 +2606,7 @@
         "hasLegacy" : false,
         "id" : 217,
         "illustrator" : "MOAI WORKS",
-        "level" : [ 4.5, 10.9, 15.1 ],
+        "level" : [ 4.5, 9.5, 15.1 ],
         "title" : "Ark"
     },
     {
@@ -2617,7 +2616,7 @@
         "hasLegacy" : false,
         "id" : 218,
         "illustrator" : "月亮酱",
-        "level" : [ 4.0, 11.1, 15.3 ],
+        "level" : [ 4.0, 10.4, 15.3 ],
         "title" : "After Dawn"
     },
     {
@@ -2668,7 +2667,7 @@
         "hasLegacy" : false,
         "id" : 222,
         "illustrator" : "PEZZ feat. 祈莲 & CattoHato",
-        "level" : [ 7.0, 11.9, 15.1 ],
+        "level" : [ 7.0, 10.9, 15.1 ],
         "title" : "Freaky Undulations ~Noble Knights of Tune~"
     },
     {
@@ -2699,7 +2698,78 @@
         "hasLegacy" : false,
         "id" : 224,
         "illustrator" : "masiro vs. adaptor",
-        "level" : [ 7.5, 13.1, 15.8, 16.4 ],
+        "level" : [ 7.5, 13.1, 15.6, 16.4 ],
         "title" : "Re：End of a Dream"
+    },
+    {
+        "chapter" : "Side story 4",
+        "charter" : [ "Su1fuR", "Su1fuR", "N-23" ],
+        "composer" : "A-39/沙包P",
+        "hasLegacy" : false,
+        "id" : 237,
+        "illustrator" : "爱39的Konya",
+        "level" : [ 3.5, 9.1, 13.3 ],
+        "title" : "心の記憶"
+    },
+    {
+        "chapter" : "Side story 4",
+        "charter" : 
+        [
+            "Debut under spotlights!< Simon_Axis",
+            "Simon_Axis >< Likey",
+            "Likey >IT'S SHOWTIME!"
+        ],
+        "composer" : "Ardolf",
+        "hasLegacy" : false,
+        "id" : 238,
+        "illustrator" : "NerSAN",
+        "level" : [ 4.5, 9.9, 14.3 ],
+        "title" : "Spotlight"
+    },
+    {
+        "chapter" : "Side story 4",
+        "charter" : [ "StR-1 watches Ctyfilm", "StR-1 watches Ctyfilm", "LuminousGausbon" ],
+        "composer" : "わかどり",
+        "hasLegacy" : false,
+        "id" : 239,
+        "illustrator" : "青鸟",
+        "level" : [ 4.0, 10.6, 14.6 ],
+        "title" : "NightTheater"
+    },
+    {
+        "chapter" : "Side story 4",
+        "charter" : [ "inert COC", "totally ramified COC", "Simon_Axis•騎士•StR-1" ],
+        "composer" : "rareguy & Reina",
+        "hasLegacy" : false,
+        "id" : 240,
+        "illustrator" : "cokeAnut",
+        "level" : [ 5.0, 10.4, 14.7 ],
+        "title" : "Ramification"
+    },
+    {
+        "chapter" : "Side story 4",
+        "charter" : [ "Min(C,t,y)", "Max(C,t,y)", "Absolute(6)" ],
+        "composer" : "Ωμεγα",
+        "hasLegacy" : false,
+        "id" : 241,
+        "illustrator" : "森灵",
+        "level" : [ 5.5, 11.4, 15.6 ],
+        "title" : "Der Richter"
+    },
+    {
+        "chapter" : "Side story 4",
+        "charter" : 
+        [
+            "LDAJOY&PLEASANT ^V^ LDA",
+            "ANGER&SORROW >^< LDA",
+            "Affection&memories \\\\// Salt & Simon_Axis",
+            "FORGET :: CLUTTER"
+        ],
+        "composer" : "LeaF",
+        "hasLegacy" : false,
+        "id" : 242,
+        "illustrator" : "御坂果子",
+        "level" : [ 8.1, 12.9, 15.5, 16.2 ],
+        "title" : "ATHAZA"
     }
 ]
