@@ -2494,6 +2494,26 @@
         "title" : "Grimheart"
     },
     {
+        "chapter" : "Single",
+        "charter" : [ "thrAsh forSe", "thrAsh forSe", "Uvernight & Su1fuR" ],
+        "composer" : "KAH vs. E0ri4",
+        "hasLegacy" : false,
+        "id" : 243,
+        "illustrator" : "自動車 原付 vs. GAMEBAKA",
+        "level" : [ 4.5, 10.7, 15.2 ],
+        "title" : "Thrash force"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : [ "StR-1", "StR-9", "StrayCat" ],
+        "composer" : "SNKS & Mizku",
+        "hasLegacy" : false,
+        "id" : 244,
+        "illustrator" : "Keiby.comics",
+        "level" : [ 1.0, 9.3, 14.5 ],
+        "title" : "Originally"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [

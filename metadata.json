@@ -46,24 +46,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "EradicationCatastrophe.NceS",
@@ -108,24 +113,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Credits.Frums",
@@ -172,24 +182,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Dlyrotz.Likey",
@@ -234,24 +249,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "EnginexStartmelodymix.CrossingSound",
@@ -296,24 +316,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "光.姜米條",
@@ -358,24 +383,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Wintercube.CtymaxfeatNceS",
@@ -420,24 +450,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Cipher20.TetrajectoryfeatCtymax",
@@ -482,24 +517,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "混乱Confusion.OnlyMyBlackScore",
@@ -544,24 +584,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "FULiAUTOSHOOTER.MYUKKE",
@@ -606,24 +651,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "HumaN.SOTUI",
@@ -668,24 +718,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "PRAW.Bluewind",
@@ -730,24 +785,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "PixelRebelz.Normal1zer",
@@ -792,24 +852,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Cereris.SunsetRayNceS",
@@ -854,24 +919,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "NonMelodicRagezMUGEdit.Normal1zer",
@@ -916,24 +986,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "SultanRage.MonstDeath",
@@ -978,24 +1053,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ClassMemories.AntistarfeatCtymax",
@@ -1040,24 +1120,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "SURREALISM.Itsuki",
@@ -1102,24 +1187,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "BonusTime.MegaloPaleWhite",
@@ -1164,24 +1254,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ENERGYSYNERGYMATRIX.Tanchiky",
@@ -1227,24 +1322,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "NYA.FLuoRiTe姜米條",
@@ -1289,24 +1389,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "JunXionBetweenLifeAndDeathVIPMix.1N6Fs",
@@ -1351,24 +1456,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "cryout.JuE",
@@ -1413,24 +1523,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Reimei.影虎",
@@ -1475,24 +1590,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "尊師TheGuru.rider",
@@ -1537,24 +1657,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Spasmodic.姜米條颶風元力上人",
@@ -1607,24 +1732,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "LeaveAllBehind.rider",
@@ -1669,24 +1799,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ColorfulDays.P4koofeatつゆり花鈴",
@@ -1731,24 +1866,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "microwav.dandeless",
@@ -1793,24 +1933,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "重生.姜米條",
@@ -1855,24 +2000,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "NOONEYESMAN.MYUKKE",
@@ -1917,24 +2067,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "望影の方舟Six.SeURa",
@@ -1979,24 +2134,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Igallta.SeURa",
@@ -2049,24 +2209,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ClockParadox.WyvernP",
@@ -2111,24 +2276,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Chronologika.Hundotte",
@@ -2173,24 +2343,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "NickofTime.P4koo",
@@ -2235,24 +2410,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Chronomia.Lime",
@@ -2297,24 +2477,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ChronosCollapseLaCampanella.SunsetRay",
@@ -2359,24 +2544,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Rrharil.TeamGrimoire",
@@ -2429,24 +2619,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "CraveWave.LandRoot",
@@ -2491,24 +2686,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "TheChariotREVIIVAL.Attoclef",
@@ -2553,24 +2753,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Luminescence.米虾Fomiki初云CLoudie",
@@ -2615,24 +2820,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Retribution.nmyKryexe",
@@ -2677,24 +2887,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "DESTRUCTION321.Normal1zervsBrokenNerdz",
@@ -2744,24 +2959,29 @@
                 ]
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "DistortedFate.Sakuzyo",
@@ -2811,24 +3031,29 @@
                 ]
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Doppelganger.LeaF",
@@ -2873,24 +3098,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "もぺもぺ.LeaF",
@@ -2937,24 +3167,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "MARENOL.LeaF",
@@ -2999,24 +3234,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "萤火虫の怨.闫东炜",
@@ -3061,24 +3301,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "万吨匿名信.闫东炜",
@@ -3123,24 +3368,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "风屿.闫东炜",
@@ -3187,24 +3437,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "dBdoll.YUESTEVENuen",
@@ -3251,24 +3506,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Dash.小红Akane李祥辉",
@@ -3313,24 +3573,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "云女孩.符白牙SiYFics",
@@ -3375,24 +3640,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "DropIt.Asuka",
@@ -3437,24 +3707,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "RIPPER.Friedwav",
@@ -3499,24 +3774,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Aphasia.闫东炜",
@@ -3561,24 +3841,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "开心病.闫东炜",
@@ -3623,24 +3908,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "華灯爱.闫东炜",
@@ -3685,24 +3975,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "FindMe.Kforest",
@@ -3747,24 +4042,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻",
@@ -3809,24 +4109,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "狂喜蘭舞.LeaF",
@@ -3873,24 +4178,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "SparkleNewLife.rider",
@@ -3935,24 +4245,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "KhronostasisKatharsis.Halv",
@@ -3997,24 +4312,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "SnowDesert.WyvernP",
@@ -4059,24 +4379,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Burn.NceS",
@@ -4121,24 +4446,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Aleph0.LeaF",
@@ -4188,24 +4518,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "NextTime.SaMZIng",
@@ -4250,24 +4585,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "RubbishSorting.CtymaxvsNceS",
@@ -4312,24 +4652,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "AnotherMe.NeutralMoon",
@@ -4374,24 +4719,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "mechanted.rareguy",
@@ -4436,24 +4786,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "lifeflashesbeforeweebeyes.BilliumMoto",
@@ -4498,24 +4853,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "BreakThroughTheBarrier.lixound",
@@ -4565,24 +4925,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Chronostasis.黒皇帝",
@@ -4627,24 +4992,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "DeadSoul.SoundSouler",
@@ -4689,24 +5059,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "InfinityHeaven.HyuN",
@@ -4751,24 +5126,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Disorder.HyuNfeatYURI",
@@ -4813,24 +5193,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "CROSSSOUL.HyuNfeatSyepias",
@@ -4875,24 +5260,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "SpeedUp.DarTokki",
@@ -4937,24 +5327,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "MagentaPotion.EmoCo",
@@ -4999,24 +5394,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "GetBack.CAP3",
@@ -5061,24 +5461,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Palescreen.WyvernPfeatMadol",
@@ -5123,24 +5528,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "GOODTEK.EBIMAYO",
@@ -5185,24 +5595,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "GOODBOUNCE.EBIMAYO",
@@ -5247,24 +5662,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "GOODWORLD.EBIMAYO",
@@ -5309,24 +5729,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "GOODFORTUNE.EBIMAYO",
@@ -5371,24 +5796,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "GOODRAGE.EBIMAYO",
@@ -5433,24 +5863,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "TheMountainEater.PaulBazooka",
@@ -5495,24 +5930,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Orthodox.tokiwa",
@@ -5557,24 +5997,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "EndMe.ZxNXasDelaina",
@@ -5619,24 +6064,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ParallelRetrogressionGameVer.Tetrajectory",
@@ -5681,24 +6131,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Starduster.Quree",
@@ -5743,24 +6198,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Electron.ElousFZ",
@@ -5805,24 +6265,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "SIGMA.Kryexe",
@@ -5867,24 +6332,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "HardcoreKwaya.EnFr",
@@ -5929,24 +6399,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Aventyr.GrandThawRigelTheatre",
@@ -5991,24 +6466,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Trane.MALVA",
@@ -6053,24 +6533,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "雪降りメリクリ.A39",
@@ -6115,24 +6600,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "CervelleConnexion.SCTL",
@@ -6177,24 +6667,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "modulus.PTB10",
@@ -6239,24 +6734,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Wavetapper.Frums",
@@ -6301,24 +6801,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "大和撫子WildDances.adapatorvsDRIVE",
@@ -6363,24 +6868,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Eltaw.Fl00t",
@@ -6425,24 +6935,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Initialize.iF",
@@ -6487,24 +7002,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "桜樹街道.kozatosnow",
@@ -6549,24 +7069,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "GetReady.iF",
@@ -6611,24 +7136,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "volcanic.DETROakaルゼ",
@@ -6675,24 +7205,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "BetterGraphicAnimation.ルゼ",
@@ -6737,24 +7272,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "XING.ginkiha",
@@ -6799,24 +7339,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "FinalStep.Lime",
@@ -6861,24 +7406,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Cthugha.USAO",
@@ -6925,24 +7475,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "WithYou.Cashew",
@@ -6987,24 +7542,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "UnorthodoxThoughts.Joulez",
@@ -7049,24 +7609,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Apocalyptic.ZClaxxSumaiLight",
@@ -7111,24 +7676,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "游园地.椒盐菠萝",
@@ -7173,24 +7743,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "energytrixxx.KAH",
@@ -7235,24 +7810,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Nhelv.Silentroom",
@@ -7297,24 +7877,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Arkhei.SeraAmagi",
@@ -7359,24 +7944,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Kerberos.Zris",
@@ -7421,24 +8011,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "parsey.siqlo",
@@ -7483,24 +8078,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Concvssion.Halv",
@@ -7545,24 +8145,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ジングルベルJingleBell.A39沙包P",
@@ -7607,24 +8212,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "TimetoNightSkyfeatLeeYuJin.HyuNKLYDIX",
@@ -7669,24 +8279,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "HAZARD.Limpid",
@@ -7731,24 +8346,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "AnotherMe.DAAN",
@@ -7793,24 +8413,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "DontNeverAround.HAMA",
@@ -7855,24 +8480,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "RESSiSTANCE.ぐるたみん",
@@ -7917,24 +8547,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Dreamland.z1onkyrrin",
@@ -7979,24 +8614,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "AnotherRound.JustinDai",
@@ -8041,24 +8681,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "996.李化禹",
@@ -8103,24 +8748,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "FutureMind.RayNauticaRekuMochizuki",
@@ -8165,24 +8815,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Luminescent.Daison",
@@ -8227,24 +8882,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "FULiAUTOBUSTER.MYUKKE",
@@ -8289,24 +8949,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "IMustSayNo.TangJuan",
@@ -8351,24 +9016,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "opia.rN",
@@ -8413,24 +9083,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Apocalypse.アリスシャッハと魔法の楽団",
@@ -8475,24 +9150,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Protoflicker.Silentroom",
@@ -8537,24 +9217,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "HorizonBlue.NothingButRequiemfeatAikapinChiyoko",
@@ -8599,24 +9284,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "YouaretheMiserable.tpazolite",
@@ -8668,24 +9358,29 @@
                 ]
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Stasis.Maozon",
@@ -8735,24 +9430,29 @@
                 ]
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "いざ参ります.Uskefeat棗いつき",
@@ -8797,24 +9497,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "月下缭乱.月見静華vsLUNARiUM",
@@ -8859,24 +9564,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "OnAndOn.ETIAfeatJenga",
@@ -8921,24 +9631,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "DataErr0r.Cosmograph",
@@ -8983,24 +9698,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Shadow.SumaiLightvs姜米條",
@@ -9051,24 +9771,29 @@
                 ]
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "心之所向.姜米條",
@@ -9113,24 +9838,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "inferior.姜米條",
@@ -9175,24 +9905,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "csqn.Aoi",
@@ -9237,24 +9972,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "BraveNotes.TurquoiseDRIVENota",
@@ -9299,24 +10039,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "盏茗.茶鸣拾贰律",
@@ -9361,24 +10106,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "青芽.茶鸣拾贰律",
@@ -9423,24 +10173,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "EternalSnow.AbyssIdols",
@@ -9485,24 +10240,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "RainySeason.AbyssIdols",
@@ -9547,24 +10307,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ElCondorPasaPhigrosEdit.PlasticFruits",
@@ -9609,24 +10374,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "BreakOver.Kforest",
@@ -9673,24 +10443,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "BelieveLightfeat果丸哒呦.ScalerMestie果丸哒呦",
@@ -9735,24 +10510,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Pontdessouvenirs.VeetaCrushvsitsufeatitsu",
@@ -9797,24 +10577,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "青丘.BLACK0",
@@ -9859,24 +10644,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "瓷岁.茶鸣拾贰律",
@@ -9921,24 +10711,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Feast远东之宴.茶鸣拾贰律",
@@ -9983,24 +10778,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "インフェルノシティ.Ponchifeatはぁち",
@@ -10045,24 +10845,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Upshift.Iriss-Frantzz",
@@ -10107,24 +10912,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "PoisonANDORAffection.LeaF",
@@ -10169,24 +10979,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Random.SobremSilentroom",
@@ -10231,24 +11046,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "零號車輛.seatrus",
@@ -10293,24 +11113,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "NowIsTheTimeDoIt.RoyMikelate",
@@ -10355,24 +11180,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Bougainvillea.Jade",
@@ -10417,24 +11247,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "神話.PicaM2U",
@@ -10479,24 +11314,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Elúltimobaile.Θ",
@@ -10541,24 +11381,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Trojan.litmus",
@@ -10603,24 +11448,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "TemporalShifting.LureRabbitVC",
@@ -10665,24 +11515,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Adastraperaspera.RabbitHouse",
@@ -10727,24 +11582,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Ajourneytothemoonlight.Yesod",
@@ -10789,24 +11649,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "RainyHeart.BelieverInYou阿卡姆巫师",
@@ -10851,24 +11716,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Realms.HinkikAHimitsu",
@@ -10913,24 +11783,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ぱぴぷぴぷぴぱ.ころねぽちWith立秋",
@@ -10975,24 +11850,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "TriumphRegret.typeMARS",
@@ -11037,24 +11917,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "SATELLITE.かめりあ",
@@ -11103,24 +11988,29 @@
                 ]
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "DancewithSilence.かめりあ",
@@ -11165,24 +12055,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "LabyrinthinKowloonWalledWorld.かめりあ",
@@ -11227,24 +12122,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ",
@@ -11289,24 +12189,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ERABYECONNEC10N.かめりあ",
@@ -11353,24 +12258,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "DiamondEyes.SYNTHETIC",
@@ -11415,24 +12325,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Bitterblossom.imvi",
@@ -11477,24 +12392,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "SilenceisGoldenSpeechisGolden.NIWASHI",
@@ -11539,24 +12459,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "FracturedAngel.DJRaisei",
@@ -11601,24 +12526,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "JourneywithYou.Iris",
@@ -11663,24 +12593,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "SecretIllumination.Yooh",
@@ -11725,24 +12660,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "InvertedWorld.ARForest",
@@ -11787,24 +12727,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "月詠に鳴る.Feryquitousfeat藍月なくる",
@@ -11851,24 +12796,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "TECHNOPOLIS2085.PRASTIKDANCEFLOOR",
@@ -11915,24 +12865,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音",
@@ -11979,24 +12934,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "bye.DingerBox",
@@ -12041,24 +13001,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "聖夜讃歌.A39沙包P",
@@ -12103,24 +13068,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ストレイソウルアラウンド.みーに",
@@ -12165,24 +13135,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ManifoldHypothesis.cybermisofeattigerlily",
@@ -12227,24 +13202,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "KMoeVIP.ZxNX",
@@ -12289,24 +13269,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "GVNGlitterVomitusandNeon.SaltySaltUnfold33",
@@ -12351,24 +13336,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "CrushBETA.shadow_bling",
@@ -12413,24 +13403,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow",
@@ -12475,24 +13470,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "BRAINHACKER.SOMON",
@@ -12537,24 +13537,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Xenolith.Tatsh",
@@ -12599,24 +13604,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ArtificialExistence.JunKuroda",
@@ -12661,24 +13671,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "IndelibleScar.Noah",
@@ -12725,24 +13740,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Antithese.Blacklolita",
@@ -12789,24 +13809,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "PRAGMATISMRESURRECTION.Laur",
@@ -12853,24 +13878,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ShineAfter.ADeanJocularACE",
@@ -12915,24 +13945,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Bloom.targ麻团qwq",
@@ -12977,24 +14012,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "幽世桔梗.Capchiifeatまるもこ",
@@ -13039,24 +14079,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "千紫万紅.r0yvsWABI",
@@ -13101,24 +14146,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "明鏡烈火.MUEvsRekuMochizuki",
@@ -13163,24 +14213,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "今天不是明天.PIKASONICfeat兰音Reine",
@@ -13225,24 +14280,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Cuvism.Fl00tvsHalv",
@@ -13293,24 +14353,29 @@
                 ]
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "iLArtifact.Link0",
@@ -13355,24 +14420,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "atruthseekerCommunicationwithUtopiawillbelost.kuro",
@@ -13417,24 +14487,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "BoundedQuietude.FiniteLimitvsSiLiS",
@@ -13479,24 +14554,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "君往何处QuoVadis.M2U",
@@ -13541,24 +14621,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "暗夜苏醒REANIMATE.Warak",
@@ -13603,24 +14688,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Grimheart.Puru",
@@ -13665,24 +14755,163 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
+    },
+    {
+        "songId": "Thrashforce.KAHvsE0ri4",
+        "songKey": "Thrash force",
+        "songName": "Thrash force",
+        "songTitle": "",
+        "difficulty": [
+            4.5,
+            10.7,
+            15.2
+        ],
+        "illustrator": "自動車 原付 vs. GAMEBAKA",
+        "charter": [
+            "thrAsh forSe",
+            "thrAsh forSe",
+            "Uvernight & Su1fuR"
+        ],
+        "composer": "KAH vs. E0ri4",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 102.6240005493164,
+        "previewTime": 123.80000305175781,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            }
+        ],
+        "fixedInteger2": 0
+    },
+    {
+        "songId": "Originally.SNKSMizku",
+        "songKey": "Originally",
+        "songName": "Originally",
+        "songTitle": "",
+        "difficulty": [
+            1.0,
+            9.3,
+            14.5
+        ],
+        "illustrator": "Keiby.comics",
+        "charter": [
+            "StR-1",
+            "StR-9",
+            "StrayCat"
+        ],
+        "composer": "SNKS & Mizku",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 30.200000762939453,
+        "previewTime": 51.0,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            }
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Poseidon.1112vsStar",
@@ -13727,24 +14956,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "WATER.A39沙包P",
@@ -13789,24 +15023,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "MiracleForestVIPMix.Rinthlive",
@@ -13855,24 +15094,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "MOBILYS.Dachs",
@@ -13917,24 +15161,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Lyrith迷宮リリス.ユメミド",
@@ -13982,24 +15231,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Demiurge.Rabpit",
@@ -14044,24 +15298,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Demonkin.ForgedReigns",
@@ -14106,24 +15365,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Re_NascencePsystyleVer.Rinth_live",
@@ -14168,24 +15432,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Ark.kanoryo",
@@ -14230,24 +15499,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "AfterDawn.S9ryne",
@@ -14292,24 +15566,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "INFiNiTEENERZYOverdoze.RekuMochizuki",
@@ -14356,24 +15635,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Khalid.Dolphin",
@@ -14418,24 +15702,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "QuantumHyperspace.D_AAN",
@@ -14480,24 +15769,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK",
@@ -14542,24 +15836,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "PANICPARADISE.DJSHIONY",
@@ -14604,24 +15903,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ReEndofaDream.umavsモリモリあつし",
@@ -14668,24 +15972,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "心の記憶.A39沙包P",
@@ -14730,24 +16039,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Spotlight.Ardolf",
@@ -14792,24 +16106,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "NightTheater.わかどり",
@@ -14854,24 +16173,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "Ramification.rareguyReina",
@@ -14916,24 +16240,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "DerRichter.Ωμεγα",
@@ -14978,24 +16307,29 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     },
     {
         "songId": "ATHAZA.LeaF",
@@ -15042,23 +16376,28 @@
                 "unlockInfo": []
             }
         ],
-        "fixedInteger2": 0.0,
         "levelMods": [
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             },
             {
-                "n": []
+                "n": [],
+                "m": []
             }
-        ]
+        ],
+        "fixedInteger2": 0
     }
 ]

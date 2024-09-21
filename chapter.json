@@ -6,12 +6,29 @@
         "chapterName": "Single",
         "songs": [
             {
-                "songId": "Grimheart.Puru.0",
+                "songId": "Originally.SNKSMizku.0",
                 "fixedInteger1": 1,
                 "unlockCondition": [
                     "4",
-                    "prev@08/31/2024 17:00:00 +8:00"
+                    "prev@09/20/2024 17:00:00 +8:00"
                 ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "Thrashforce.KAHvsE0ri4.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [
+                    "4",
+                    "prev@09/20/2024 17:00:00 +8:00"
+                ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "Grimheart.Puru.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
@@ -1373,7 +1390,7 @@
         ],
         "unlockType1": 4,
         "unlockCondition1": "MOBILYS.Dachs.0",
-        "unlockType2": "prev@8/31/2024 17:00:00 +8:00",
+        "unlockType2": "",
         "unlockCondition2": "",
         "lockImage": "",
         "lockBlurImage": ""
