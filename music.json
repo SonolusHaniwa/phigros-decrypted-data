@@ -2459,7 +2459,7 @@
         "title" : "Bounded Quietude"
     },
     {
-        "chapter" : "Single",
+        "chapter" : "节奏大师",
         "charter" : 
         [
             "Where are Ctymax and 阿爽?",
@@ -2469,17 +2469,17 @@
         "composer" : "M2U",
         "hasLegacy" : false,
         "id" : 233,
-        "illustrator" : "LRAY",
+        "illustrator" : "LRAY (青鸟 modified)",
         "level" : [ 4.0, 8.6, 14.5 ],
         "title" : "君往何处 (Quo Vadis)"
     },
     {
-        "chapter" : "Single",
+        "chapter" : "节奏大师",
         "charter" : [ "Deep Dark Ctymax", "reanimate_6k_nm.imd", "StupiGGy -The Startline-" ],
         "composer" : "Warak",
         "hasLegacy" : false,
         "id" : 234,
-        "illustrator" : "MHK",
+        "illustrator" : "MHK (青鸟 modified)",
         "level" : [ 5.0, 12.8, 15.4 ],
         "title" : "暗夜苏醒 (REANIMATE)"
     },
@@ -2512,6 +2512,36 @@
         "illustrator" : "Keiby.comics",
         "level" : [ 1.0, 9.3, 14.5 ],
         "title" : "Originally"
+    },
+    {
+        "chapter" : "节奏大师",
+        "charter" : [ "Passport:Visitor", "Passport:Constructor", "Passport:Governor" ],
+        "composer" : "MEMME",
+        "hasLegacy" : false,
+        "id" : 245,
+        "illustrator" : "RM Design Team (青鸟 modified)",
+        "level" : [ 2.0, 10.2, 14.8 ],
+        "title" : "黄金之城 (GOLD TOWN)"
+    },
+    {
+        "chapter" : "节奏大师",
+        "charter" : [ "穿山甲-1", "StupiGGy", "Spy-Simon_Axis | Spy-騎士" ],
+        "composer" : "Wav.AV",
+        "hasLegacy" : false,
+        "id" : 246,
+        "illustrator" : "RM Design Team (青鸟 modified)",
+        "level" : [ 4.5, 11.8, 15.5 ],
+        "title" : "双重间谍 (Double Agent)"
+    },
+    {
+        "chapter" : "节奏大师",
+        "charter" : [ "COC", "COC", "M3d1uM", "imd visual charter \"Rikko\" since 2014" ],
+        "composer" : "R300K",
+        "hasLegacy" : false,
+        "id" : 247,
+        "illustrator" : "RM Design Team (青鸟 modified)",
+        "level" : [ 5.5, 9.6, 15.1, 16.4 ],
+        "title" : "幻影鬼魅 (PLEASE)"
     },
     {
         "chapter" : "Side story 1",

@@ -8,39 +8,19 @@
             {
                 "songId": "Originally.SNKSMizku.0",
                 "fixedInteger1": 1,
-                "unlockCondition": [
-                    "4",
-                    "prev@09/20/2024 17:00:00 +8:00"
-                ],
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
             {
                 "songId": "Thrashforce.KAHvsE0ri4.0",
                 "fixedInteger1": 1,
-                "unlockCondition": [
-                    "4",
-                    "prev@09/20/2024 17:00:00 +8:00"
-                ],
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
             {
                 "songId": "Grimheart.Puru.0",
-                "fixedInteger1": 1,
-                "unlockCondition": [],
-                "fixedInteger2": 0,
-                "fixedInteger3": 0
-            },
-            {
-                "songId": "暗夜苏醒REANIMATE.Warak.0",
-                "fixedInteger1": 1,
-                "unlockCondition": [],
-                "fixedInteger2": 0,
-                "fixedInteger3": 0
-            },
-            {
-                "songId": "君往何处QuoVadis.M2U.0",
                 "fixedInteger1": 1,
                 "unlockCondition": [],
                 "fixedInteger2": 0,
@@ -1390,6 +1370,55 @@
         ],
         "unlockType1": 4,
         "unlockCondition1": "MOBILYS.Dachs.0",
+        "unlockType2": "",
+        "unlockCondition2": "",
+        "lockImage": "",
+        "lockBlurImage": ""
+    },
+    {
+        "chapterId": "RhythmMaster",
+        "chapterTitle": "\\ChapterRhythmMasterTitle",
+        "chapterSubtitle": "\\ChapterExtraSubTitle",
+        "chapterName": "节奏大师",
+        "songs": [
+            {
+                "songId": "君往何处QuoVadis.M2U.0",
+                "fixedInteger1": 0,
+                "unlockCondition": [],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "暗夜苏醒REANIMATE.Warak.0",
+                "fixedInteger1": 0,
+                "unlockCondition": [],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "黄金之城GOLDTOWN.Memme.0",
+                "fixedInteger1": 0,
+                "unlockCondition": [],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "双重间谍DoubleAgent.WAVAV.0",
+                "fixedInteger1": 0,
+                "unlockCondition": [],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "幻影鬼魅PLEASE.R300K.0",
+                "fixedInteger1": 0,
+                "unlockCondition": [],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            }
+        ],
+        "unlockType1": 0,
+        "unlockCondition1": "",
         "unlockType2": "",
         "unlockCondition2": "",
         "lockImage": "",

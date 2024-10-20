@@ -14588,7 +14588,7 @@
             8.6,
             14.5
         ],
-        "illustrator": "LRAY",
+        "illustrator": "LRAY (青鸟 modified)",
         "charter": [
             "Where are Ctymax and 阿爽?",
             "Where are Ctymax and 阿爽?",
@@ -14655,7 +14655,7 @@
             12.8,
             15.4
         ],
-        "illustrator": "MHK",
+        "illustrator": "MHK (青鸟 modified)",
         "charter": [
             "Deep Dark Ctymax",
             "reanimate_6k_nm.imd",
@@ -14871,6 +14871,209 @@
         ],
         "fixedInteger1": 30.200000762939453,
         "previewTime": 51.0,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            }
+        ],
+        "fixedInteger2": 0
+    },
+    {
+        "songId": "黄金之城GOLDTOWN.Memme",
+        "songKey": "黄金之城 (GOLD TOWN)",
+        "songName": "黄金之城 (GOLD TOWN)",
+        "songTitle": "",
+        "difficulty": [
+            2.0,
+            10.2,
+            14.8
+        ],
+        "illustrator": "RM Design Team (青鸟 modified)",
+        "charter": [
+            "Passport:Visitor",
+            "Passport:Constructor",
+            "Passport:Governor"
+        ],
+        "composer": "MEMME",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 35.8120002746582,
+        "previewTime": 51.0,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            }
+        ],
+        "fixedInteger2": 0
+    },
+    {
+        "songId": "双重间谍DoubleAgent.WAVAV",
+        "songKey": "双重间谍 (Double Agent)",
+        "songName": "双重间谍 (Double Agent)",
+        "songTitle": "",
+        "difficulty": [
+            4.5,
+            11.8,
+            15.5
+        ],
+        "illustrator": "RM Design Team (青鸟 modified)",
+        "charter": [
+            "穿山甲-1",
+            "StupiGGy",
+            "Spy-Simon_Axis | Spy-騎士"
+        ],
+        "composer": "Wav.AV",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 74.0,
+        "previewTime": 86.0,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            }
+        ],
+        "fixedInteger2": 0
+    },
+    {
+        "songId": "幻影鬼魅PLEASE.R300K",
+        "songKey": "幻影鬼魅 (PLEASE)",
+        "songName": "幻影鬼魅 (PLEASE)",
+        "songTitle": "",
+        "difficulty": [
+            5.5,
+            9.6,
+            15.1,
+            16.4
+        ],
+        "illustrator": "RM Design Team (青鸟 modified)",
+        "charter": [
+            "COC",
+            "COC",
+            "M3d1uM",
+            "imd visual charter \"Rikko\" since 2014"
+        ],
+        "composer": "R300K",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 61.11800003051758,
+        "previewTime": 81.98699951171875,
         "unlockList": [
             {
                 "unlockType": 0,
