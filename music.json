@@ -2544,6 +2544,26 @@
         "title" : "幻影鬼魅 (PLEASE)"
     },
     {
+        "chapter" : "Single",
+        "charter" : [ "StuRmwind", "StuRmfeuer", "''-1''" ],
+        "composer" : "ZxNX",
+        "hasLegacy" : false,
+        "id" : 248,
+        "illustrator" : "验光蒸鱼",
+        "level" : [ 4.5, 11.1, 15.2 ],
+        "title" : "Schadenfreude"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : [ "Salt", "Salt", "Likey -For an old friend-" ],
+        "composer" : "Daison",
+        "hasLegacy" : false,
+        "id" : 249,
+        "illustrator" : "子狼",
+        "level" : [ 4.0, 9.3, 12.5 ],
+        "title" : "Le temps perdu"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [

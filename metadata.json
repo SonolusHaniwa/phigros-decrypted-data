@@ -15117,6 +15117,140 @@
         "fixedInteger2": 0
     },
     {
+        "songId": "Schadenfreude.ZxNX",
+        "songKey": "Schadenfreude",
+        "songName": "Schadenfreude",
+        "songTitle": "",
+        "difficulty": [
+            4.5,
+            11.1,
+            15.2
+        ],
+        "illustrator": "验光蒸鱼",
+        "charter": [
+            "StuRmwind",
+            "StuRmfeuer",
+            "''-1''"
+        ],
+        "composer": "ZxNX",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 126.0,
+        "previewTime": 142.0,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            }
+        ],
+        "fixedInteger2": 0
+    },
+    {
+        "songId": "Letempsperdu.Daison",
+        "songKey": "Le temps perdu",
+        "songName": "Le temps perdu",
+        "songTitle": "",
+        "difficulty": [
+            4.0,
+            9.3,
+            12.5
+        ],
+        "illustrator": "子狼",
+        "charter": [
+            "Salt",
+            "Salt",
+            "Likey -For an old friend-"
+        ],
+        "composer": "Daison",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 41.0,
+        "previewTime": 58.0,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            }
+        ],
+        "fixedInteger2": 0
+    },
+    {
         "songId": "Poseidon.1112vsStar",
         "songKey": "Ποσειδών",
         "songName": "Ποσειδών",

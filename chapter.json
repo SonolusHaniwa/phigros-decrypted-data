@@ -6,6 +6,26 @@
         "chapterName": "Single",
         "songs": [
             {
+                "songId": "Letempsperdu.Daison.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [
+                    "4",
+                    "prev@11/08/2024 17:00:00 +8:00"
+                ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "Schadenfreude.ZxNX.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [
+                    "4",
+                    "prev@11/08/2024 17:00:00 +8:00"
+                ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
                 "songId": "Originally.SNKSMizku.0",
                 "fixedInteger1": 1,
                 "unlockCondition": [],
