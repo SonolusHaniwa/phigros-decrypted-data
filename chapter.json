@@ -6,22 +6,46 @@
         "chapterName": "Single",
         "songs": [
             {
-                "songId": "Letempsperdu.Daison.0",
+                "songId": "CometFeat符白牙.CNHKSS.0",
                 "fixedInteger1": 1,
                 "unlockCondition": [
                     "4",
-                    "prev@11/08/2024 17:00:00 +8:00"
+                    "prev@11/29/2024 17:00:00 +8:00"
                 ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "valorstarcross.LundyvsWyvren.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [
+                    "4",
+                    "prev@11/29/2024 17:00:00 +8:00"
+                ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "FixationsTowardtheStars.Foodbot.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [
+                    "4",
+                    "prev@11/29/2024 17:00:00 +8:00"
+                ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "Letempsperdu.Daison.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
             {
                 "songId": "Schadenfreude.ZxNX.0",
                 "fixedInteger1": 1,
-                "unlockCondition": [
-                    "4",
-                    "prev@11/08/2024 17:00:00 +8:00"
-                ],
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },

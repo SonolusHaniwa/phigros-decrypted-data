@@ -2560,8 +2560,38 @@
         "hasLegacy" : false,
         "id" : 249,
         "illustrator" : "子狼",
-        "level" : [ 4.0, 9.3, 12.5 ],
+        "level" : [ 4.0, 9.1, 12.5 ],
         "title" : "Le temps perdu"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : [ "Salt", "OPENING/Level R", "Salt" ],
+        "composer" : "Foodbot",
+        "hasLegacy" : false,
+        "id" : 250,
+        "illustrator" : "AriaL [edited by Stelli]",
+        "level" : [ 3.5, 10.8, 14.5 ],
+        "title" : "Fixations Toward the Stars"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : [ "vacant/stupiggy", "vacant/stupiggy", "vesper/straycat" ],
+        "composer" : "Lundy vs. Wyvren",
+        "hasLegacy" : false,
+        "id" : 251,
+        "illustrator" : "AriaL & 57_dayo [edited by Stelli]",
+        "level" : [ 6.5, 12.6, 15.6 ],
+        "title" : "valor/starcross"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : [ "StaR-1", "無彩色", "Likey & Barbarianerman" ],
+        "composer" : "CNHKSS feat. 符白牙",
+        "hasLegacy" : false,
+        "id" : 252,
+        "illustrator" : "小黄鸡叽叽叽叽叽叽修复中",
+        "level" : [ 3.0, 10.5, 13.7 ],
+        "title" : "Comet"
     },
     {
         "chapter" : "Side story 1",

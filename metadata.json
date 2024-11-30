@@ -15190,7 +15190,7 @@
         "songTitle": "",
         "difficulty": [
             4.0,
-            9.3,
+            9.1,
             12.5
         ],
         "illustrator": "子狼",
@@ -15208,6 +15208,207 @@
         ],
         "fixedInteger1": 41.0,
         "previewTime": 58.0,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            }
+        ],
+        "fixedInteger2": 0
+    },
+    {
+        "songId": "FixationsTowardtheStars.Foodbot",
+        "songKey": "Fixations Toward the Stars",
+        "songName": "Fixations Toward the Stars",
+        "songTitle": "",
+        "difficulty": [
+            3.5,
+            10.8,
+            14.5
+        ],
+        "illustrator": "AriaL [edited by Stelli]",
+        "charter": [
+            "Salt",
+            "OPENING/Level R",
+            "Salt"
+        ],
+        "composer": "Foodbot",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 102.0,
+        "previewTime": 127.0,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            }
+        ],
+        "fixedInteger2": 0
+    },
+    {
+        "songId": "valorstarcross.LundyvsWyvren",
+        "songKey": "valor/starcross",
+        "songName": "valor/starcross",
+        "songTitle": "",
+        "difficulty": [
+            6.5,
+            12.6,
+            15.6
+        ],
+        "illustrator": "AriaL & 57_dayo [edited by Stelli]",
+        "charter": [
+            "vacant/stupiggy",
+            "vacant/stupiggy",
+            "vesper/straycat"
+        ],
+        "composer": "Lundy vs. Wyvren",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 111.0999984741211,
+        "previewTime": 132.9499969482422,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            }
+        ],
+        "fixedInteger2": 0
+    },
+    {
+        "songId": "CometFeat符白牙.CNHKSS",
+        "songKey": "Comet",
+        "songName": "Comet",
+        "songTitle": "",
+        "difficulty": [
+            3.0,
+            10.5,
+            13.7
+        ],
+        "illustrator": "小黄鸡叽叽叽叽叽叽修复中",
+        "charter": [
+            "StaR-1",
+            "無彩色",
+            "Likey & Barbarianerman"
+        ],
+        "composer": "CNHKSS feat. 符白牙",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 77.5,
+        "previewTime": 89.0,
         "unlockList": [
             {
                 "unlockType": 0,
