@@ -6,11 +6,40 @@
         "chapterName": "Single",
         "songs": [
             {
-                "songId": "CometFeat符白牙.CNHKSS.0",
+                "songId": "KirakiraNoelStory.RekuMochizuki.0",
                 "fixedInteger1": 1,
                 "unlockCondition": [
                     "4",
-                    "prev@11/29/2024 17:00:00 +8:00"
+                    "prev@12/27/2024 17:00:00 +8:00"
+                ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "Devotion.Connexio.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [
+                    "4",
+                    "prev@12/27/2024 17:00:00 +8:00"
+                ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "白と黒のバケモノ.テヅカ.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [
+                    "4",
+                    "prev@12/27/2024 17:00:00 +8:00"
+                ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "CometFeat符白牙.CNHKSS.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [
+                    "4"
                 ],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
@@ -19,8 +48,7 @@
                 "songId": "valorstarcross.LundyvsWyvren.0",
                 "fixedInteger1": 1,
                 "unlockCondition": [
-                    "4",
-                    "prev@11/29/2024 17:00:00 +8:00"
+                    "4"
                 ],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
@@ -29,8 +57,7 @@
                 "songId": "FixationsTowardtheStars.Foodbot.0",
                 "fixedInteger1": 1,
                 "unlockCondition": [
-                    "4",
-                    "prev@11/29/2024 17:00:00 +8:00"
+                    "4"
                 ],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0

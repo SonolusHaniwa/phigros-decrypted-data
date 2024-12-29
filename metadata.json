@@ -15452,6 +15452,207 @@
         "fixedInteger2": 0
     },
     {
+        "songId": "白と黒のバケモノ.テヅカ",
+        "songKey": "白と黒のバケモノ",
+        "songName": "白と黒のバケモノ",
+        "songTitle": "",
+        "difficulty": [
+            4.0,
+            11.4,
+            15.7
+        ],
+        "illustrator": "久世",
+        "charter": [
+            "白",
+            "monochrome ILLUSION",
+            "Simon_Axis"
+        ],
+        "composer": "テヅカ",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 62.0,
+        "previewTime": 82.0,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            }
+        ],
+        "fixedInteger2": 0
+    },
+    {
+        "songId": "Devotion.Connexio",
+        "songKey": "Devotion",
+        "songName": "Devotion",
+        "songTitle": "",
+        "difficulty": [
+            4.5,
+            9.8,
+            13.9
+        ],
+        "illustrator": "Shimoruchiko",
+        "charter": [
+            "StupiGGy",
+            "StupiGGy",
+            "Salt"
+        ],
+        "composer": "Connexio",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 48.83599853515625,
+        "previewTime": 73.07499694824219,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            }
+        ],
+        "fixedInteger2": 0
+    },
+    {
+        "songId": "KirakiraNoelStory.RekuMochizuki",
+        "songKey": "Kirakira Noel Story!!",
+        "songName": "Kirakira Noel Story!!",
+        "songTitle": "",
+        "difficulty": [
+            4.0,
+            10.2,
+            14.2
+        ],
+        "illustrator": "ナナシ",
+        "charter": [
+            "村头村头 CTY Story!!",
+            "头鱼头鱼 MAX Story!!",
+            "N\\erry Xmas 2024"
+        ],
+        "composer": "Reku Mochizuki",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 86.0,
+        "previewTime": 108.0,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            }
+        ],
+        "fixedInteger2": 0
+    },
+    {
         "songId": "Poseidon.1112vsStar",
         "songKey": "Ποσειδών",
         "songName": "Ποσειδών",

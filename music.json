@@ -2594,6 +2594,41 @@
         "title" : "Comet"
     },
     {
+        "chapter" : "Single",
+        "charter" : [ "白", "monochrome ILLUSION", "Simon_Axis" ],
+        "composer" : "テヅカ",
+        "hasLegacy" : false,
+        "id" : 253,
+        "illustrator" : "久世",
+        "level" : [ 4.0, 11.4, 15.7 ],
+        "title" : "白と黒のバケモノ"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : [ "StupiGGy", "StupiGGy", "Salt" ],
+        "composer" : "Connexio",
+        "hasLegacy" : false,
+        "id" : 254,
+        "illustrator" : "Shimoruchiko",
+        "level" : [ 4.5, 9.8, 13.9 ],
+        "title" : "Devotion"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : 
+        [
+            "村头村头 CTY Story!!",
+            "头鱼头鱼 MAX Story!!",
+            "N\\erry Xmas 2024"
+        ],
+        "composer" : "Reku Mochizuki",
+        "hasLegacy" : false,
+        "id" : 255,
+        "illustrator" : "ナナシ",
+        "level" : [ 4.0, 10.2, 14.2 ],
+        "title" : "Kirakira Noel Story!!"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [
