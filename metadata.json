@@ -15653,6 +15653,140 @@
         "fixedInteger2": 0
     },
     {
+        "songId": "Shelter.MeatyRabbitNceS",
+        "songKey": "Shelter",
+        "songName": "Shelter",
+        "songTitle": "",
+        "difficulty": [
+            3.5,
+            9.3,
+            13.1
+        ],
+        "illustrator": "诡异童话",
+        "charter": [
+            "Cluttler with ShelteR",
+            "Cluttler with ShelteR",
+            "人外侵略地球计划"
+        ],
+        "composer": "MeatyRabbit & NceS",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 70.0,
+        "previewTime": 92.0,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            }
+        ],
+        "fixedInteger2": 0
+    },
+    {
+        "songId": "蝎虎天体Lacertid.CreamvsDaily天利",
+        "songKey": "蝎虎天体 -Lacertid-",
+        "songName": "蝎虎天体 -Lacertid-",
+        "songTitle": "",
+        "difficulty": [
+            4.5,
+            10.7,
+            15.5
+        ],
+        "illustrator": "白 & 小鹏xpeng",
+        "charter": [
+            "StR-1",
+            "StR-1",
+            "Ctymax vs. IUIsauce -村头烤鱼蘸凹酱-"
+        ],
+        "composer": "Cream vs. Daily天利",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "fixedInteger1": 94.0,
+        "previewTime": 112.0,
+        "unlockList": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            },
+            {
+                "n": [],
+                "m": []
+            }
+        ],
+        "fixedInteger2": 0
+    },
+    {
         "songId": "Poseidon.1112vsStar",
         "songKey": "Ποσειδών",
         "songName": "Ποσειδών",

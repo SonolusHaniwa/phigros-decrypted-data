@@ -6,59 +6,64 @@
         "chapterName": "Single",
         "songs": [
             {
-                "songId": "KirakiraNoelStory.RekuMochizuki.0",
+                "songId": "蝎虎天体Lacertid.CreamvsDaily天利.0",
                 "fixedInteger1": 1,
                 "unlockCondition": [
                     "4",
-                    "prev@12/27/2024 17:00:00 +8:00"
+                    "prev@01/17/2025 17:00:00 +8:00"
                 ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "Shelter.MeatyRabbitNceS.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [
+                    "4",
+                    "prev@01/17/2025 17:00:00 +8:00"
+                ],
+                "fixedInteger2": 0,
+                "fixedInteger3": 0
+            },
+            {
+                "songId": "KirakiraNoelStory.RekuMochizuki.0",
+                "fixedInteger1": 1,
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
             {
                 "songId": "Devotion.Connexio.0",
                 "fixedInteger1": 1,
-                "unlockCondition": [
-                    "4",
-                    "prev@12/27/2024 17:00:00 +8:00"
-                ],
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
             {
                 "songId": "白と黒のバケモノ.テヅカ.0",
                 "fixedInteger1": 1,
-                "unlockCondition": [
-                    "4",
-                    "prev@12/27/2024 17:00:00 +8:00"
-                ],
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
             {
                 "songId": "CometFeat符白牙.CNHKSS.0",
                 "fixedInteger1": 1,
-                "unlockCondition": [
-                    "4"
-                ],
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
             {
                 "songId": "valorstarcross.LundyvsWyvren.0",
                 "fixedInteger1": 1,
-                "unlockCondition": [
-                    "4"
-                ],
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },
             {
                 "songId": "FixationsTowardtheStars.Foodbot.0",
                 "fixedInteger1": 1,
-                "unlockCondition": [
-                    "4"
-                ],
+                "unlockCondition": [],
                 "fixedInteger2": 0,
                 "fixedInteger3": 0
             },

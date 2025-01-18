@@ -2629,6 +2629,31 @@
         "title" : "Kirakira Noel Story!!"
     },
     {
+        "chapter" : "Single",
+        "charter" : 
+        [
+            "Cluttler with ShelteR",
+            "Cluttler with ShelteR",
+            "人外侵略地球计划"
+        ],
+        "composer" : "MeatyRabbit & NceS",
+        "hasLegacy" : false,
+        "id" : 256,
+        "illustrator" : "诡异童话",
+        "level" : [ 3.5, 9.3, 13.1 ],
+        "title" : "Shelter"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : [ "StR-1", "StR-1", "Ctymax vs. IUIsauce -村头烤鱼蘸凹酱-" ],
+        "composer" : "Cream vs. Daily天利",
+        "hasLegacy" : false,
+        "id" : 257,
+        "illustrator" : "白 & 小鹏xpeng",
+        "level" : [ 4.5, 10.7, 15.5 ],
+        "title" : "蝎虎天体 -Lacertid-"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [
