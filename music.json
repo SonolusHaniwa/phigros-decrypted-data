@@ -2689,6 +2689,36 @@
         "title" : "ニライカナイ (NiraicA_nai Mix)"
     },
     {
+        "chapter" : "",
+        "charter" : [ "Helabot", "Helabot", "Swing Salt ?" ],
+        "composer" : "ミハイル",
+        "hasLegacy" : false,
+        "id" : 261,
+        "illustrator" : "ディン",
+        "level" : [ "4.5", "8.7", "15.5" ],
+        "title" : "Swing Skip Drop"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : [ "Helabot", "Helabot", "Swing Salt ♪" ],
+        "composer" : "ミハイル",
+        "hasLegacy" : false,
+        "id" : 261,
+        "illustrator" : "ディン",
+        "level" : [ "4.5", "9.1", "15.5" ],
+        "title" : "Swing Skip Drop"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : [ "不喜欢键的COC", "不喜欢线的COC", "～漂泊者～凹酱" ],
+        "composer" : "辻原一郎",
+        "hasLegacy" : false,
+        "id" : 262,
+        "illustrator" : "TOTOTO ",
+        "level" : [ "6.0", "10.2", "13.7" ],
+        "title" : "宇宙残骸少女（Cosmic Dusty Girl）"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [
