@@ -2074,7 +2074,7 @@
         "title" : "Bitterblossom"
     },
     {
-        "chapter" : "Single",
+        "chapter" : "EGTS",
         "charter" : 
         [
             "Clutter is coppery，Tumult is coppery",
@@ -2089,7 +2089,7 @@
         "title" : "Silence is Golden, Speech is Golden"
     },
     {
-        "chapter" : "Single",
+        "chapter" : "EGTS",
         "charter" : [ "Su1fuR", "Su1fuR", "逆天使の悪魔 【Likey】" ],
         "composer" : "DJ Raisei",
         "hasLegacy" : false,
@@ -2689,16 +2689,6 @@
         "title" : "ニライカナイ (NiraicA_nai Mix)"
     },
     {
-        "chapter" : "",
-        "charter" : [ "Helabot", "Helabot", "Swing Salt ?" ],
-        "composer" : "ミハイル",
-        "hasLegacy" : false,
-        "id" : 261,
-        "illustrator" : "ディン",
-        "level" : [ "4.5", "8.7", "15.5" ],
-        "title" : "Swing Skip Drop"
-    },
-    {
         "chapter" : "Single",
         "charter" : [ "Helabot", "Helabot", "Swing Salt ♪" ],
         "composer" : "ミハイル",
@@ -2713,10 +2703,61 @@
         "charter" : [ "不喜欢键的COC", "不喜欢线的COC", "～漂泊者～凹酱" ],
         "composer" : "辻原一郎",
         "hasLegacy" : false,
-        "id" : 262,
+        "id" : 263,
         "illustrator" : "TOTOTO ",
         "level" : [ "6.0", "10.2", "13.7" ],
-        "title" : "宇宙残骸少女（Cosmic Dusty Girl）"
+        "title" : "宇宙残骸少女 (Cosmic Dusty Girl)"
+    },
+    {
+        "chapter" : "EGTS",
+        "charter" : [ "Salt", "Salt", "Clutter vs. Salt" ],
+        "composer" : "Gomadare",
+        "hasLegacy" : false,
+        "id" : 264,
+        "illustrator" : "Transendium",
+        "level" : [ "3.0", "8.8", "14.5" ],
+        "title" : "Resolver"
+    },
+    {
+        "chapter" : "EGTS",
+        "charter" : [ "1uminous StaR", "1uminous StaR", "光る星" ],
+        "composer" : "NormalM feat. Usagi Denki",
+        "hasLegacy" : false,
+        "id" : 265,
+        "illustrator" : "Transendium",
+        "level" : [ "5.0", "10.9", "15.2" ],
+        "title" : "Luminous Entities Lost Heart"
+    },
+    {
+        "chapter" : "EGTS",
+        "charter" : 
+        [
+            "Likey underground",
+            "HD R.esolution",
+            "Sempiternal Fxxxxxx Resolution!"
+        ],
+        "composer" : "TAG",
+        "hasLegacy" : false,
+        "id" : 266,
+        "illustrator" : "Transendium",
+        "level" : [ "8.0", "13.4", "16.4" ],
+        "title" : "KIZUNA Resolution"
+    },
+    {
+        "chapter" : "EGTS",
+        "charter" : 
+        [
+            "Su1fuR",
+            "騎士 vs. Knight ",
+            "Executor-X",
+            "Apocalyptic Dissonance"
+        ],
+        "composer" : "Acute Disarray",
+        "hasLegacy" : false,
+        "id" : 267,
+        "illustrator" : "Kyuare & Wsx",
+        "level" : [ "6.5", "12.3", "16.2", "17.2" ],
+        "title" : "AbsoluTe disoRdeR"
     },
     {
         "chapter" : "Side story 1",
