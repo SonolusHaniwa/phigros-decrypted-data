@@ -2760,6 +2760,36 @@
         "title" : "AbsoluTe disoRdeR"
     },
     {
+        "chapter" : "Immaculée Sekai",
+        "charter" : [ "StupiGGy", "StupiGGy", "StrayCat" ],
+        "composer" : "RUQOA",
+        "hasLegacy" : false,
+        "id" : 268,
+        "illustrator" : "Sin:cK for Immaculée Sekai",
+        "level" : [ "3.5", "8.1", "13.3" ],
+        "title" : "Aphrodite's Child (short ver.)"
+    },
+    {
+        "chapter" : "Immaculée Sekai",
+        "charter" : [ "COC", "COC", "Nr3_Official" ],
+        "composer" : "polysha",
+        "hasLegacy" : false,
+        "id" : 269,
+        "illustrator" : "cala for Immaculée Sekai",
+        "level" : [ "5.0", "11.1", "15.6" ],
+        "title" : "DevIAtiOn (short ver.)"
+    },
+    {
+        "chapter" : "Immaculée Sekai",
+        "charter" : [ "Su1fuR", "IUIsauce", "StR-1" ],
+        "composer" : "Juggernaut.",
+        "hasLegacy" : false,
+        "id" : 270,
+        "illustrator" : "cala for Immaculée Sekai",
+        "level" : [ "4.5", "10.3", "16.1" ],
+        "title" : "NO x"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [
