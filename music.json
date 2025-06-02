@@ -2790,6 +2790,16 @@
         "title" : "NO x"
     },
     {
+        "chapter" : "Single",
+        "charter" : [ "XMT小咩兔", "XMT小咩兔", "□MT in a XXXXXXXX" ],
+        "composer" : "Nagiha",
+        "hasLegacy" : false,
+        "id" : 271,
+        "illustrator" : "神居冰绘 feat. 祈莲",
+        "level" : [ "5.0", "9.7", "15.7" ],
+        "title" : "Alice in a xxxxxxxx"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [
