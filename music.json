@@ -2800,6 +2800,42 @@
         "title" : "Alice in a xxxxxxxx"
     },
     {
+        "chapter" : "オンゲキ",
+        "charter" : [ "Su1fuR", "Rikko EXPERT Lv.40", "XMT小咩兔", "Яadiance" ],
+        "composer" : "Nhato",
+        "hasLegacy" : false,
+        "id" : 272,
+        "illustrator" : "SEGA (V17AMax modified)",
+        "level" : [ "3.5", "11.5", "14.0", "15.5" ],
+        "title" : "Radiance"
+    },
+    {
+        "chapter" : "オンゲキ",
+        "charter" : [ "Salt", "Salt", "Gausbon", "StupiGGy" ],
+        "composer" : "Masahiro “Godspeed” Aoki",
+        "hasLegacy" : false,
+        "id" : 273,
+        "illustrator" : "SEGA (V17AMax modified)",
+        "level" : [ "5.0", "10.8", "15.3", "16.7" ],
+        "title" : "Diamond Dust"
+    },
+    {
+        "chapter" : "オンゲキ",
+        "charter" : 
+        [
+            "Simon_Axis vs. Su1fuR",
+            "Su1fuR vs. Simon_Axis",
+            "曦枢 vs. 鎏光 -Lv.70 LEAF-",
+            "完璧 vs 癒株 -Autumn Memory-"
+        ],
+        "composer" : "kanone vs. BlackY",
+        "hasLegacy" : false,
+        "id" : 274,
+        "illustrator" : "SEGA (V17AMax modified)",
+        "level" : [ "6.0", "12.5", "16.5", "17.2" ],
+        "title" : "Stardust:RAY"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [
