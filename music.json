@@ -2846,6 +2846,21 @@
         "title" : "Frozen Heart"
     },
     {
+        "chapter" : "Single",
+        "charter" : 
+        [
+            "jeitie goes outside",
+            "jeitie touches grass",
+            "jeitie gets sent to the sun"
+        ],
+        "composer" : "NOA(Cortrix) & BotaNya",
+        "hasLegacy" : false,
+        "id" : 276,
+        "illustrator" : "Spectro",
+        "level" : [ "4.5", "9.2", "14.1" ],
+        "title" : "Helios"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [
