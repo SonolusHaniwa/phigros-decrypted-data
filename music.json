@@ -820,9 +820,9 @@
     {
         "chapter" : "Rising Sun Traxx",
         "charter" : [ "Another M3", "Another M3", "NerSAN" ],
-        "composer" : "D_AAN",
+        "composer" : "Neutral Moon",
         "hasLegacy" : false,
-        "id" : 125,
+        "id" : 70,
         "illustrator" : "IvyTowers",
         "level" : [ "5.5", "9.3", "13.6" ],
         "title" : "Another Me"
