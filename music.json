@@ -2927,6 +2927,46 @@
         "title" : "Retribution ~ Cycle of Redemption ~ "
     },
     {
+        "chapter" : "maimai",
+        "charter" : [ "XMT小咩兔", "XMT小咩兔", "弧光 With Opposition" ],
+        "composer" : "すりぃ×相沢",
+        "hasLegacy" : false,
+        "id" : 282,
+        "illustrator" : "SEGA (祈莲 modified)",
+        "level" : [ "3.5", "8.7", "14.1" ],
+        "title" : "アンビバレンス"
+    },
+    {
+        "chapter" : "maimai",
+        "charter" : [ "Helabot", "右果_Ary", "Likey" ],
+        "composer" : "雄之助 feat. Sennzai",
+        "hasLegacy" : false,
+        "id" : 283,
+        "illustrator" : "SEGA (祈莲 modified)",
+        "level" : [ "4.0", "9.6", "14.3" ],
+        "title" : "Komplexe"
+    },
+    {
+        "chapter" : "maimai",
+        "charter" : [ "Helabot", "Salt", "St2.1GHz -Før The Pigeons-", "ø" ],
+        "composer" : "rintaro soma",
+        "hasLegacy" : false,
+        "id" : 284,
+        "illustrator" : "SEGA (祈莲 modified)",
+        "level" : [ "7.5", "12.8", "15.8", "16.8" ],
+        "title" : "sølips"
+    },
+    {
+        "chapter" : "maimai",
+        "charter" : [ "-", "Rikko EXPERT Life:999", "Gausbon", "Salt feat. M3ow" ],
+        "composer" : "t+pazolite",
+        "hasLegacy" : false,
+        "id" : 285,
+        "illustrator" : "SEGA (祈莲 modified)",
+        "level" : [ "7.0", "13.3", "16.4", "17.4" ],
+        "title" : "QZKago Requiem"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [
