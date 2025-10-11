@@ -2967,6 +2967,26 @@
         "title" : "QZKago Requiem"
     },
     {
+        "chapter" : "Single",
+        "charter" : [ "Salt", "Salt", "Salt" ],
+        "composer" : "ShrimpCats. (はぁち×後藤涼輔)",
+        "hasLegacy" : false,
+        "id" : 286,
+        "illustrator" : "塩焼とまと",
+        "level" : [ "5.0", "9.5", "14.8" ],
+        "title" : "So laggy! (feat. Uzumaki)"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : [ "Magazet", "Magazet", "啊0哒0咔0哟 & Dilated" ],
+        "composer" : "Yumeji",
+        "hasLegacy" : false,
+        "id" : 287,
+        "illustrator" : "NerSAN",
+        "level" : [ "2.5", "8.4", "14.4" ],
+        "title" : "000 -Ain Soph Aur-"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [
