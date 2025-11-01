@@ -2987,6 +2987,52 @@
         "title" : "000 -Ain Soph Aur-"
     },
     {
+        "chapter" : "Liminality",
+        "charter" : [ "Su1fuR", "professional Rikko", "Su1fuRikko" ],
+        "composer" : "Acotto",
+        "hasLegacy" : false,
+        "id" : 288,
+        "illustrator" : "クルス (Ctymax modified)",
+        "level" : [ "2.5", "9.8", "14.8" ],
+        "title" : "Xep+ion"
+    },
+    {
+        "chapter" : "Liminality",
+        "charter" : [ "Rft.", "Rft.", "Rft." ],
+        "composer" : "Se_IRA",
+        "hasLegacy" : false,
+        "id" : 289,
+        "illustrator" : "n/a (Ctymax modified)",
+        "level" : [ "4.0", "10.0", "15.6" ],
+        "title" : "Archidoxen"
+    },
+    {
+        "chapter" : "Liminality",
+        "charter" : [ "Magazet", "Magazet", "～Algax vs. RipHall～" ],
+        "composer" : "Salad Savior",
+        "hasLegacy" : false,
+        "id" : 290,
+        "illustrator" : "軽目くお (Ctymax modified)",
+        "level" : [ "4.5", "10.1", "15.8" ],
+        "title" : "百鬼֎夜行"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : 
+        [
+            "adky",
+            "adky",
+            "Salt & Uvernight",
+            "魔王、大咩兔の兄 『大咩免』!!"
+        ],
+        "composer" : "Dew Pleiades",
+        "hasLegacy" : false,
+        "id" : 291,
+        "illustrator" : "Rutumn feat. 汉堡",
+        "level" : [ "5.0", "10.2", "16.0", "16.9" ],
+        "title" : "BANGING STRIKE"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [
