@@ -2826,7 +2826,7 @@
             "Simon_Axis vs. Su1fuR",
             "Su1fuR vs. Simon_Axis",
             "曦枢 vs. 鎏光 -Lv.70 LEAF-",
-            "完璧 vs 癒株 -Autumn Memory-"
+            "完璧 vs. 癒株 -Autumn Memory-"
         ],
         "composer" : "kanone vs. BlackY",
         "hasLegacy" : false,
@@ -3081,6 +3081,41 @@
         "illustrator" : "Otaku_宅",
         "level" : [ "3.0", "9.7", "13.7" ],
         "title" : "Locomotive"
+    },
+    {
+        "chapter" : "CYTUS II",
+        "charter" : [ "Likey", "Ary", "Ary" ],
+        "composer" : "Avans",
+        "hasLegacy" : false,
+        "id" : 297,
+        "illustrator" : "©2026 Rayark Inc. CYTUS II®",
+        "level" : [ "3.5", "8.9", "14.7" ],
+        "title" : "Alb"
+    },
+    {
+        "chapter" : "CYTUS II",
+        "charter" : 
+        [
+            "【梦之起始】爬爬 vs. 盐",
+            "E00200",
+            "Magazet wanders within StR-1"
+        ],
+        "composer" : "YbeLL",
+        "hasLegacy" : false,
+        "id" : 298,
+        "illustrator" : "©2026 Rayark Inc. CYTUS II®",
+        "level" : [ "7.0", "12.1", "16.2" ],
+        "title" : "Incyde"
+    },
+    {
+        "chapter" : "CYTUS II",
+        "charter" : [ "爬爬", "凛", "OPCII_0584_X" ],
+        "composer" : "MisoilePunch♪",
+        "hasLegacy" : false,
+        "id" : 299,
+        "illustrator" : "©2026 Rayark Inc. CYTUS II®",
+        "level" : [ "6.0", "12.5", "16.4" ],
+        "title" : "彩"
     },
     {
         "chapter" : "Side story 1",
