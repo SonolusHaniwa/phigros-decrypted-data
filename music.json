@@ -2953,7 +2953,7 @@
         "hasLegacy" : false,
         "id" : 284,
         "illustrator" : "SEGA (祈莲 modified)",
-        "level" : [ "6.0", "12.8", "16.0", "16.8" ],
+        "level" : [ "7.5", "12.8", "16.0", "16.8" ],
         "title" : "sølips"
     },
     {
@@ -2963,7 +2963,7 @@
         "hasLegacy" : false,
         "id" : 285,
         "illustrator" : "SEGA (祈莲 modified)",
-        "level" : [ "7.5", "13.3", "16.3", "17.4" ],
+        "level" : [ "7.0", "13.3", "16.3", "17.4" ],
         "title" : "QZKago Requiem"
     },
     {
@@ -3104,7 +3104,7 @@
         "hasLegacy" : false,
         "id" : 298,
         "illustrator" : "©2026 Rayark Inc. CYTUS II®",
-        "level" : [ "6.0", "12.5", "16.4" ],
+        "level" : [ "7.0", "12.1", "16.2" ],
         "title" : "Incyde"
     },
     {
@@ -3114,7 +3114,7 @@
         "hasLegacy" : false,
         "id" : 299,
         "illustrator" : "©2026 Rayark Inc. CYTUS II®",
-        "level" : [ "7.0", "12.1", "16.2" ],
+        "level" : [ "6.0", "12.5", "16.4" ],
         "title" : "彩"
     },
     {
@@ -3141,6 +3141,26 @@
         "illustrator" : "kkmfd",
         "level" : [ "4.0", "9.8", "14.7" ],
         "title" : "ABYSS MOTION 192.333"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : [ "Skuwo", "Skuwo", "Skuwo" ],
+        "composer" : "XinG",
+        "hasLegacy" : false,
+        "id" : 302,
+        "illustrator" : "Ots-15",
+        "level" : [ "6.5", "12.7", "14.9" ],
+        "title" : "Xenophobia"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : [ "Magazet", "Magazet", "Salt" ],
+        "composer" : "Raimukun",
+        "hasLegacy" : false,
+        "id" : 303,
+        "illustrator" : "AiLANE",
+        "level" : [ "7.0", "12.6", "16.5" ],
+        "title" : "Verrückt"
     },
     {
         "chapter" : "Side story 1",
