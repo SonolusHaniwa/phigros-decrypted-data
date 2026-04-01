@@ -3163,6 +3163,16 @@
         "title" : "Verrückt"
     },
     {
+        "chapter" : "Single",
+        "charter" : [ "After CHARTER", "After CHARTER", "After CHARTERS" ],
+        "composer" : "Daily天利",
+        "hasLegacy" : false,
+        "id" : 304,
+        "illustrator" : "Nakaiankow feat. Daily天利",
+        "level" : [ "5.0", "10.2", "15.6" ],
+        "title" : "After ZABANIYA (MUG Edit)"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [
