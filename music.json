@@ -3199,84 +3199,24 @@
         "title" : "玩具狂奏曲 -終焉-"
     },
     {
-        "chapter" : "",
-        "charter" : [ "1", "1", "1" ],
-        "composer" : "Kry.exe",
-        "hasLegacy" : false,
-        "id" : 307,
-        "illustrator" : "PEZZ",
-        "level" : [ "1.0", "1.0", "1.0" ],
-        "title" : "Gungnir Fracture"
-    },
-    {
-        "chapter" : "",
-        "charter" : [ "1", "1", "1" ],
-        "composer" : "かたぎり",
-        "hasLegacy" : false,
-        "id" : 308,
-        "illustrator" : "青鸟",
-        "level" : [ "1.0", "1.0", "1.0" ],
-        "title" : "70 Minutes Fighters"
-    },
-    {
-        "chapter" : "",
-        "charter" : [ "1", "1", "1" ],
+        "chapter" : "Single",
+        "charter" : [ "Akko", "爬爬", "The Waltz of Snow" ],
         "composer" : "悠叶いのり",
         "hasLegacy" : false,
         "id" : 309,
-        "illustrator" : "Rallxkurara",
-        "level" : [ "1.0", "1.0", "1.0" ],
+        "illustrator" : "群青kurara",
+        "level" : [ "4.0", "8.3", "12.4" ],
         "title" : "Snow Dance"
     },
     {
-        "chapter" : "",
-        "charter" : [ "1", "1", "1" ],
+        "chapter" : "Single",
+        "charter" : [ "Magazet", "Magazet", "StR☆1" ],
         "composer" : "Nekock·LK",
         "hasLegacy" : false,
         "id" : 310,
         "illustrator" : "鲸弑",
-        "level" : [ "1.0", "1.0", "1.0" ],
+        "level" : [ "2.0", "7.5", "13.0" ],
         "title" : "亂★舞"
-    },
-    {
-        "chapter" : "",
-        "charter" : [ "1", "1", "1", "1" ],
-        "composer" : "proxime()",
-        "hasLegacy" : false,
-        "id" : 311,
-        "illustrator" : "57_dayo [edited by Stelli]",
-        "level" : [ "1.0", "1.0", "1.0", "1.0" ],
-        "title" : "STARGAZERS"
-    },
-    {
-        "chapter" : "",
-        "charter" : [ "1", "1", "1" ],
-        "composer" : "brz1128 feat. しろさきあや",
-        "hasLegacy" : false,
-        "id" : 312,
-        "illustrator" : "翠冷兮",
-        "level" : [ "1.0", "1.0", "1.0" ],
-        "title" : "Miracle Summertime"
-    },
-    {
-        "chapter" : "",
-        "charter" : [ "1", "1", "1" ],
-        "composer" : "Knighthood",
-        "hasLegacy" : false,
-        "id" : 313,
-        "illustrator" : "2AI4wU4",
-        "level" : [ "1.0", "1.0", "1.0" ],
-        "title" : "[NWAD]"
-    },
-    {
-        "chapter" : "",
-        "charter" : [ "1", "1", "1" ],
-        "composer" : "NAMV",
-        "hasLegacy" : false,
-        "id" : 314,
-        "illustrator" : "わせ (Ctymax modified)",
-        "level" : [ "1.0", "1.0", "1.0" ],
-        "title" : "Devastating History"
     },
     {
         "chapter" : "Side story 1",
