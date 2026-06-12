@@ -3219,6 +3219,26 @@
         "title" : "亂★舞"
     },
     {
+        "chapter" : "Single",
+        "charter" : [ "--The Last of Barbarianerman--", "Su2023fuR", "Salt" ],
+        "composer" : "Riya",
+        "hasLegacy" : false,
+        "id" : 311,
+        "illustrator" : "神居冰绘",
+        "level" : [ "5.0", "11.0", "15.6" ],
+        "title" : "Cleyera"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : [ "ADKY", "ADKY", "XMT小咩兔 >w<" ],
+        "composer" : "かたぎり",
+        "hasLegacy" : false,
+        "id" : 312,
+        "illustrator" : "青鸟",
+        "level" : [ "7.5", "12.5", "16.5" ],
+        "title" : "70 Minutes Fighters"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [
