@@ -3239,6 +3239,42 @@
         "title" : "70 Minutes Fighters"
     },
     {
+        "chapter" : "Single",
+        "charter" : [ "Salt", "Akko", "「Barbarianerman AKA. Alloces」Revive" ],
+        "composer" : "Kry.exe",
+        "hasLegacy" : false,
+        "id" : 313,
+        "illustrator" : "PEZZ",
+        "level" : [ "6.0", "11.5", "16.6" ],
+        "title" : "Gungnir Fracture"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : [ "初の赤る澪に", "初の赤る澪に", "浪の降る日に" ],
+        "composer" : "seatrus",
+        "hasLegacy" : false,
+        "id" : 314,
+        "illustrator" : "翠冷兮",
+        "level" : [ "2.5", "9.8", "16.6" ],
+        "title" : "夢の降る日に"
+    },
+    {
+        "chapter" : "Single",
+        "charter" : 
+        [
+            "Der Mut und der Richter",
+            "Der Mut und der Richter",
+            "Der Mut und der Richter",
+            "Gegenmacht der Lords"
+        ],
+        "composer" : "Ωμεγα",
+        "hasLegacy" : false,
+        "id" : 315,
+        "illustrator" : "群青kurara feat. 祈莲 & 夏宇Detristy",
+        "level" : [ "7.0", "11.9", "16.1", "17.5" ],
+        "title" : "Der Schneid"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [
