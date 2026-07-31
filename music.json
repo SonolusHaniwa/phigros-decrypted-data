@@ -3275,6 +3275,16 @@
         "title" : "Der Schneid"
     },
     {
+        "chapter" : "Single",
+        "charter" : [ "华星秋月", "帷畔托星", "灵琶弄月" ],
+        "composer" : "S9ryne",
+        "hasLegacy" : false,
+        "id" : 316,
+        "illustrator" : "青鸟",
+        "level" : [ "4.0", "9.0", "15.5" ],
+        "title" : "星拂云锦 feat. koi"
+    },
+    {
         "chapter" : "Side story 1",
         "charter" : 
         [
